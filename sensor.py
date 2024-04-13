@@ -9,6 +9,8 @@ from __future__ import print_function  # Requires: Python >= 2.6
 
 import sys
 
+from ipfix.ipfix import capture_ipfix
+
 sys.dont_write_bytecode = True
 
 import cProfile
@@ -921,8 +923,7 @@ def init():
 
     update_timer()
 
-    if not config.DISABLE_CHECK_SUDO and check_sudo() is False:
-        sys.exit("[!] please run '%s' with root privileges" % __file__)
+
 
     if config.plugins:
         config.plugin_functions = []
@@ -1185,7 +1186,12 @@ def monitor():
                 if not success:
                     time.sleep(REGULAR_SENSOR_SLEEP_TIME)
 
-        if config.profile and len(_caps) == 1:
+        if config.ipfix:
+            try:
+                capture_ipfix()
+            except Exception as e:
+                print(e)
+        elif config.profile and len(_caps) == 1:
             print("[=] will store profiling results to '%s'..." % config.profile)
             _(_caps[0])
         else:
@@ -1252,6 +1258,7 @@ def main():
     parser.add_option("--offline", dest="offline", action="store_true", help="disable (online) trail updates")
     parser.add_option("--debug", dest="debug", action="store_true", help=optparse.SUPPRESS_HELP)
     parser.add_option("--profile", dest="profile", help=optparse.SUPPRESS_HELP)
+    parser.add_option("--ipfix", dest="ipfix", action="store_true", help="listen ipfix instead if pcap")
 
     patch_parser(parser)
 
@@ -1269,7 +1276,7 @@ def main():
         config.console = True
         config.PROCESS_COUNT = 1
         config.SHOW_DEBUG = True
-
+    config.DISABLE_CHECK_SUDO = True
     if options.pcap_file:
         if options.pcap_file == '-':
             print("[i] using STDIN")
@@ -1282,6 +1289,9 @@ def main():
 
     if not config.DISABLE_CHECK_SUDO and not check_sudo():
         sys.exit("[!] please run '%s' with root privileges" % __file__)
+
+    if config.ipfix:
+        print("[i] using IPFIX, listening on port 18001")
 
     try:
         init()
