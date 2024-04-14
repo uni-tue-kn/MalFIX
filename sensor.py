@@ -277,7 +277,7 @@ def _process_packet(packet, sec, usec, ip_offset):
     """
     Processes single (raw) IP layer data
     """
-    print("Processing")
+
     global _connect_sec
     global _last_syn
     global _last_logged_syn
@@ -923,7 +923,8 @@ def init():
 
     update_timer()
 
-
+    if not config.DISABLE_CHECK_SUDO and check_sudo() is False:
+        sys.exit("[!] please run '%s' with root privileges" % __file__)
 
     if config.plugins:
         config.plugin_functions = []
@@ -1276,7 +1277,7 @@ def main():
         config.console = True
         config.PROCESS_COUNT = 1
         config.SHOW_DEBUG = True
-    config.DISABLE_CHECK_SUDO = True
+
     if options.pcap_file:
         if options.pcap_file == '-':
             print("[i] using STDIN")
