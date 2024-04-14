@@ -277,7 +277,7 @@ def _process_packet(packet, sec, usec, ip_offset):
     """
     Processes single (raw) IP layer data
     """
-
+    print("Processing")
     global _connect_sec
     global _last_syn
     global _last_logged_syn
@@ -1188,7 +1188,7 @@ def monitor():
 
         if config.ipfix:
             try:
-                capture_ipfix()
+                capture_ipfix(_process_packet)
             except Exception as e:
                 print(e)
         elif config.profile and len(_caps) == 1:
