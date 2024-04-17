@@ -6,17 +6,13 @@ import time
 import pyfixbuf
 # If using the CERT information elements
 import pyfixbuf.cert
-
-from scapy.compat import raw
-from scapy.layers.dns import DNS, DNSQR
-from scapy.layers.inet import IP, UDP
-from scapy.layers.inet6 import IPv6
 from core.settings import config
+from ipfix.ipfix_to_ip import ipfix_to_ip
 
 global_listener: Optional[pyfixbuf.Listener] = None
 global_export_rec: Optional[pyfixbuf.Record] = None
 
-print_debug = False
+print_debug = True
 
 
 # def _process_packet(packet, sec, usec, ip_offset) -> None:
@@ -35,8 +31,14 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
         pyfixbuf.InfoElementSpec("destinationIPv4Address"),
         pyfixbuf.InfoElementSpec("sourceIPv6Address"),
         pyfixbuf.InfoElementSpec("destinationIPv6Address"),
+
         pyfixbuf.InfoElementSpec("sourceTransportPort"),
         pyfixbuf.InfoElementSpec("destinationTransportPort"),
+
+        pyfixbuf.InfoElementSpec("icmpTypeIPv4"),
+        pyfixbuf.InfoElementSpec("icmpCodeIPv4"),
+
+        pyfixbuf.InfoElementSpec("protocolIdentifier"),
         pyfixbuf.InfoElementSpec("silkAppLabel"),
     ]
 
@@ -45,9 +47,13 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
         pyfixbuf.InfoElementSpec("destinationIPv4Address"),
         pyfixbuf.InfoElementSpec("sourceIPv6Address"),
         pyfixbuf.InfoElementSpec("destinationIPv6Address"),
+
         pyfixbuf.InfoElementSpec("sourceTransportPort"),
         pyfixbuf.InfoElementSpec("destinationTransportPort"),
+
+        pyfixbuf.InfoElementSpec("protocolIdentifier"),
         pyfixbuf.InfoElementSpec("silkAppLabel"),
+
         pyfixbuf.InfoElementSpec("maltrail")
     ]
 
@@ -107,19 +113,6 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
         if packet_num % 20 == 0:
             export_session.export_templates()
         packet_num += 1
-
-
-def ipfix_to_ip(data):
-    src_ip: IPv4Address = data["sourceIPv4Address"]
-    dst_ip: IPv4Address = data["destinationIPv4Address"]
-    src_ip6: IPv6Address = data["sourceIPv6Address"]
-    dst_ip6: IPv6Address = data["destinationIPv6Address"]
-    packet = (IPv6(dst=dst_ip6, src=src_ip6) if str(src_ip) == "0.0.0.0" and str(dst_ip) == "0.0.0.0" else IP(
-        dst=dst_ip,
-        src=src_ip))
-    if print_debug:
-        print(packet)
-    return raw(packet)
 
 
 def write_maltrail_info_to_current_record(info: str):
