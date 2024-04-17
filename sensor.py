@@ -923,7 +923,7 @@ def init():
 
     update_timer()
 
-    if not config.DISABLE_CHECK_SUDO and check_sudo() is False:
+    if not config.DISABLE_CHECK_SUDO and check_sudo() is False and not config.ipfix:
         sys.exit("[!] please run '%s' with root privileges" % __file__)
 
     if config.plugins:
@@ -970,7 +970,7 @@ def init():
     if config.pcap_file:
         for _ in config.pcap_file.split(','):
             _caps.append(pcapy.open_offline(_))
-    else:
+    elif not config.ipfix:
         interfaces = set(_.strip() for _ in config.MONITOR_INTERFACE.split(','))
 
         try:
@@ -1016,7 +1016,7 @@ def init():
         except re.error:
             sys.exit("[!] invalid configuration value for 'REMOTE_SEVERITY_REGEX' ('%s')" % config.REMOTE_SEVERITY_REGEX)
 
-    if config.CAPTURE_FILTER:
+    if config.CAPTURE_FILTER and not config.ipfix:
         print("[i] setting capture filter '%s'" % config.CAPTURE_FILTER)
         for _cap in _caps:
             try:
@@ -1260,6 +1260,10 @@ def main():
     parser.add_option("--debug", dest="debug", action="store_true", help=optparse.SUPPRESS_HELP)
     parser.add_option("--profile", dest="profile", help=optparse.SUPPRESS_HELP)
     parser.add_option("--ipfix", dest="ipfix", action="store_true", help="listen ipfix instead if pcap")
+    parser.add_option("--ipfix_listen_port", dest="ipfix_listen_port", default="18001", help="set port to listen on")
+    parser.add_option("--ipfix_export_port", dest="ipfix_export_port", default="9999",  help="set port to export")
+    parser.add_option("--ipfix_listen_protocol", dest="ipfix_listen_protocol", default="tcp", help="set protocol for listen")
+    parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
 
     patch_parser(parser)
 
@@ -1288,11 +1292,12 @@ def main():
 
             print("[i] using pcap file(s) '%s'" % options.pcap_file)
 
-    if not config.DISABLE_CHECK_SUDO and not check_sudo():
+    if not config.DISABLE_CHECK_SUDO and not check_sudo() and not config.ipfix:
         sys.exit("[!] please run '%s' with root privileges" % __file__)
 
     if config.ipfix:
-        print("[i] using IPFIX, listening on port 18001")
+        print("[i] using IPFIX, listening on port " + config.ipfix_listen_port + "/" + config.ipfix_listen_protocol)
+        print("[i] using IPFIX, exporting on port " + config.ipfix_export_port + "/" + config.ipfix_listen_protocol)
 
     try:
         init()

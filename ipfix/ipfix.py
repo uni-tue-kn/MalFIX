@@ -11,12 +11,15 @@ from scapy.compat import raw
 from scapy.layers.dns import DNS, DNSQR
 from scapy.layers.inet import IP, UDP
 from scapy.layers.inet6 import IPv6
+from core.settings import config
 
 global_listener: Optional[pyfixbuf.Listener] = None
 global_export_rec: Optional[pyfixbuf.Record] = None
 
+print_debug = False
 
-# def _process_packet(packet, sec, usec, ip_offset) -> Optional[string]:
+
+# def _process_packet(packet, sec, usec, ip_offset) -> None:
 def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
     global global_listener, global_export_rec
 
@@ -61,14 +64,14 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
     export_rec = pyfixbuf.Record(infomodel, export_template)
     global_export_rec = export_rec
 
-    listener = pyfixbuf.Listener(import_session, "localhost", "tcp", "18001")
+    listener = pyfixbuf.Listener(import_session, "localhost", config.ipfix_listen_protocol, config.ipfix_listen_port)
     global_listener = listener
     import_buffer = listener.wait()
     import_buffer.set_record(import_rec)
     import_buffer.set_internal_template(import_template_id)
 
     exporter = pyfixbuf.Exporter()
-    exporter.init_net("localhost", "udp", "9999")
+    exporter.init_net("localhost", config.ipfix_export_protocol, config.ipfix_export_port)
 
     export_buffer = pyfixbuf.Buffer(export_rec)
     export_buffer.init_export(export_session, exporter)
@@ -88,18 +91,19 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
                 import_buffer.set_internal_template(import_template_id)
                 continue
 
-        print("Packet: " + str(packet_num))
+        if print_debug:
+            print("Packet: " + str(packet_num))
         export_rec.copy(import_rec)
         sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
         process_packet(ipfix_to_ip(data), sec, usec, 0)
         export_buffer.append(export_rec)
         export_rec.clear()
 
-        for field in data.iterfields():
-            print(str(field.name) + ":" + str(field.value))
-        print("-------------------------------------------\n\n")
-
-        print("\n")
+        if print_debug:
+            for field in data.iterfields():
+                print(str(field.name) + ":" + str(field.value))
+            print("-------------------------------------------\n\n")
+            print("\n")
         if packet_num % 20 == 0:
             export_session.export_templates()
         packet_num += 1
@@ -113,14 +117,16 @@ def ipfix_to_ip(data):
     packet = (IPv6(dst=dst_ip6, src=src_ip6) if str(src_ip) == "0.0.0.0" and str(dst_ip) == "0.0.0.0" else IP(
         dst=dst_ip,
         src=src_ip))
-    print(packet)
+    if print_debug:
+        print(packet)
     return raw(packet)
 
 
 def write_maltrail_info_to_current_record(info: str):
     global global_export_rec
     if global_export_rec is not None:
-        print("Written " + info + " to record!")
+        if print_debug:
+            print("Written " + info + " to record!")
         global_export_rec["maltrail"] = info
 
 
