@@ -1264,6 +1264,8 @@ def main():
     parser.add_option("--ipfix_export_port", dest="ipfix_export_port", default="9999",  help="set port to export")
     parser.add_option("--ipfix_listen_protocol", dest="ipfix_listen_protocol", default="tcp", help="set protocol for listen")
     parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
+    parser.add_option("--ipfix_export_host", dest="ipfix_export_host", default="localhost",  help="set host for export")
+
 
     patch_parser(parser)
 
@@ -1296,8 +1298,11 @@ def main():
         sys.exit("[!] please run '%s' with root privileges" % __file__)
 
     if config.ipfix:
-        print("[i] using IPFIX, listening on port " + config.ipfix_listen_port + "/" + config.ipfix_listen_protocol)
-        print("[i] using IPFIX, exporting on port " + config.ipfix_export_port + "/" + config.ipfix_listen_protocol)
+        print("[i] using IPFIX, listening on 0.0.0.0:" + config.ipfix_listen_port + "/" + config.ipfix_listen_protocol)
+        print("[i] using IPFIX, exporting on " +
+              config.ipfix_export_host + ":" +
+              config.ipfix_export_port + "/" +
+              config.ipfix_listen_protocol)
 
     try:
         init()

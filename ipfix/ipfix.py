@@ -70,14 +70,14 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
     export_rec = pyfixbuf.Record(infomodel, export_template)
     global_export_rec = export_rec
 
-    listener = pyfixbuf.Listener(import_session, "localhost", config.ipfix_listen_protocol, config.ipfix_listen_port)
+    listener = pyfixbuf.Listener(import_session, "0.0.0.0", config.ipfix_listen_protocol, config.ipfix_listen_port)
     global_listener = listener
     import_buffer = listener.wait()
     import_buffer.set_record(import_rec)
     import_buffer.set_internal_template(import_template_id)
 
     exporter = pyfixbuf.Exporter()
-    exporter.init_net("localhost", config.ipfix_export_protocol, config.ipfix_export_port)
+    exporter.init_net(config.ipfix_export_host, config.ipfix_export_protocol, config.ipfix_export_port)
 
     export_buffer = pyfixbuf.Buffer(export_rec)
     export_buffer.init_export(export_session, exporter)
