@@ -40,6 +40,9 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
 
         pyfixbuf.InfoElementSpec("protocolIdentifier"),
         pyfixbuf.InfoElementSpec("silkAppLabel"),
+
+        pyfixbuf.InfoElementSpec("packetTotalCount"),
+        pyfixbuf.InfoElementSpec("octetTotalCount")
     ]
 
     relevant_export_elements = [
@@ -54,7 +57,10 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
         pyfixbuf.InfoElementSpec("protocolIdentifier"),
         pyfixbuf.InfoElementSpec("silkAppLabel"),
 
-        pyfixbuf.InfoElementSpec("maltrail")
+        pyfixbuf.InfoElementSpec("maltrail"),
+
+        pyfixbuf.InfoElementSpec("packetTotalCount"),
+        pyfixbuf.InfoElementSpec("octetTotalCount")
     ]
 
     import_template.add_spec_list(relevant_import_elements)
