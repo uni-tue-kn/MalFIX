@@ -21,7 +21,7 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
 
     infomodel = pyfixbuf.InfoModel()
     pyfixbuf.cert.add_elements_to_model(infomodel)
-    infomodel.add_element(pyfixbuf.InfoElement('maltrail', 1337, 1, type=pyfixbuf.DataType.STRING))
+    infomodel.add_element(pyfixbuf.InfoElement('maltrail', 420, 1, type=pyfixbuf.DataType.STRING))
 
     import_template = pyfixbuf.Template(infomodel)
     export_template = pyfixbuf.Template(infomodel)
