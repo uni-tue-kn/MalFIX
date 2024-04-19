@@ -42,7 +42,14 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
         pyfixbuf.InfoElementSpec("silkAppLabel"),
 
         pyfixbuf.InfoElementSpec("packetTotalCount"),
-        pyfixbuf.InfoElementSpec("octetTotalCount")
+        pyfixbuf.InfoElementSpec("octetTotalCount"),
+        pyfixbuf.InfoElementSpec("reversePacketTotalCount"),
+        pyfixbuf.InfoElementSpec("reverseOctetTotalCount"),
+
+        pyfixbuf.InfoElementSpec("packetDeltaCount"),
+        pyfixbuf.InfoElementSpec("octetDeltaCount"),
+        pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
+        pyfixbuf.InfoElementSpec("reverseOctetDeltaCount")
     ]
 
     relevant_export_elements = [
@@ -60,7 +67,14 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
         pyfixbuf.InfoElementSpec("maltrail"),
 
         pyfixbuf.InfoElementSpec("packetTotalCount"),
-        pyfixbuf.InfoElementSpec("octetTotalCount")
+        pyfixbuf.InfoElementSpec("octetTotalCount"),
+        pyfixbuf.InfoElementSpec("reversePacketTotalCount"),
+        pyfixbuf.InfoElementSpec("reverseOctetTotalCount"),
+
+        pyfixbuf.InfoElementSpec("packetDeltaCount"),
+        pyfixbuf.InfoElementSpec("octetDeltaCount"),
+        pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
+        pyfixbuf.InfoElementSpec("reverseOctetDeltaCount")
     ]
 
     import_template.add_spec_list(relevant_import_elements)
