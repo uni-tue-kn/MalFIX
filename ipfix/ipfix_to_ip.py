@@ -1,11 +1,12 @@
 from ipaddress import IPv4Address, IPv6Address
 from numbers import Number
+
 from scapy.compat import raw
 from scapy.layers.inet import ICMP, TCP, UDP, IP
 from scapy.layers.inet6 import IPv6
 
-print_debug = True
 yaf = True
+print_debug = False
 
 
 def ipfix_to_ip(data):

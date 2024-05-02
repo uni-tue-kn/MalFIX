@@ -1,18 +1,20 @@
 # Import pyfixbuf
-from ipaddress import IPv4Address, IPv6Address
+import time
 from typing import Optional, Callable
 
-import time
 import pyfixbuf
 # If using the CERT information elements
 import pyfixbuf.cert
+
 from core.settings import config
 from ipfix.ipfix_to_ip import ipfix_to_ip
+from ipfix.relevant_information_elements import relevant_import_elements, relevant_export_elements
+from ipfix.yaf_dns import extract_dns_info
 
 global_listener: Optional[pyfixbuf.Listener] = None
 global_export_rec: Optional[pyfixbuf.Record] = None
 
-print_debug = True
+print_debug = False
 
 
 # def _process_packet(packet, sec, usec, ip_offset) -> None:
@@ -22,60 +24,11 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
     infomodel = pyfixbuf.InfoModel()
     pyfixbuf.cert.add_elements_to_model(infomodel)
     infomodel.add_element(pyfixbuf.InfoElement('maltrail', 420, 1, type=pyfixbuf.DataType.STRING))
+    infomodel.add_element(pyfixbuf.InfoElement('dnsName', 420, 2, type=pyfixbuf.DataType.STRING))
+    infomodel.add_element(pyfixbuf.InfoElement('dnsType', 420, 3, type=pyfixbuf.DataType.UINT8))
 
     import_template = pyfixbuf.Template(infomodel)
     export_template = pyfixbuf.Template(infomodel)
-
-    relevant_import_elements = [
-        pyfixbuf.InfoElementSpec("sourceIPv4Address"),
-        pyfixbuf.InfoElementSpec("destinationIPv4Address"),
-        pyfixbuf.InfoElementSpec("sourceIPv6Address"),
-        pyfixbuf.InfoElementSpec("destinationIPv6Address"),
-
-        pyfixbuf.InfoElementSpec("sourceTransportPort"),
-        pyfixbuf.InfoElementSpec("destinationTransportPort"),
-
-        pyfixbuf.InfoElementSpec("icmpTypeIPv4"),
-        pyfixbuf.InfoElementSpec("icmpCodeIPv4"),
-
-        pyfixbuf.InfoElementSpec("protocolIdentifier"),
-        pyfixbuf.InfoElementSpec("silkAppLabel"),
-
-        pyfixbuf.InfoElementSpec("packetTotalCount"),
-        pyfixbuf.InfoElementSpec("octetTotalCount"),
-        pyfixbuf.InfoElementSpec("reversePacketTotalCount"),
-        pyfixbuf.InfoElementSpec("reverseOctetTotalCount"),
-
-        pyfixbuf.InfoElementSpec("packetDeltaCount"),
-        pyfixbuf.InfoElementSpec("octetDeltaCount"),
-        pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
-        pyfixbuf.InfoElementSpec("reverseOctetDeltaCount")
-    ]
-
-    relevant_export_elements = [
-        pyfixbuf.InfoElementSpec("sourceIPv4Address"),
-        pyfixbuf.InfoElementSpec("destinationIPv4Address"),
-        pyfixbuf.InfoElementSpec("sourceIPv6Address"),
-        pyfixbuf.InfoElementSpec("destinationIPv6Address"),
-
-        pyfixbuf.InfoElementSpec("sourceTransportPort"),
-        pyfixbuf.InfoElementSpec("destinationTransportPort"),
-
-        pyfixbuf.InfoElementSpec("protocolIdentifier"),
-        pyfixbuf.InfoElementSpec("silkAppLabel"),
-
-        pyfixbuf.InfoElementSpec("maltrail"),
-
-        pyfixbuf.InfoElementSpec("packetTotalCount"),
-        pyfixbuf.InfoElementSpec("octetTotalCount"),
-        pyfixbuf.InfoElementSpec("reversePacketTotalCount"),
-        pyfixbuf.InfoElementSpec("reverseOctetTotalCount"),
-
-        pyfixbuf.InfoElementSpec("packetDeltaCount"),
-        pyfixbuf.InfoElementSpec("octetDeltaCount"),
-        pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
-        pyfixbuf.InfoElementSpec("reverseOctetDeltaCount")
-    ]
 
     import_template.add_spec_list(relevant_import_elements)
     export_template.add_spec_list(relevant_export_elements)
@@ -119,6 +72,11 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
 
         if print_debug:
             print("Packet: " + str(packet_num))
+        dns_info = extract_dns_info(data)
+        if dns_info[1] != 0:
+            import_rec["dnsName"] = dns_info[0]
+            import_rec["dnsType"] = dns_info[1]
+
         export_rec.copy(import_rec)
         sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
         process_packet(ipfix_to_ip(data), sec, usec, 0)
@@ -141,19 +99,3 @@ def write_maltrail_info_to_current_record(info: str):
         if print_debug:
             print("Written " + info + " to record!")
         global_export_rec["maltrail"] = info
-
-
-def test_capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
-    while True:
-        sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-        process_packet(ipfix_to_ip(
-            {"sourceIPv4Address": IPv4Address("0.0.0.0"),
-             "destinationIPv4Address": IPv4Address("0.0.0.0"),
-             "sourceIPv6Address": IPv6Address("2003:df:773f:1d00:55c8:415e:445d:86e9"),
-             "destinationIPv6Address": IPv6Address("2a04:4e42:400:0:0:0:0:396")}), sec, usec, 0)
-        time.sleep(1)
-
-
-def cleanup():
-    if global_listener:
-        print("[i] Please add ipfix listen socket cleanup")
