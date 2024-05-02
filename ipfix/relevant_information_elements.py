@@ -43,8 +43,6 @@ relevant_export_elements = [
     pyfixbuf.InfoElementSpec("protocolIdentifier"),
     pyfixbuf.InfoElementSpec("silkAppLabel"),
 
-    pyfixbuf.InfoElementSpec("maltrail"),
-
     pyfixbuf.InfoElementSpec("packetTotalCount"),
     pyfixbuf.InfoElementSpec("octetTotalCount"),
     pyfixbuf.InfoElementSpec("reversePacketTotalCount"),
@@ -55,6 +53,7 @@ relevant_export_elements = [
     pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
     pyfixbuf.InfoElementSpec("reverseOctetDeltaCount"),
 
+    pyfixbuf.InfoElementSpec("maltrail"),
     pyfixbuf.InfoElementSpec("dnsName"),
     pyfixbuf.InfoElementSpec("dnsType")
 ]

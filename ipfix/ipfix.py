@@ -70,14 +70,16 @@ def capture_ipfix(process_packet: Callable[[any, any, any, any], None]):
                 import_buffer.set_internal_template(import_template_id)
                 continue
 
+        export_rec.copy(import_rec)
         if print_debug:
             print("Packet: " + str(packet_num))
         dns_info = extract_dns_info(data)
         if dns_info[1] != 0:
             import_rec["dnsName"] = dns_info[0]
             import_rec["dnsType"] = dns_info[1]
+            export_rec["dnsName"] = dns_info[0]
+            export_rec["dnsType"] = dns_info[1]
 
-        export_rec.copy(import_rec)
         sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
         process_packet(ipfix_to_ip(data), sec, usec, 0)
         export_buffer.append(export_rec)

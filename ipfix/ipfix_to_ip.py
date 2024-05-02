@@ -2,6 +2,7 @@ from ipaddress import IPv4Address, IPv6Address
 from numbers import Number
 
 from scapy.compat import raw
+from scapy.layers.dns import DNS, DNSQR
 from scapy.layers.inet import ICMP, TCP, UDP, IP
 from scapy.layers.inet6 import IPv6
 
@@ -17,6 +18,8 @@ def ipfix_to_ip(data):
     protocol_identifier: Number = data["protocolIdentifier"]
     src_port: Number = data["sourceTransportPort"]
     dst_port: Number = data["destinationTransportPort"]
+    dns_name: str = data["dnsName"]
+    dns_type: str = "A" if data["dnsType"] == 4 else "AAAA"
 
     is_ipv6 = str(src_ip) == "0.0.0.0" and str(dst_ip) == "0.0.0.0"
     packet = (IPv6(dst=dst_ip6, src=src_ip6) if is_ipv6 else IP(
@@ -34,8 +37,12 @@ def ipfix_to_ip(data):
             packet /= ICMP(type=icmp_type, code=icmp_code)
     elif protocol_identifier == 6:  # TCP
         packet /= TCP(sport=src_port, dport=dst_port)
+        if dns_name:
+            packet /= DNS(qd=DNSQR(qname=dns_name, qtype=dns_type))
     elif protocol_identifier == 17:  # UDP
         packet /= UDP(sport=src_port, dport=dst_port)
+        if dns_name:
+            packet /= DNS(qd=DNSQR(qname=dns_name, qtype=dns_type))
 
     if print_debug:
         print(packet)

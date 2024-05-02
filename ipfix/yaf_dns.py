@@ -3,7 +3,7 @@
 from numbers import Number
 from typing import Tuple
 
-print_debug = True
+print_debug = False
 
 
 def extract_dns_info(data) -> Tuple[str, Number]:
@@ -31,6 +31,6 @@ def extract_dns_info(data) -> Tuple[str, Number]:
                                             print(dns_response["sourceIPv6Address"])
                             else:
                                 if print_debug:
-                                    print("Query with type " + str(query_type) + " and name" + dns_name)
+                                    print("Query with type " + str(query_type) + " and name " + dns_name)
                                 return dns_name, 4 if query_type == 1 else 6
     return "", 0
