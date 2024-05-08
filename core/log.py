@@ -133,8 +133,9 @@ def flush_condensed_events(single=False):
 
 def log_event(event_tuple, packet=None, skip_write=False, skip_condensing=False):
     global _condensing_thread
-
-    if _condensing_thread is None:
+    if config.ipfix:
+        skip_write = True
+    if _condensing_thread is None and skip_write is False:
         _condensing_thread = threading.Thread(target=flush_condensed_events)
         _condensing_thread.daemon = True
         _condensing_thread.start()

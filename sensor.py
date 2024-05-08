@@ -9,7 +9,7 @@ from __future__ import print_function  # Requires: Python >= 2.6
 
 import sys
 
-from ipfix.ipfix import capture_ipfix
+from ipfix import ipfix
 
 sys.dont_write_bytecode = True
 
@@ -1189,7 +1189,8 @@ def monitor():
 
         if config.ipfix:
             try:
-                capture_ipfix(_process_packet)
+                ipfix.global_malfix.setup_pyfixbuf()
+                ipfix.global_malfix.capture_ipfix()
             except Exception as e:
                 print(e)
         elif config.profile and len(_caps) == 1:
@@ -1265,6 +1266,7 @@ def main():
     parser.add_option("--ipfix_listen_protocol", dest="ipfix_listen_protocol", default="tcp", help="set protocol for listen")
     parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
     parser.add_option("--ipfix_export_host", dest="ipfix_export_host", default="localhost",  help="set host for export")
+    parser.add_option("--ipfix_pass_through", dest="ipfix_pass_through", default=False,  help="forward all incoming ipfix")
 
 
     patch_parser(parser)
@@ -1303,6 +1305,7 @@ def main():
               config.ipfix_export_host + ":" +
               config.ipfix_export_port + "/" +
               config.ipfix_listen_protocol)
+        print("[i] forwarding all incoming ipfix packages: " + ("yes" if config.ipfix_pass_through else "no"))
 
     try:
         init()
