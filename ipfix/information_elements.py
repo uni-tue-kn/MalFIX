@@ -25,9 +25,6 @@ import_ie = [
     pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
     pyfixbuf.InfoElementSpec("reverseOctetDeltaCount"),
 
-    pyfixbuf.InfoElementSpec("dnsName"),
-    pyfixbuf.InfoElementSpec("dnsType"),
-
     pyfixbuf.InfoElementSpec("subTemplateMultiList")
 ]
 

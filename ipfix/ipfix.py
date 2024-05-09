@@ -15,11 +15,11 @@ print_debug = True
 
 def _print_rec(rec: pyfixbuf.Record):
     if print_debug:
-        print("-------------------------------------------\n\n")
+        print("-------------------------------------------")
         for field in rec.iterfields():
-            print(str(field.name) + ":" + str(field.value))
+            if not isinstance(field.value, pyfixbuf.STL) and not isinstance(field.value, pyfixbuf.STML):
+                print(f'{field.name}: {field.value}')
         print("-------------------------------------------\n\n")
-        print("\n")
 
 
 def _print(text):
@@ -29,8 +29,7 @@ def _print(text):
 
 class MalFix:
     def __init__(self, _process_packet: Callable[[any, any, any, any], None]):
-        self._import_initialized: bool = False
-        self._export_initialized: bool = False
+        self._initialized: bool = False
         self._process_packet: Callable[[any, any, any, any], None] = _process_packet
         self._packet_count: int = 0
 
@@ -51,10 +50,9 @@ class MalFix:
         infomodel.add_element(pyfixbuf.InfoElement('maltrail', 420, 1, type=pyfixbuf.DataType.STRING))
         infomodel.add_element(pyfixbuf.InfoElement('dnsName', 420, 2, type=pyfixbuf.DataType.STRING))
         infomodel.add_element(pyfixbuf.InfoElement('dnsType', 420, 3, type=pyfixbuf.DataType.UINT8))
-        if self._import_elements:
-            self._setup_import(infomodel)
-        if self._export_elements:
-            self._setup_export(infomodel)
+        self._setup_import(infomodel)
+        self._setup_export(infomodel)
+        self._initialized = True
 
     def _setup_import(self, infomodel: pyfixbuf.InfoModel):
         import_template = pyfixbuf.Template(infomodel)
@@ -64,7 +62,6 @@ class MalFix:
         self._import_rec = pyfixbuf.Record(infomodel, import_template)
         self._listener = pyfixbuf.Listener(import_session, "0.0.0.0", config.ipfix_listen_protocol,
                                            config.ipfix_listen_port)
-        self._import_initialized = True
 
     def _setup_export(self, infomodel: pyfixbuf.InfoModel):
         export_template = pyfixbuf.Template(infomodel)
@@ -78,13 +75,12 @@ class MalFix:
         self._export_buffer.init_export(self._export_session, exporter)
         self._export_buffer.set_internal_template(export_template_id)
         self._export_buffer.set_export_template(export_template_id)
-        self._export_initialized = True
 
     def capture_ipfix(self):
         self._import_buffer = self._listener.wait()
         self._import_buffer.set_record(self._import_rec)
         self._import_buffer.set_internal_template(self._import_template_id)
-        if not self._import_initialized or not self._export_initialized:
+        if not self._initialized:
             print('IPFix not init!')
             return
         while True:
@@ -105,13 +101,11 @@ class MalFix:
 
             dns_info = helper.extract_dns_info(data)
             if dns_info[1] != 0:
-                data["dnsName"] = dns_info[0]
-                data["dnsType"] = dns_info[1]
                 self._export_rec["dnsName"] = dns_info[0]
                 self._export_rec["dnsType"] = dns_info[1]
 
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-            self._process_packet(helper.ipfix_to_ip(data), sec, usec, 0)
+            self._process_packet(helper.ipfix_to_ip(data, dns_info), sec, usec, 0)
 
             if config.ipfix_pass_through:
                 self._send_ipfix()

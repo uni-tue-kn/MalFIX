@@ -13,8 +13,12 @@ from scapy.layers.inet6 import IPv6
 print_debug = False
 yaf = True
 
+# Is needed because of a bug in the pyfixbuf lib "pyfixbuf_set_value"
+_ = ""
+
 
 def write_maltrail_to_record(event: Tuple, record: pyfixbuf.Record, maltrail_only: bool):
+    global _
     if not maltrail_only:
         sec, usec, src_ip, src_port, dst_ip, dst_port, _, _, _, _, _ = event
         if ipaddress.ip_address(src_ip).version == 4:
@@ -26,11 +30,8 @@ def write_maltrail_to_record(event: Tuple, record: pyfixbuf.Record, maltrail_onl
 
         record["sourceTransportPort"] = src_port
         record["destinationTransportPort"] = dst_port
-
-    # It's late in the night, I dunno why, but this lambda, which has nothing to do with the rest of
-    # my code, has to stay here. Otherwise, the below constructed string turns into random madness.
-    _ = lambda: None
-    record["maltrail"] = maltrail_event_to_string(event)
+    _ = maltrail_event_to_string(event)
+    record["maltrail"] = _
 
 
 def extract_dns_info(data) -> Tuple[str, Number]:
@@ -63,7 +64,7 @@ def extract_dns_info(data) -> Tuple[str, Number]:
     return "", 0
 
 
-def ipfix_to_ip(data):
+def ipfix_to_ip(data, dns_info: Tuple[str, Number]):
     src_ip: IPv4Address = data["sourceIPv4Address"]
     dst_ip: IPv4Address = data["destinationIPv4Address"]
     src_ip6: IPv6Address = data["sourceIPv6Address"]
@@ -71,8 +72,8 @@ def ipfix_to_ip(data):
     protocol_identifier: Number = data["protocolIdentifier"]
     src_port: Number = data["sourceTransportPort"]
     dst_port: Number = data["destinationTransportPort"]
-    dns_name: str = data["dnsName"]
-    dns_type: str = "A" if data["dnsType"] == 4 else "AAAA"
+    dns_name: str = dns_info[0]
+    dns_type: str = "A" if dns_info[1] == 4 else "AAAA"
 
     is_ipv6 = str(src_ip) == "0.0.0.0" and str(dst_ip) == "0.0.0.0"
     packet = (IPv6(dst=dst_ip6, src=src_ip6) if is_ipv6 else IP(
