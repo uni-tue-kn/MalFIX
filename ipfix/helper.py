@@ -11,7 +11,7 @@ from scapy.layers.inet import IP, ICMP, TCP, UDP
 from scapy.layers.inet6 import IPv6
 
 print_debug = False
-yaf = True
+yaf = False
 
 # Is needed because of a bug in the pyfixbuf lib "pyfixbuf_set_value"
 _ = ""
@@ -35,6 +35,9 @@ def write_maltrail_to_record(event: Tuple, record: pyfixbuf.Record, maltrail_onl
 
 
 def extract_dns_info(data) -> Tuple[str, Number]:
+    if not yaf:
+        if "dnsName" in data:
+            return data["dnsName"], 4
     if "subTemplateMultiList" in data:
         stml = data["subTemplateMultiList"]
         for entry in stml:

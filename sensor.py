@@ -1263,7 +1263,6 @@ def main():
     parser.add_option("--ipfix", dest="ipfix", action="store_true", help="listen ipfix instead if pcap")
     parser.add_option("--ipfix_listen_port", dest="ipfix_listen_port", default="18001", help="set port to listen on")
     parser.add_option("--ipfix_export_port", dest="ipfix_export_port", default="9999",  help="set port to export")
-    parser.add_option("--ipfix_listen_protocol", dest="ipfix_listen_protocol", default="tcp", help="set protocol for listen")
     parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
     parser.add_option("--ipfix_export_host", dest="ipfix_export_host", default="localhost",  help="set host for export")
     parser.add_option("--ipfix_pass_through", dest="ipfix_pass_through", default=False,  help="forward all incoming ipfix")
@@ -1300,11 +1299,11 @@ def main():
         sys.exit("[!] please run '%s' with root privileges" % __file__)
 
     if config.ipfix:
-        print("[i] using IPFIX, listening on 0.0.0.0:" + config.ipfix_listen_port + "/" + config.ipfix_listen_protocol)
+        print("[i] using IPFIX, listening on 0.0.0.0:" + config.ipfix_listen_port + "/tcp")
         print("[i] using IPFIX, exporting on " +
               config.ipfix_export_host + ":" +
               config.ipfix_export_port + "/" +
-              config.ipfix_listen_protocol)
+              config.ipfix_export_protocol)
         print("[i] forwarding all incoming ipfix packages: " + ("yes" if config.ipfix_pass_through else "no"))
 
     try:

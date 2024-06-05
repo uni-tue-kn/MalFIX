@@ -10,7 +10,7 @@ from ipfix import helper
 from ipfix.information_elements import import_ie, maltrail_ie, export_ie
 from sensor import _process_packet
 
-print_debug = True
+print_debug = False
 
 
 def _print_rec(rec: pyfixbuf.Record):
