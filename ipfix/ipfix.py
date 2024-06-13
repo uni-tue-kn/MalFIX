@@ -43,6 +43,11 @@ class MalFix:
         self._import_elements: Optional[list] = import_ie
         self._export_elements: Optional[list] = None
 
+        self._start_time = time.time()
+        self._last_report_time = self._start_time
+        self._delta_packet_count = 0
+        self._total_packet_count = 0
+
     def setup_pyfixbuf(self):
         self._export_elements = export_ie if config.ipfix_pass_through else maltrail_ie
         infomodel = pyfixbuf.InfoModel()
@@ -60,7 +65,7 @@ class MalFix:
         import_session = pyfixbuf.Session(infomodel)
         self._import_template_id = import_session.add_internal_template(import_template)
         self._import_rec = pyfixbuf.Record(infomodel, import_template)
-        self._listener = pyfixbuf.Listener(import_session, "0.0.0.0", config.ipfix_listen_protocol,
+        self._listener = pyfixbuf.Listener(import_session, "0.0.0.0", "tcp",
                                            config.ipfix_listen_port)
 
     def _setup_export(self, infomodel: pyfixbuf.InfoModel):
@@ -115,7 +120,18 @@ class MalFix:
         _print_rec(self._export_rec)
         self._export_buffer.append(self._export_rec)
         self._export_rec.clear()
-        if self._packet_count % 20 == 0:
+
+        self._delta_packet_count += 1
+        current_time = time.time()
+        elapsed_time = current_time - self._last_report_time
+        if elapsed_time >= 10.0:  # Report packets/sec every second
+            packets_per_sec = self._delta_packet_count / elapsed_time
+            self._total_packet_count += self._delta_packet_count
+            print(f"Packets/sec: {round(packets_per_sec)}, total: {self._total_packet_count}")
+            self._delta_packet_count = 0
+            self._last_report_time = current_time
+
+        if self._packet_count % 20000 == 0:
             self._export_session.export_templates()
             self._packet_count = 0
         else:

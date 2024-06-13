@@ -658,7 +658,8 @@ def _process_packet(packet, sec, usec, ip_offset):
             _ = _last_udp
             _last_udp = (sec, src_ip, src_port, dst_ip, dst_port)
             if _ == _last_udp:  # skip bursts
-                return
+                # !TODO
+                pass
 
             if src_port != 53 and dst_port != 53:  # not DNS
                 if dst_ip in trails:
