@@ -22,8 +22,6 @@ end_port=$((port + n - 1))
 # Execute the parallel command with the calculated range
 parallel --tag --line-buffer python3 -u sensor.py \
                                         --ipfix -p ipfix_info_export \
-                                        --ipfix_export_port "$port" \
-                                        --ipfix_export_protocol udp \
                                         --ipfix_export_host "$host" \
                                         --ipfix_listen_port {} \
                                         ::: $(seq "$port" $end_port)
