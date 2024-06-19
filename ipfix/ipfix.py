@@ -127,7 +127,7 @@ class MalFix:
         if elapsed_time >= 10.0:  # Report packets/sec every second
             packets_per_sec = self._delta_packet_count / elapsed_time
             self._total_packet_count += self._delta_packet_count
-            print(f"Packets/sec: {round(packets_per_sec)}, total: {self._total_packet_count}")
+            print(f"records/sec: {round(packets_per_sec)}, total: {self._total_packet_count}")
             self._delta_packet_count = 0
             self._last_report_time = current_time
 
