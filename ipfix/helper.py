@@ -1,4 +1,5 @@
 import ipaddress
+import struct
 from ipaddress import IPv4Address, IPv6Address
 from numbers import Number
 from typing import Tuple, Optional
@@ -42,6 +43,8 @@ def ipfix_to_ip(data, dns_info: Optional[Tuple[str, Number]]):
     protocol_identifier: Number = data["protocolIdentifier"]
     src_port: Number = data["sourceTransportPort"]
     dst_port: Number = data["destinationTransportPort"]
+    dns_name: Optional[str] = None
+    dns_type: Optional[str] = None
     if dns_info:
         dns_name: str = dns_info[0]
         dns_type: str = "A" if dns_info[1] == 4 else "AAAA"

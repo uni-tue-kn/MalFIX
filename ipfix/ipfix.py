@@ -65,7 +65,7 @@ class MalFix:
         import_session = pyfixbuf.Session(infomodel)
         self._import_template_id = import_session.add_internal_template(import_template)
         self._import_rec = pyfixbuf.Record(infomodel, import_template)
-        self._listener = pyfixbuf.Listener(import_session, "0.0.0.0", "tcp",
+        self._listener = pyfixbuf.Listener(import_session, "0.0.0.0", config.ipfix_listen_protocol,
                                            config.ipfix_listen_port)
 
     def _setup_export(self, infomodel: pyfixbuf.InfoModel):

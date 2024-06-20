@@ -4,14 +4,16 @@
 port=19000
 n=1
 host=localhost
+protocol=tcp
 
 # Parse options
-while getopts p:n:h: flag
+while getopts p:n:h:P: flag
 do
     case "${flag}" in
         p) port=${OPTARG};;
         n) n=${OPTARG};;
         h) host=${OPTARG};;
+        P) protocol=${OPTARG};;
         *);;
     esac
 done
@@ -31,4 +33,5 @@ parallel --tag --line-buffer python3 -u sensor.py \
                                         --ipfix -p ipfix_info_export \
                                         --ipfix_export_host "$host" \
                                         --ipfix_listen_port {} \
+                                        --ipfix_listen_protocol "$protocol" \
                                         ::: $(seq "$port" $end_port)
