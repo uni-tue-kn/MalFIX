@@ -25,9 +25,8 @@ import_ie = [
     pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
     pyfixbuf.InfoElementSpec("reverseOctetDeltaCount"),
 
-    pyfixbuf.InfoElementSpec("subTemplateMultiList"),
-
     pyfixbuf.InfoElementSpec("dnsName"),
+    pyfixbuf.InfoElementSpec("dnsType")
 ]
 
 export_ie = [
@@ -52,9 +51,9 @@ export_ie = [
     pyfixbuf.InfoElementSpec("reversePacketDeltaCount"),
     pyfixbuf.InfoElementSpec("reverseOctetDeltaCount"),
 
-    pyfixbuf.InfoElementSpec("maltrail"),
     pyfixbuf.InfoElementSpec("dnsName"),
-    pyfixbuf.InfoElementSpec("dnsType")
+    pyfixbuf.InfoElementSpec("dnsType"),
+    pyfixbuf.InfoElementSpec("maltrail")
 ]
 
 maltrail_ie = [

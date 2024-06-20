@@ -1262,11 +1262,11 @@ def main():
     parser.add_option("--debug", dest="debug", action="store_true", help=optparse.SUPPRESS_HELP)
     parser.add_option("--profile", dest="profile", help=optparse.SUPPRESS_HELP)
     parser.add_option("--ipfix", dest="ipfix", action="store_true", help="listen ipfix instead if pcap")
-    parser.add_option("--ipfix_listen_port", dest="ipfix_listen_port", default="18001", help="set port to listen on")
+    parser.add_option("--ipfix_listen_port", dest="ipfix_listen_port", default="19000", help="set port to listen on")
     parser.add_option("--ipfix_export_port", dest="ipfix_export_port", default="2055",  help="set port to export")
     parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
     parser.add_option("--ipfix_export_host", dest="ipfix_export_host", default="localhost",  help="set host for export")
-    parser.add_option("--ipfix_pass_through", dest="ipfix_pass_through", default=False,  help="forward all incoming ipfix")
+    parser.add_option("--ipfix_pass_through", dest="ipfix_pass_through", action='store_true',  help="forward all incoming ipfix")
 
 
     patch_parser(parser)

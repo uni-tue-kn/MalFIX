@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Default values
-port=18000
+port=19000
 n=1
 host=localhost
 
@@ -18,6 +18,13 @@ done
 
 # Calculate the range of ports based on n
 end_port=$((port + n - 1))
+
+# Print configuration info
+echo "Configuration:"
+echo "Host: $host"
+echo "Starting port: $port"
+echo "Number of ports: $n"
+echo "End port: $end_port"
 
 # Execute the parallel command with the calculated range
 parallel --tag --line-buffer python3 -u sensor.py \

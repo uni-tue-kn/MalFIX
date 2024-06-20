@@ -1,7 +1,7 @@
 import ipaddress
 from ipaddress import IPv4Address, IPv6Address
 from numbers import Number
-from typing import Tuple
+from typing import Tuple, Optional
 
 import pyfixbuf
 
@@ -34,40 +34,7 @@ def write_maltrail_to_record(event: Tuple, record: pyfixbuf.Record, maltrail_onl
     record["maltrail"] = _
 
 
-def extract_dns_info(data) -> Tuple[str, Number]:
-    if not yaf:
-        if "dnsName" in data:
-            return data["dnsName"], 4
-    if "subTemplateMultiList" in data:
-        stml = data["subTemplateMultiList"]
-        for entry in stml:
-            for record in entry:
-                if "subTemplateList" in record:
-                    stl = record["subTemplateList"]
-                    for dns_record in stl:
-                        if "dnsName" in dns_record:
-                            dns_name = dns_record["dnsName"]
-                            query_type = dns_record["dnsRRType"]
-                            dns_query_response = dns_record["dnsQueryResponse"]
-                            if dns_query_response == 1:
-                                if print_debug:
-                                    print("Response with type " + str(query_type) + " and name " + dns_name)
-                                dns_response_list = dns_record["subTemplateList"]
-                                for dns_response in dns_response_list:
-                                    if query_type == 1:
-                                        if print_debug:
-                                            print(dns_response["sourceIPv4Address"])
-                                    if query_type == 28:
-                                        if print_debug:
-                                            print(dns_response["sourceIPv6Address"])
-                            else:
-                                if print_debug:
-                                    print("Query with type " + str(query_type) + " and name " + dns_name)
-                                return dns_name, 4 if query_type == 1 else 6
-    return "", 0
-
-
-def ipfix_to_ip(data, dns_info: Tuple[str, Number]):
+def ipfix_to_ip(data, dns_info: Optional[Tuple[str, Number]]):
     src_ip: IPv4Address = data["sourceIPv4Address"]
     dst_ip: IPv4Address = data["destinationIPv4Address"]
     src_ip6: IPv6Address = data["sourceIPv6Address"]
@@ -75,8 +42,9 @@ def ipfix_to_ip(data, dns_info: Tuple[str, Number]):
     protocol_identifier: Number = data["protocolIdentifier"]
     src_port: Number = data["sourceTransportPort"]
     dst_port: Number = data["destinationTransportPort"]
-    dns_name: str = dns_info[0]
-    dns_type: str = "A" if dns_info[1] == 4 else "AAAA"
+    if dns_info:
+        dns_name: str = dns_info[0]
+        dns_type: str = "A" if dns_info[1] == 4 else "AAAA"
 
     is_ipv6 = str(src_ip) == "0.0.0.0" and str(dst_ip) == "0.0.0.0"
     packet = (IPv6(dst=dst_ip6, src=src_ip6) if is_ipv6 else IP(
