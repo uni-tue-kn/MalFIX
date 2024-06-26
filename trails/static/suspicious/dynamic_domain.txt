@@ -3591,3 +3591,24 @@ tpddns.net
 # Reference: https://www.virustotal.com/gui/domain/darkworlds.org/relations
 
 darkworlds.org
+
+# Reference: https://www.virustotal.com/gui/domain/addns.org/relations
+
+addns.org
+
+# Reference: https://www.virustotal.com/gui/domain/ddns.nbis.net/relations
+
+ddns.nbis.net
+
+# Reference: https://www.virustotal.com/gui/domain/ionexusa.com/relations
+
+ionexusa.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+manoahinvest.com
+michiganbowling.com
+
+# Reference: https://www.virustotal.com/gui/domain/pchelp-24.com/relations
+
+pchelp-24.com

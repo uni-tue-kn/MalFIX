@@ -5961,13 +5961,6 @@ s.langhort.com
 
 /update_wapp2.aspx
 
-# Reference: https://www.virustotal.com/gui/file/49ac5872f91182bac543788dfd168eb4e103c11f42b1585879d6999ede367500/detection
-
-/awautng.php
-/upwawsfrg.php
-/zawautng.php
-/stwittc/upwawsfrg.php
-
 # Reference: https://twitter.com/drb_ra/status/1568421255627550720
 
 /wpaas/load.php
@@ -6403,6 +6396,7 @@ wildhottiegirls.com
 
 /0d8af8f06ba4b880.php
 /273d9c8034a95cb4.php
+/30257e4c371b49a4.php
 /413a030d85acf448.php
 /6842f013779f3d08.php
 /752e382b4dcf5e3f.php
@@ -6411,6 +6405,7 @@ wildhottiegirls.com
 /8c3498a763cc5e26.php
 /984dd96064cb23d7.php
 /99210de056092a58.php
+/9b1668f28bd265e2.php
 /bca98681abf8e1ab.php
 /bef7fb05c9ef6540.php
 /c1377b94d43eacea.php
@@ -6858,6 +6853,7 @@ tpc.cdn-linkedin.info
 
 # Reference: https://threatfox.abuse.ch/browse/malware/win.stealc/
 # Reference: https://github.com/Gi7w0rm/MalwareConfigLists/blob/main/stealc/stealc_c2s_2022_to_2023.txt
+# Reference: https://github.com/executemalware/Malware-IOCs/blob/main/2024-03-27%20FakeUpdates%20IOCs
 # Reference: https://www.virustotal.com/gui/file/041be18344ea8da345923dd5d2421ad79ed888bca4a9ceebe0aa1030c75e5602/detection
 
 /00b977b5ca6bb253.php
@@ -6873,12 +6869,15 @@ tpc.cdn-linkedin.info
 /10bfb33db816f4b6.php
 /11acf293b39e9ca9.php
 /11da1c02f1899731.php
+/129edec4272dc2c8.php
+/13cecbdad86667b0.php
 /14514d160075033b.php
 /14baef17b6d04c23.php
 /155736047db03637.php
 /1569b69c95a21d02.php
 /1655d0b0e8ecab2d.php
 /16b371d42fb67a99.php
+/17303af8450cc290.php
 /18d098f4b1370ff7.php
 /18e7847188a1b7bd.php
 /1afb7d7c2e47bc96.php
@@ -6893,6 +6892,7 @@ tpc.cdn-linkedin.info
 /1fa9cf51b66b1f7e.php
 /21b9c0db1dfb4718.php
 /2358d131c82bf789.php
+/244cbe83570df263.php
 /25d4fc7fb0cb6b78.php
 /27e2c065315ea17e.php
 /29b7525be881c8ea.php
@@ -6900,6 +6900,7 @@ tpc.cdn-linkedin.info
 /2b1fd477f413315b.php
 /2c843dccbeb16860.php
 /2e12d77e23b78d01.php
+/300e6d86f44da037.php
 /31b57f88e9b186cd.php
 /31dd08d447d463d4.php
 /31f2a38ac74a9d54.php
@@ -6930,6 +6931,7 @@ tpc.cdn-linkedin.info
 /49621a18efb46765.php
 /4a7a990a47cd52ad.php
 /4b91eb784a77478c.php
+/4d4d3a49ccbc77eb.php
 /4e6508e4090e861a.php
 /4e815d9f1ec482dd.php
 /4ea69013b92ecb73.php
@@ -6939,6 +6941,7 @@ tpc.cdn-linkedin.info
 /518893e599328c52.php
 /5196ba262b6d60e7.php
 /522d6f9280951d7f.php
+/5441a82c9941418d.php
 /56f47e918c5386bf.php
 /582e11ffc8500b8f.php
 /585a069844ca672e.php
@@ -6947,6 +6950,7 @@ tpc.cdn-linkedin.info
 /5b470b53a9d137ee.php
 /5c06c05b7b34e8e6.php
 /5d4f090c730016b1.php
+/5dce321003e6a6b5.php
 /5edef101caff1aeb.php
 /603aeb43718ab133.php
 /60ed11b9deeca694.php
@@ -6960,11 +6964,15 @@ tpc.cdn-linkedin.info
 /68517e86206d47d9.php
 /693386d591752f22.php
 /69b3ae67feef2db7.php
+/6a9f8e2503d99c04.php
 /6b989c9d91160b88.php
 /6d39c24c1b988e61.php
 /6e26382b1807d1b9.php
+/6ef96e7190cc7acd.php
 /70434c9d1b55ce63.php
+/7043a0c6a68d9c65.php
 /70664a52ad417ca5.php
+/722c81812703a73d.php
 /7276296f1d284397.php
 /72cd883ebd748330.php
 /72e62e029dc81ebf.php
@@ -6979,7 +6987,7 @@ tpc.cdn-linkedin.info
 /7a30931b86e576c1.php
 /7a8cfa6ac1363434.php
 /7b50f8c270624cf1.php
-/7b7c07c1b3625773.php1
+/7b7c07c1b3625773.php
 /7baff47bec0ff5db.php
 /7c94d1cc56751853.php
 /7cbe0291fb78f157.php
@@ -6990,8 +6998,10 @@ tpc.cdn-linkedin.info
 /812472d22955f523.php
 /82de66e9459cdb5f.php
 /838d8918a5621059.php
+/853aaed2e28950b2.php
 /8569064d5363f710.php
 /85db914bf164fb6c.php
+/8681490a59ad0e34.php
 /86d110a6ca1786a5.php
 /8882f656e94df309.php
 /889842668f48cc70.php
@@ -7000,12 +7010,15 @@ tpc.cdn-linkedin.info
 /8c790830ecbaab3b.php
 /8d7eb205be988bbb.php
 /8f2f4cb4b10b6e96.php
+/902e53a07830e030.php
 /9046019a53d66236.php
 /91541f2f0ca4ecd4.php
 /94ed4bf54583a4fa.php
 /976a2eda99155f48.php
 /9787806e0e289839.php
 /9827126d94c3e848.php
+/982c183d8a9835c6.php
+/990ecb7630625681.php
 /9a54e32a8b27f71c.php
 /9af57c9106bf2c01.php
 /9cb3d6163ee69f03.php
@@ -7014,6 +7027,7 @@ tpc.cdn-linkedin.info
 /a2f524d70db7d1a7.php
 /a431f538ac55c20c.php
 /a68326a8bd26a679.php
+/a69d09b357e06b52.php
 /a6d914969291bf07.php
 /a737400ffa5db996.php
 /a7b9969886761113.php
@@ -7042,18 +7056,22 @@ tpc.cdn-linkedin.info
 /bf7893cc2d43c936.php
 /c36258786fdc16da.php
 /c41508a3857f34c3.php
+/c44a765f550f6a2f.php
 /c512076c2057872e.php
 /c52446cd272c84b7.php
 /c57d4dee0da36d49.php
+/c698e1bc8a2f5e6d.php
 /c85cabe680e08506.php
 /c8ad9b0ca19c816d.php
 /c8d1769211d0cfb0.php
 /c92a19ea55c5076e.php
+/c9cac53e5e9ec7ba.php
 /caae677175cf27ed.php
 /caf30a92b9c4fec2.php
 /cc18c73c655f48b7.php
 /cdc8cb4ba5f9dfaa.php
 /cf2bf91a3641f615.php
+/cf5cbdf706840b3f.php
 /d04727a8ed5e33a1.php
 /d130c39575999622.php
 /d27b1d581e3729a6.php
@@ -7069,15 +7087,19 @@ tpc.cdn-linkedin.info
 /e50a8a413d120466.php
 /e50ac16f7b113954.php
 /e5f9db40aa1d5c5c.php
+/e64f36763e423a50.php
 /e80131c8e877ed2e.php
 /e9131e1df8a3fa06.php
 /e9c345fc99a4e67e.php
 /eb132e03b76d10bd.php
+/eb488f9cb9d466ca.php
+/eb6f29c6a60b3865.php
 /eba140b7c5f2f228.php
 /ecd46953920f5bde.php
 /ed477c8cc2206093.php
 /ed9891f07f96bfb8.php
 /eddb6f7ac3df755b.php
+/edf04ce5e57d0f66.php
 /ee4bbae3ded73edf.php
 /ef05b005854373ec.php
 /ef0b5c6106fc176f.php
@@ -7086,8 +7108,10 @@ tpc.cdn-linkedin.info
 /f2cb651e3e755a0f.php
 /f6a046f8befb95a1.php
 /f71b3857ccea70c5.php
+/f95721327cee196f.php
 /f993692117a3fda2.php
 /fd07ec3137071f71.php
+/fdca69ae739b4897.php
 /fefb4a458e1dc58b.php
 
 # Reference: https://twitter.com/drb_ra/status/1700478808501993895
@@ -8397,6 +8421,131 @@ cachline.com
 
 /trinity-injector-script.js
 
+# Reference: https://twitter.com/KesaGataMe0/status/1775700950692605994
+
+/?guhqvjbk
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.116.214.225/relations
+# Reference: https://www.virustotal.com/gui/file/98f6ecc60e016311511ce920220598b33eb9671e7c71254e76d638d0f2a45883/detection
+
+/kuskus.hta
+/kuskus.ps1
+
+# Reference: https://twitter.com/noexceptcpp/status/1778024688066638287
+
+/0Z0EQyFSl1.php
+/C0MGGGwszj.php
+/FLNvwznqBG.php
+/GYf484uMAb.php
+/Hbrugz8LLO.php
+/JL3Li0Iqxh.php
+/bHKluvxJrs.php
+/cEkRoGfySO.php
+/fZsExq7lgF.php
+/glkf7qXdGs.php
+/jq6hd.php
+/kzU3Zt6X5j.php
+/u3jy8V3B1B.php
+
+# Reference: https://twitter.com/RacWatchin8872/status/1778393784809595092
+
+/shell_reverse_tcp.bin
+/shell_reverse_tcp.hta
+/shell_reverse_tcp.ps1
+/shell_reverse_tcp.py
+/shell_reverse_tcp.sh
+
+# Reference: https://twitter.com/doc_guard/status/1781325713951314119
+# Reference: https://www.virustotal.com/gui/file/b8288968633bcfa46dc1cf1ab6c5b248e6be020184991e82ba8db56676b2e0cf/detection
+
+/basterlord.hta
+
+# Reference: https://twitter.com/malwrhunterteam/status/1782277290363174988
+
+/Cqlqb.hta
+
+# Reference: https://twitter.com/banthisguy9349/status/1782402749805527142
+
+/exploitw.py
+
+# Reference: https://twitter.com/banthisguy9349/status/1782401923133354148
+
+/backgroud_attack.php
+
+# Reference: https://twitter.com/doc_guard/status/1782401510350954620
+# Reference: https://app.docguard.io/ed4149d5ac4b15e22b9f240e75638ea3c4da01a021d30ed2d062919159c6a7c9/results/dashboard
+
+/nonendowmentaGen.ps1
+/scragglingiJsW.ps1
+
+# Reference: https://twitter.com/doc_guard/status/1784961099219018073
+# Reference: https://app.docguard.io/9afa5a1e1448e7469fe0a625ff715e1bff8f7c407d45644445a35b6885d79271/463e66dc-bb30-4273-a94b-b42b6d6729f4/0/results/dashboard
+
+/ifsdjshtx/zxxhttezsnt0pl.php
+/zxxhttezsnt0pl.php
+
+# Reference: https://twitter.com/Slvlombardo/status/1785232547623927932
+
+/uutyrtrreer/tttggg.php
+/tttggg.php
+
+# Reference: https://twitter.com/JustWantToQ1/status/1787075115823337564
+
+/Anonmy.cmd
+/Anonmy.hta
+/Anonmy.ps1
+
+# Reference: https://twitter.com/Slvlombardo/status/1787524670956146891
+
+/unZIPpeRn.php
+
+# Reference: https://twitter.com/ShanHolo/status/1787551650493747688
+
+/Shhhloader.py
+
+# Reference: https://www.virustotal.com/gui/file/32c83602b4f08e77ad0d0461f7eb6f800dfae256ec02371d73325d1d551c76f3/detection
+
+/api6231223321213.js
+
+# Reference: https://x.com/banthisguy9349/status/1791853395352977877
+
+/INDIExploit
+
+# Reference: https://x.com/suyog41/status/1793935723961143625
+# Reference: https://www.virustotal.com/gui/file/d2809e3e60e5d9671be8644750ad1b385aaa6b4ff01fef8fc594d81c69275a33/detection
+# Reference: https://www.virustotal.com/gui/file/7b1b332c653d62effffffd27a8da5bf78c0a5e5c1fb04191e0943333671c46c3/detection
+
+/doomsday.ps1
+
+# Reference: https://x.com/lontze7/status/1796823844335890633
+
+/20231027094801.php
+
+# Reference: https://x.com/malwrhunterteam/status/1797633812945682533
+
+/hfyr7wsb3wazm.html
+
+# Reference: https://x.com/malwrhunterteam/status/1798270656410526004
+
+/bdch8mwsja5azq.html
+
+# Reference: https://x.com/Slvlombardo/status/1800749773135475052
+
+/hhhmeuuw/rtalvl.php
+
+# Reference: https://blog.sucuri.net/2024/06/socgholish-malware.html
+
+/9659650c81ce1b984c58.js
+
+# Reference: https://x.com/doc_guard/status/1804498032685170835
+# Reference: https://www.virustotal.com/gui/file/07d66d5f867572bfbed2128def7e1aa43792de09f3d709c77241f0950295f579/detection
+
+/cjuhwvko.php
+/dwcetsuu.php
+/orvx-avjyyr.php
+/pfiigphc.php
+/vlspgbsfjo.php
+
 # Generic
 
 /js/altmanluggage.js
@@ -8479,12 +8628,14 @@ cachline.com
 /gate.phpgate.php
 /ggate.php
 /gggate.php
+/gAy5B.php
 /Invoke-Phant0m.ps1
 /online-dating-verification-card.php
 /ravufgate.php
 /screenshot_gate.php
 /tgate.php
 /testgate.php
+/test_gate0117.php
 /verification-card.php
 /1drvme/
 /payload/openAttach/

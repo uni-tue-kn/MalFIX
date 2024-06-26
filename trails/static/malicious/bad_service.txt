@@ -730,6 +730,50 @@ truesecurityservices.io
 vdos-s.co
 zerostresser.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/68.183.181.230/relations
+
+skynetstresser.xyz
+api.skynetstresser.xyz
+
+# Reference: https://twitter.com/banthisguy9349/status/1773297330508169591
+
+141.98.7.228:86
+bbxstresser.llc
+
+# Reference: https://twitter.com/banthisguy9349/status/1773297607642673237
+
+brebes-bx.id
+
+# Reference: https://twitter.com/banthisguy9349/status/1773297607642673237
+# Reference: https://pastebin.com/PGz6A1Nd
+
+0rte.net
+cfxsecurity.cc
+cyberflood.ru
+hexstresser.xyz
+l7stresse.com
+stresslab.su
+vacstresser.ru
+webstress.app
+webstress.io
+
+# Reference: https://twitter.com/sicehice/status/1782159096977699036
+# Reference: https://www.virustotal.com/gui/file/eef9e6718593ccb5f21d362c2178aeedd0a58129bce6c1d762ec7a5e73a8012a/detection
+
+digitalstress.su
+dstat.love
+orbitalstress.net
+rage.markets
+uptime.dstat.love
+
+# Reference: https://twitter.com/banthisguy9349/status/1782789917384257825
+
+monkey-proxy-999.online
+topboxapi-service.com
+toxicipstresser.cloud
+open.topboxapi-service.com
+protectedby.herios-stress.xyz
+
 # Reference: https://twitter.com/banthisguy9349/status/1756635356227649975
 
 http://35.225.165.48
@@ -777,6 +821,87 @@ nightmarestresser.net
 powerstresser.live
 unionstresser.app
 webstress.xyz
+
+# Reference: https://pastebin.com/v6fTwbAK
+
+herios-stresser.space
+herios-stress.xyz
+
+# Reference: https://twitter.com/banthisguy9349/status/1786052915909603332
+# Reference: https://pastebin.com/5tfeQjcY
+
+http://51.75.166.192
+http://51.75.166.193
+47.106.83.71:84
+94.228.168.53.sslip.io
+chryslernetwork.com
+crowservices.link
+cybervm.net
+cyonstresser.ru
+dev.quickdown.pro
+dstat.hitme1337.pw
+electro-down.online
+etarras.eu
+etarras.pages.dev
+flooder.cc
+gamebattle.in
+hitme1337.pw
+ip192.ip-51-75-166.eu
+ipflooder.com
+profilecard.shop
+serverdown.cc
+shineesp.xyz
+stressbot.io
+stresser.bot
+stressst.com
+t.vnixhost.com
+txadmin.gsrp.uk
+vbooter.pw
+vnixhost.com
+zenstresser.com
+
+# Reference: https://twitter.com/banthisguy9349/status/1786289391473668257
+
+bin.mentality.cloud
+booterpanel.pages.dev
+by-dostavka.pw
+coinmatrixcrypto.com
+cybervm.ru
+ddosforhire.pages.dev
+dream-stresser.su
+evil-stress.xyz
+freebooter.pages.dev
+frontendv1-evb.pages.dev
+hugostresser.com
+ipbooter.pages.dev
+kmz-down.xyz
+kxstress.us
+ne5de.com
+neostress.cc
+panel.klazsuite.it
+ps4booter.pages.dev
+redstresser.info
+str3ssed.su
+stresse.art
+stresse.net
+stresser.ac
+stresser.heleh.vn
+stresserapp.su
+stressergg.ru
+stresserip.com
+stresserso.ru
+stresserus.com
+stresserus.su
+stressland.ru
+thunderstress.cc
+topstresser.top
+xboxbooter.pages.dev
+
+# Reference: https://www.virustotal.com/gui/file/28f7e272e2a72d961eab6b3028bb6a58f292befcac20fb98978444193680b952/detection
+# Reference: https://www.virustotal.com/gui/file/73fa482bc53a658b6d1cc8ad284713ec0306b9d560e5706056982f7d4c3bd4cd/detection
+
+stresse.ru
+stressertech.club
 
 # Reference: https://www.linkedin.com/pulse/forums-selling-stolen-credit-card-information-cvv-shops-tissot
 # Reference: https://app.validin.com/axon?type=dom&limit=10000&find=ns1.kak-prigotovit-spagetti.ru (# NS_FOR record)
@@ -2397,6 +2522,13 @@ http://93.123.85.184
 
 ddgstresser.com
 
+# Reference: https://twitter.com/banthisguy9349/status/1787429773288841454
+
+orbitalstress.org
+orbitalstress.su
+orbitalstress.xyz
+orbitalstresser.com
+
 # Reference: https://twitter.com/banthisguy9349/status/1758415279850181093
 
 discord-bot.net
@@ -2468,3 +2600,154 @@ yalelodge-shop.su
 z-pay.su
 z-prime.ru
 zeroday-shop.su
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.247.184.146/relations
+
+autocvv.shop
+bistrocc.su
+buy-cc-cheap.ru
+buy-dumps.ru
+cardclonedumps.shop
+carderspro.shop
+cardmafia.su
+cards4money.shop
+cc-dumps.su
+cc-street.shop
+ccfullz.su
+ccplaza.su
+credit-card-dumps.su
+cvv-com.su
+cvv2-shop.shop
+cvvdumps.shop
+cvvmest-store.shop
+cvvshops.shop
+dumpstreet.su
+evgacc.su
+faceleess.su
+flowcc.su
+freshstuff.su
+fullz-free.su
+galaxycvv.shop
+gonzo-cc.su
+greatestash.shop
+hostsellgood.shop
+ispoof.shop
+joker-cvv.ru
+jokers-stash.shop
+jokersstash.shop
+justvalid.su
+jvcc.su
+legitcarder.ru
+legitcarder.shop
+lisguz.su
+logoshopcc.su
+loxcc.shop
+mafiastore.shop
+mc-store.shop
+multivpn.shop
+mydarkreviews.shop
+onzo.su
+rescator-shop.su
+rickstash.shop
+sharkcvv.su
+shop-buying-cvv-online.shop
+shop-valid.su
+shopcvvlvshop.ru
+shopfullzcvvshop.ru
+shopfullzcvvshop.shop
+swipegold.su
+thefreshstuffs.shop
+tox3.shop
+trump-dumps.shop
+uas-store.shop
+uni-cc-shop.su
+validcc-market.su
+vclubshop-cvv.shop
+wall-street-store-cvv.ru
+
+# Reference: https://otx.alienvault.com/pulse/65a90b0cfd7d892f1197f724
+
+base-whitelist.com
+dfgdfgqg.com
+inferno-drainer.com
+layer-zero-register.com
+lensprotocol-register.com
+lensprotocol-whitelist.com
+scroll-wl.com
+sei-whitelist.com
+shardeum-whitelist.com
+zk-sync-register.com
+zk-sync-whitelists.com
+zkcync.xyz
+
+# Reference: https://twitter.com/1ZRR4H/status/1774355839165280493
+# Reference: https://twitter.com/1ZRR4H/status/1774356908897419376
+# Reference: https://www.virustotal.com/gui/file/910077fa834a5a156c40c9dba7637611522c248b1b32d32fef23b42dfab11896/detection
+# Reference: https://www.virustotal.com/gui/file/7c636f1c9e4d9032d66a58f263b3006788047488e00fc26997b915e9d1f174bf/detection
+
+gameshield.io
+
+# Reference: https://www.virustotal.com/gui/ip-address/193.106.174.210/relations
+
+bel-credits.site
+buycc.shop
+vmcard.in
+vmcard.top
+ccbuyshop.buycc.shop
+ccgoodshop.buycc.shop
+cvvgoodcom.buycc.shop
+cvvproshop.buycc.shop
+cvvsiteshop.buycc.shop
+parceiro.vmcard.top
+validcvvshop.buycc.shop
+vivamelhor.vmcard.top
+
+# Reference: https://www.virustotal.com/gui/ip-address/176.124.192.121/relations
+
+ccshopvalid.ru
+marketonlinecvv.ru
+onlinestorecvv.ru
+onlinestoredumps.ru
+shop-best-track2.ru
+shop-valid-dumps.ru
+storecvvonline.ru
+track2beststore.ru
+track2shopbest.ru
+xdumps.ru
+
+# Reference: https://www.virustotal.com/gui/ip-address/193.106.175.210/relations
+
+cvv-union.me
+cvvunion.name
+cvvunion.net
+cvvunion.tv
+cvvunion.work
+admin.cvvunion.tv
+
+# Reference: https://www.virustotal.com/gui/ip-address/5.188.88.85/relations
+
+2crd.cc
+crdclub.su
+
+# Reference: https://www.virustotal.com/gui/ip-address/189.164.114.213/relations
+
+cvv-union.at
+union-shop.at
+
+# Reference: https://www.virustotal.com/gui/ip-address/151.233.51.166/relations
+
+cashmoneycard.cc
+hollywoodcash.cc
+
+# Reference: https://x.com/DarkWebInformer/status/1800522139680084369
+
+kcc.cat
+
+# Reference: https://x.com/WhichbufferArda/status/1803025904416747928
+# Reference: https://blog.eclecticiq.com/onnx-store-targeting-financial-institution
+
+onnx.su
+
+# Reference: https://x.com/banthisguy9349/status/1804804540387979301
+
+/codecanyon-39029867-mailer-email-marketing-application.zip

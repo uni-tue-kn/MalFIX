@@ -2275,9 +2275,11 @@ cgate.getmygateway.com
 estancia.decentralappps.com
 estancia.stratosbody.com
 finish.lineferaline.com
+ns1.getmygateway.com
 set.lineferaline.com
 stray.stratosbody.com
 vendingbackstage.comgate.getmygateway.com
+xn--stay-p96a.decentralappps.com
 
 # Reference: https://twitter.com/unmaskparasites/status/1747690203941396671
 # Reference: https://www.virustotal.com/gui/ip-address/172.67.185.17/relations
@@ -2390,12 +2392,21 @@ ttincoming.traveltraffic.cc
 apistatexperience.com
 bestresulttostart.com
 startservicefounds.com
+0start.apistatexperience.com
+10start.apistatexperience.com
+1api.startservicefounds.com
 api.bestresulttostart.com
 api.startservicefounds.com
+bind.bestresulttostart.com
+coolapi.startservicefounds.com
+csdata3.startservicefounds.com
 dns.startservicefounds.com
 find.bestresulttostart.com
 follow.bestresulttostart.com
+get.startservicefounds.com
+papers.coolapi.startservicefounds.com
 point.bestresulttostart.com
+rest.startservicefounds.com
 right.bestresulttostart.com
 scripts.bestresulttostart.com
 start.apistatexperience.com
@@ -2437,3 +2448,98 @@ stat.counter247.live
 streaming.jsonmediapacks.com
 stylesheet.webstaticcdn.com
 tags.stickloader.info
+
+# Reference: https://blog.sucuri.net/2024/04/javascript-malware-switches-to-server-side-redirects-dns-txt-records-tds.html
+
+ads-promo.com
+host-stats.io
+web-hosts.io
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.64.161/relations
+
+startfinishthis.com
+back.startfinishthis.com
+board.startfinishthis.com
+finish.startfinishthis.com
+from.startfinishthis.com
+isit.startfinishthis.com
+visit.startfinishthis.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.142.212.163/relations
+
+0first.dataofpages.com
+114.96.0first.dataofpages.com
+142.21four.startperfectsolutions.com
+188.114.96.0first.dataofpages.com
+21four.startperfectsolutions.com
+445.142.21four.startperfectsolutions.com
+96.0first.dataofpages.com
+g.four.startperfectsolutions.com
+repost.statisticsplatform.com
+sf.four.startperfectsolutions.com
+xn--three-hw3b.startperfectsolutions.com
+
+# Reference: https://x.com/unmaskparasites/status/1797695543948513313
+# Reference: https://www.virustotal.com/gui/ip-address/45.9.149.210/relations
+
+rdntocdns.com
+assets.rdntocdns.com
+cdn.rdntocdns.com
+css.rdntocdns.com
+rest1.rdntocdns.com
+rest2.rdntocdns.com
+tmpl.rdntocdns.com
+
+# Reference: https://blog.sucuri.net/2024/06/caesar-cipher-skimmer.html
+# Reference: https://app.validin.com/detail?find=NOTHING%20TO%20SEE%20HERE%20(%3A&type=raw&ref_id=038b91e70eb#tab=host_pairs_v2
+
+1api.club
+1api.club.sports-app.xyz
+api-data.xyz
+api-data.xyz.sports-app.xyz
+api-service.one
+api-service.one.sports-app.xyz
+apinetwork.club
+apinetwork.club.sports-app.xyz
+apisports.one
+apisports.one.sports-app.xyz
+autoconfig.node6257.myfcloud.com
+autodiscover.node6257.myfcloud.com
+backendsports.bovadasport.app
+backendsports.xyz
+blogway.xyz
+bovadasport.app
+bovadasport.bovadasport.app
+bovadasport.club
+go-play.xyz
+gomobi.xyz
+ipv6.node6257.myfcloud.com
+mobile2tools.xyz
+node6257.myfcloud.com
+ns1.node6257.myfcloud.com
+ns2.node6257.myfcloud.com
+sports-app.xyz
+sports-data.club
+sports-data.club.sports-app.xyz
+sports-data.xyz
+sports-data.xyz.sports-app.xyz
+sports2app.xyz
+sports2app.xyz.mobile2tools.xyz
+sports2go.xyz
+sports2goxyz.bovadasport.app
+sportsapi.club
+sportsdata.xyz
+sportsdata.xyz.sports-app.xyz
+sportsdev.bovadasport.app
+sportsdev.xyz
+sportsmobile.xyz
+sportsmobile.xyz.mobile2tools.xyz
+trafficapp.xyz
+trafficdelivery.xyz
+trafficfilter.xyz
+brightaems.com/wp-content/themes/educator-education/css/css.php
+flyfishinguide.co.nz/css/css.php
+ilegkenya.org/acs/css.php
+patilcomputers.com/wp-content/themes/shopic-child/css.php
+shop.care.pistoia.it/wp-content/languages/css.php
+thepioneerbank.com/wp-content/themes/twentytwentytwo/css.php

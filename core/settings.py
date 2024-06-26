@@ -23,7 +23,7 @@ from core.trailsdict import TrailsDict
 from thirdparty.six.moves import urllib as _urllib
 
 NAME = "Maltrail"
-VERSION = "0.67"
+VERSION = "0.70"
 HOMEPAGE = "https://maltrail.github.io"
 PLATFORM = os.name
 IS_WIN = PLATFORM == "nt"
@@ -88,7 +88,7 @@ WHITELIST_DIRECT_DOWNLOAD_KEYWORDS = ("cgi", "/scripts/", "/_vti_bin/", "/bin/",
 SUSPICIOUS_HTTP_REQUEST_REGEXES = (
     ("potential sql injection", r"information_schema|sysdatabases|sysusers|floor\(rand\(|ORDER BY \d+|\bUNION\s+(ALL\s+)?SELECT\b|\b(UPDATEXML|EXTRACTVALUE)\(|\bCASE[^\w]+WHEN.*THEN\b|\bWAITFOR[^\w]+DELAY\b|\bCONVERT\(|VARCHAR\(|\bCOUNT\(\*\)|\b(pg_)?sleep\(|\bSELECT\b.*\bFROM\b.*\b(WHERE|GROUP|ORDER)\b|\bSELECT \w+ FROM \w+|\b(AND|OR|SELECT)\b.*/\*.*\*/|/\*.*\*/.*\b(AND|OR|SELECT)\b|\b(AND|OR)[^\w]+\d+['\") ]?[=><]['\"( ]?\d+|ODBC;DRIVER|\bINTO\s+(OUT|DUMP)FILE"),
     ("potential xml injection", r"/text\(\)='"),
-    ("potential php injection", r"<\?php"),
+    ("potential php injection", r"<\?php|php://input"),
     ("potential ldap injection", r"\(\|\(\w+=\*"),
     ("potential xss injection", r"<script.*?>|\balert\(|(alert|confirm|prompt)\((\d+|document\.|response\.write\(|[^\w]*XSS)|on(mouseover|error|focus|transitionend)=[^&;\n]+\("),
     ("potential xxe injection", r"\[<!ENTITY"),
@@ -112,6 +112,7 @@ SUSPICIOUS_UA_REGEX = ""
 OBSOLETE_UA_REGEX = r"(?i)windows NT [3-5]\.\d+|windows (3\.\d+|95|98|xp)|MSIE [1-6]\.\d+|Navigator/|Safari/[1-4]|Opera/[1-3]|Firefox/1?[0-9]\."
 GENERIC_SINKHOLE_REGEX = r"(?im)^(X-Sinkhole|Server): (malware-?)?sinkhole|\bSinkholed? by |^(X-Sinkholed?(-Domain)?|X-Zinkhole|X-Sinkhole):| a malware sinkhole|\bSinkhole( Project)?</title>|This is a sinkhole|bots party hard|computers connecting to this sinkhole| Sinkhole by |^Set-Cookie: snkz=|^Server: Apache [0-9.]+/SinkSoft|^Location:[^\n]+\.sinkdns\.org:80"
 WORST_ASNS = {}
+BOGON_IPS = {"::1"}
 BOGON_RANGES = {}
 CDN_RANGES = {}
 WHITELIST_HTTP_REQUEST_PATHS = ("fql", "yql", "ads", "../images/", "../themes/", "../design/", "../scripts/", "../assets/", "../core/", "../js/", "/gwx/")

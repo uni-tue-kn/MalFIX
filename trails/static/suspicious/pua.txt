@@ -3296,3 +3296,23 @@ crxdragonupdate.com
 # Reference: https://www.virustotal.com/gui/file/bb5ef9f70483ed7c79e37eca9dd136a514a346943edfe2803e27d1f6b262f05a/detection
 
 support.clz.kr
+
+# Reference: https://www.virustotal.com/gui/file/d0fda8c65b04f468c2db458e5ed48f46b715d506903ca4ca6e85fd30eb71896e/detection
+
+srv472339.hstgr.cloud
+/ZeusBrute/version/index.php
+
+# Reference: https://www.virustotal.com/gui/ip-address/88.208.60.228/relations
+# Reference: https://www.virustotal.com/gui/file/005f8aa6648fedeb4d7078c276527d9215c68b5f7caead4f7cbce8abe906c7c2/detection
+# Reference: https://www.virustotal.com/gui/file/0272643518e3db8b1a448753ab7990ee12ed15f0627d379e6d64edbb70028536/detection
+
+huyakww.info
+mnogolik002.xyz
+pichuga-dl.xyz
+valencia-dl.xyz
+vivinod4.xyz
+
+# Reference: https://x.com/suyog41/status/1798572330224132594
+# Reference: https://www.virustotal.com/gui/file/690d111294d46e755ea58ea92f485eac3e56961adf543543f8fca073148e8c5b/detection
+
+helsinki-dtc.com

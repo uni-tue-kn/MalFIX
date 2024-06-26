@@ -203,6 +203,115 @@ edulokam.com
 ezshipsy.com
 worldofmantas.com
 
+# Reference: https://twitter.com/ValidinLLC/status/1773355013948993727
+
+chumnouyka.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-03-25-v10559/1507
+
+jsluna.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-01-v10564/1522
+
+arquivisticalocal.com
+discovus.com
+mtlaikins.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-02-v10565/1524
+
+ahryssa.com
+elmworldacademy.com
+foradopicadeiro.com
+techyureka.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-08-v10570/1548
+
+fairfurryfriends.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/SmartApeSG/ (# 2024-04-11)
+
+185.216.70.123:443
+5.181.156.5:443
+ads-quantum.com
+advanceddataenterprise.com
+ahryssa.com
+aljannatquranteach.com
+arquivisticalocal.com
+bbsupplyandsalon.com
+bestopgoespink.com
+bigcuda.com
+briefscala.com
+digestlivepro.com
+discovus.com
+edulokam.com
+emonteiroadm.com
+ezshipsy.com
+fairfurryfriends.com
+gitkonus.com
+infineitsolutions.com
+jsluna.com
+machineryideas.com
+mtlaikins.com
+worldofmantas.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-15-v10575/1568
+
+bid2cart.com
+carlaweishale.com
+hlktradecenter.com
+jhansgansowen.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-16-v10576/1571
+
+barhell.com
+betvanced.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-22-v10580/1587
+
+gnoticiasimparciais.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-29-v10585/1603
+
+nanoderecho.com
+pixelread.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-06-v10590/1615
+
+firsho.com
+geronimooficial.com
+thecookoutcaterer.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-07-v10591/1617
+
+libidotechnexus.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-17-v10598/1649
+
+chezfur.com
+osiria-agency.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-29-v10605/1672
+
+079zain.com
+1kt8j.com
+burdurpastane.com
+lilygovert91.top
+
+# Reference: https://x.com/Threat_Down/status/1800919313798537505
+
+/cdn-vs/22per.php
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+intensedefense300.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-24-v10626/1760
+
+bynx.store
+messageflowpro.com
+myoptimasunlab.com
+onecapitalresidences.com
+
 # Generic
 
 /cache/ewmrgqnaww.php

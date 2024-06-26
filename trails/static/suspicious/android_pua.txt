@@ -996,3 +996,40 @@ androidapk.biz
 spykontrol.com
 pc.spykontrol.com
 appkontrol.s3.amazonaws.com
+
+# Reference: https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-proxylib-and-lumiapps-transform-mobile-devices-into-proxy-nodes
+
+lumiapps.io
+nsignal.net
+
+# Reference: https://www.virustotal.com/gui/file/00baa478e544b007e0563487bd10d95c101e3286a25a1141c8753468a6d730b3/detection
+
+dsss.gq
+
+# Reference: https://www.virustotal.com/gui/file/7e83453d04b9a28bbf4e618d6ce9c7b3c39ce831ac447345f94d92b10c64a474/detection
+
+truenaira.co
+app.truenaira.co
+
+# Reference: https://www.virustotal.com/gui/file/0006b60beef812e84cdb5003a55cb62f184171d865fc860e3c21264981bb8083/detection
+
+http://47.245.34.200
+121.43.228.180:8583
+
+# Reference: https://twitter.com/RacWatchin8872/status/1788909709249945803
+
+http://23.228.64.5
+http://23.228.77.144
+http://23.228.77.145
+http://23.228.77.147
+http://23.228.77.148
+http://23.228.77.155
+
+# Reference: https://www.virustotal.com/gui/file/000000a512a847e8ed28fdaf433d6dd601a88d74e5dd7d71bd07817b1ce3a2a2/detection
+
+android.downloadatoz.com
+topdata.downloadatoz.com
+
+# Reference: https://www.virustotal.com/gui/file/1f0d3e8ca830582c486a17de697b955e3431adf36418cb1ce9ead5089c60b5d7/detection
+
+freefire2021.giize.com

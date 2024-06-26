@@ -219,6 +219,7 @@ alicortech.com
 # Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-12-04)
 
 acotechgh.com
+akademipraktik.com
 beksystems.com
 brushremovalequipment.com
 concgc.com
@@ -240,6 +241,45 @@ onewayskateboard.com
 awumnf.com
 ulmoyc.com
 zoolclaud.pw
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-07-v10591/1617
+
+bandarsport.net
+itemsdostawa.com
+valentinedaycard.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-08-v10592/1622
+
+currentsilverprice.com
+debtavailable.com
+listwisconsin.com
+teachabletutorials.com
+voicelesson.org
+waytowealth.org
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-09-v10593/1628
+
+consultantinsurance.net
+skylinehigh.com
+y9f6z0q1w2.xyz
+
+# Reference: https://x.com/threatcat_ch/status/1799511973261922773
+
+b9y3b7ner2.xyz
+cv2b8uz46e.xyz
+v7yen47u2e.xyz
+
+# Reference: https://x.com/david_jursa/status/1799536449466909178
+
+s9l0w7n3y5.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+ryruhuu3.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-21-v10624/1751/1
+
+cleanway.5asec.fr
 
 # Generic
 

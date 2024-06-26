@@ -2761,7 +2761,6 @@ surprise.refillpantrysd.com
 
 cachewebspace.com
 dashboard.renovationsruth.com
-debasesingle.life
 ficinity.com
 webcachedata.com
 
@@ -3620,9 +3619,13 @@ xugix.policy.donnafrey.com
 zjxwd.policy.donnafrey.com
 zuwy.policy.donnafrey.com
 
+# Reference: https://x.com/threatcat_ch/status/1798333648099582316
 # Reference: https://www.virustotal.com/gui/ip-address/154.29.75.236/relations
 
 apicachebot.com
+memoryloader.com
+api.memoryloader.com
+load.memoryloader.com
 hostmaster.apicachebot.com
 mail.apicachebot.com
 suspicious-noed.absolutecache.com
@@ -3706,6 +3709,219 @@ tiqcdn.net
 domain.tiqcdn.net
 tags.tiqcdn.net
 usersync.tiqcdn.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/128.254.207.82/relations
+
+catching.fishingrealinvestments.com
+akvbk.catching.fishingrealinvestments.com
+bnc.catching.fishingrealinvestments.com
+bsjjm.catching.fishingrealinvestments.com
+bxtj.catching.fishingrealinvestments.com
+ckwxb.catching.fishingrealinvestments.com
+cxpm.catching.fishingrealinvestments.com
+dch.catching.fishingrealinvestments.com
+dpb.catching.fishingrealinvestments.com
+dqytx.catching.fishingrealinvestments.com
+eilfq.catching.fishingrealinvestments.com
+evdmq.catching.fishingrealinvestments.com
+fmgc.catching.fishingrealinvestments.com
+gccb.catching.fishingrealinvestments.com
+ggy.catching.fishingrealinvestments.com
+hlku.catching.fishingrealinvestments.com
+hxq.catching.fishingrealinvestments.com
+jme.catching.fishingrealinvestments.com
+ker.catching.fishingrealinvestments.com
+klyct.catching.fishingrealinvestments.com
+kxhu.catching.fishingrealinvestments.com
+lyup.catching.fishingrealinvestments.com
+meyl.catching.fishingrealinvestments.com
+mjdj.catching.fishingrealinvestments.com
+mnusx.catching.fishingrealinvestments.com
+ngc.catching.fishingrealinvestments.com
+ogffd.catching.fishingrealinvestments.com
+ors.catching.fishingrealinvestments.com
+pif.catching.fishingrealinvestments.com
+pvmxl.catching.fishingrealinvestments.com
+qmhs.catching.fishingrealinvestments.com
+qqsar.catching.fishingrealinvestments.com
+rbmi.catching.fishingrealinvestments.com
+rnnp.catching.fishingrealinvestments.com
+ropwc.catching.fishingrealinvestments.com
+rqqi.catching.fishingrealinvestments.com
+ryaa.catching.fishingrealinvestments.com
+rzb.catching.fishingrealinvestments.com
+sncr.catching.fishingrealinvestments.com
+src.catching.fishingrealinvestments.com
+svf.catching.fishingrealinvestments.com
+sxo.catching.fishingrealinvestments.com
+tfl.catching.fishingrealinvestments.com
+vhlje.catching.fishingrealinvestments.com
+wajnj.catching.fishingrealinvestments.com
+xafeb.catching.fishingrealinvestments.com
+xtvu.catching.fishingrealinvestments.com
+yhejt.catching.fishingrealinvestments.com
+yyidr.catching.fishingrealinvestments.com
+zetm.catching.fishingrealinvestments.com
+zgcl.catching.fishingrealinvestments.com
+zptom.catching.fishingrealinvestments.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/146.19.254.43/relations
+
+camps.topgunnbaseball.com
+
+# Reference: https://twitter.com/mojoesec/status/1774861227102999000
+# Reference: https://www.virustotal.com/gui/ip-address/193.26.115.181/relations
+# Reference: https://www.virustotal.com/gui/file/15aee31510eaa09ba1ddd3e5d21ee79f76c67d21b42150ec9d569b6645b8afab/detection
+
+schedule.golfballnutz.com
+exrkk.schedule.golfballnutz.com
+jin.schedule.golfballnutz.com
+kkf.schedule.golfballnutz.com
+knpx.schedule.golfballnutz.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/23.137.253.76/relations
+# Reference: https://twitter.com/mojoesec/status/1777406441940472170
+
+pool.hjdeboer.com
+chf.pool.hjdeboer.com
+dnfb.pool.hjdeboer.com
+ell.pool.hjdeboer.com
+nrrr.pool.hjdeboer.com
+sgm.pool.hjdeboer.com
+xoot.pool.hjdeboer.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/208.91.197.13/relations
+
+loans.fishingreelinvestments.com
+derp.loans.fishingreelinvestments.com
+dvy.loans.fishingreelinvestments.com
+esdbz.loans.fishingreelinvestments.com
+fbo.loans.fishingreelinvestments.com
+ftw.loans.fishingreelinvestments.com
+hee.loans.fishingreelinvestments.com
+hga.loans.fishingreelinvestments.com
+hts.loans.fishingreelinvestments.com
+hvi.loans.fishingreelinvestments.com
+hzypx.loans.fishingreelinvestments.com
+itbc.loans.fishingreelinvestments.com
+iyi.loans.fishingreelinvestments.com
+jefw.loans.fishingreelinvestments.com
+lcbp.loans.fishingreelinvestments.com
+pbf.loans.fishingreelinvestments.com
+qevbw.loans.fishingreelinvestments.com
+rbo.loans.fishingreelinvestments.com
+thmx.loans.fishingreelinvestments.com
+tsk.loans.fishingreelinvestments.com
+usmc.loans.fishingreelinvestments.com
+uvm.loans.fishingreelinvestments.com
+vsedt.loans.fishingreelinvestments.com
+wpda.loans.fishingreelinvestments.com
+ygbo.loans.fishingreelinvestments.com
+yrt.loans.fishingreelinvestments.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/77.221.149.184/relations
+
+register.arpsychotherapy.com
+rbf.register.arpsychotherapy.com
+slf.register.arpsychotherapy.com
+tfuq.register.arpsychotherapy.com
+uaz.register.arpsychotherapy.com
+
+# Reference: https://twitter.com/threatcat_ch/status/1782739184383410325
+# Reference: https://twitter.com/threatcat_ch/status/1782744235411726748
+# Reference: https://www.virustotal.com/gui/ip-address/65.21.119.50/relations
+# Reference: https://www.virustotal.com/gui/file/3c65b9c86eac169a0d20e43b1beee74f20d57274ef300e0be7aca9a9f98090c5/detection
+
+aihere.online
+arunrail.com
+cclining.com
+cclining.org
+d3bk.com
+docufreezer.pro
+invite-tls.team
+ipscanadvsf.com
+norunia.com
+notionso.online
+pdftoconvert.online
+scanner-ip.com
+screenhate.org
+singularityplus.net
+toconvertpdf.site
+toppdfconverter.org
+transpassional.sbs
+zoomis.pro
+zoomus.pro
+
+# Reference: https://twitter.com/mojoesec/status/1785382958829801593
+# Reference: https://www.virustotal.com/gui/ip-address/45.88.186.159/relations
+# Reference: https://www.virustotal.com/gui/file/284bc8114d14aff11ea38c2955a4689f369ce3581cc0aac3cc7cabb524d0da3d/detection
+
+demo.betterbuiltdogs.com
+cjj.demo.betterbuiltdogs.com
+dbup.demo.betterbuiltdogs.com
+fet.demo.betterbuiltdogs.com
+ljx.demo.betterbuiltdogs.com
+pbsi.demo.betterbuiltdogs.com
+qvts.demo.betterbuiltdogs.com
+undm.demo.betterbuiltdogs.com
+vmts.demo.betterbuiltdogs.com
+vytzv.demo.betterbuiltdogs.com
+yznkm.demo.betterbuiltdogs.com
+zfd.demo.betterbuiltdogs.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.66.248.122/relations
+
+muse.krazzykriss.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/147.45.78.74/relations
+
+premium.davidabostic.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-05-06-v10590/1615
+# Reference: https://www.virustotal.com/gui/ip-address/77.83.199.148/relations
+
+colo.oystergarden.net
+mkpmg.colo.oystergarden.net
+prdyd.colo.oystergarden.net
+ygf.colo.oystergarden.net
+zniup.colo.oystergarden.net
+
+# Reference: https://twitter.com/mojoesec/status/1790101412203962465
+# Reference: https://www.virustotal.com/gui/file/05ed08f3354563a05b5affe271c2b520bf7f3545a05373adf8d8ab38af4c29ae/detection
+
+location.oysterfloats.us
+jsbzd.location.oysterfloats.us
+
+# Reference: https://www.esentire.com/blog/fake-browser-updates-delivering-bitrat-and-lumma-stealer
+# Reference: https://www.virustotal.com/gui/ip-address/65.21.119.50/relations
+# Reference: https://www.virustotal.com/gui/file/377e8cbb841c1011a0a0583fc51e169b6411362a8789519fcfe3035def3eb405/detection
+
+chatgpt-app.cloud
+updatess.mooo.com
+mail.norunia.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/173.44.141.51/relations
+# Reference: https://www.virustotal.com/gui/file/00bd0cf7ab5874ed15fb851a2361678b6b1d1d5804ce7262a09a115459514910/detection
+
+scada.paradizeconstruction.com
+
+# Reference: https://x.com/threatcat_ch/status/1803409043660181755
+# Reference: https://www.virustotal.com/gui/ip-address/206.206.123.249/relations
+# Reference: https://app.validin.com/detail?find=206.206.123.249&type=ip4&ref_id=5dcb880f244#tab=resolutions
+
+jsincloud.com
+jswebcache.com
+premium.davidabostic.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-06-24-v10626/1760
+
+partners.gloriadeicr.com
+cqfk.partners.gloriadeicr.com
+cud.partners.gloriadeicr.com
+mqa.partners.gloriadeicr.com
+svq.partners.gloriadeicr.com
+wwwf.partners.gloriadeicr.com
+ybo.partners.gloriadeicr.com
 
 # Generic
 

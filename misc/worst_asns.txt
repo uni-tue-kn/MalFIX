@@ -1326,6 +1326,7 @@
 # AS9009 M247 Europe SRL
 # Reference: https://twitter.com/pmelson/status/1701985726626222392
 
+134.255.211.0/24,m247
 2.56.16.0/22,m247
 2.57.20.0/23,m247
 2.57.28.0/22,m247
@@ -4397,3 +4398,261 @@
 
 45.125.66.0/24,tele-as
 45.125.67.0/24,tele-as
+
+# AS203727
+# Reference: https://ipinfo.io/AS203727
+
+109.107.182.0/24,altawk
+193.233.255.0/24,altawk
+5.42.92.0/24,altawk
+77.91.124.0/24,altawk
+77.91.68.0/24,altawk
+
+# AS198953
+# Reference: https://ipinfo.io/AS198953
+
+193.143.1.0/24,proton66
+45.134.26.0/24,proton66
+45.135.232.0/24,proton66
+45.140.17.0/24,proton66
+91.212.166.0/24,proton66
+
+# AS208476
+# Reference: https://ipinfo.io/AS208476
+
+185.244.26.0/24,privacyfirst
+185.244.29.0/24,privacyfirst
+185.244.30.0/24,privacyfirst
+185.244.31.0/24,privacyfirst
+194.147.140.0/24,privacyfirst
+
+# AS208312
+# Reference: https://ipinfo.io/AS208312
+
+2.57.149.0/24,redbytes
+213.109.202.0/24,redbytes
+83.97.73.0/24,redbytes
+
+# AS42624
+# Reference: https://ipinfo.io/AS42624
+# Reference: https://twitter.com/banthisguy9349/status/1777620693821100486
+
+185.196.10.0/24,simplecarrier
+185.196.11.0/24,simplecarrier
+185.196.8.0/24,simplecarrier
+185.196.9.0/24,simplecarrier
+185.208.156.0/24,simplecarrier
+185.208.157.0/24,simplecarrier
+185.208.158.0/24,simplecarrier
+185.208.159.0/24,simplecarrier
+
+# AS50321
+# Reference: https://ipinfo.io/AS50321
+
+88.151.192.0/24,bytes-as
+91.238.104.0/23,bytes-as
+
+# AS215826
+# Reference: https://ipinfo.io/AS215826
+
+147.45.45.0/24,partner-hosting-ltd
+195.10.205.0/24,partner-hosting-ltd
+91.214.78.0/24,partner-hosting-ltd
+92.42.96.0/24,partner-hosting-ltd
+
+# AS210558
+# Reference: https://ipinfo.io/AS210558
+
+185.241.208.0/24,services-1337-gmbh
+194.26.192.0/24,services-1337-gmbh
+203.159.90.0/24,services-1337-gmbh
+2.58.56.0/24,services-1337-gmbh
+45.138.16.0/24,services-1337-gmbh
+45.141.215.0/24,services-1337-gmbh
+45.152.149.0/24,services-1337-gmbh
+45.154.98.0/24,services-1337-gmbh
+45.80.158.0/24,services-1337-gmbh
+45.92.1.0/24,services-1337-gmbh
+45.94.31.0/24,services-1337-gmbh
+91.206.169.0/24,services-1337-gmbh
+
+# AS215240
+# Reference: https://ipinfo.io/AS215240
+
+147.78.103.0/24,netresearch
+185.216.70.0/24,netresearch
+93.123.39.0/24,netresearch
+94.156.79.0/24,netresearch
+94.156.8.0/24,netresearch
+
+# AS215789
+# Reference: https://ipinfo.io/AS215789
+
+147.45.44.0/24,karinar
+147.45.47.0/24,karinar
+82.115.223.0/24,karinar
+
+# AS211619
+# Reference: https://ipinfo.io/AS211619
+
+185.244.30.0/24,maxko
+194.41.47.0/24,maxko
+203.31.217.0/24,maxko
+45.9.156.0/24,maxko
+45.9.168.0/24,maxko
+45.95.168.0/22,maxko
+5.182.115.0/24,maxko
+77.242.152.0/24,maxko
+77.242.153.0/24,maxko
+77.242.154.0/24,maxko
+83.137.157.0/24,maxko
+83.137.158.0/24,maxko
+88.209.205.0/24,maxko
+88.209.206.0/24,maxko
+88.209.219.0/24,maxko
+88.209.228.0/24,maxko
+88.209.236.0/24,maxko
+88.209.237.0/24,maxko
+88.209.238.0/24,maxko
+88.209.239.0/24,maxko
+88.209.254.0/24,maxko
+92.52.217.0/24,maxko
+92.52.218.0/24,maxko
+
+# AS215127
+# Reference: https://ipinfo.io/AS215127
+
+45.81.242.0/24,teapotnet-as
+
+# AS209588
+# Reference: https://ipinfo.io/AS209588
+
+141.98.82.0/24,flyservers-asn
+141.98.83.0/24,flyservers-asn
+141.98.9.0/24,flyservers-asn
+147.78.47.0/24,flyservers-asn
+179.60.147.0/24,flyservers-asn
+81.19.135.0/24,flyservers-asn
+92.51.2.0/24,flyservers-asn
+
+# AS208046
+# Reference: https://ipinfo.io/AS208046
+
+185.196.220.0/24,colocationx-datacenter
+193.142.146.0/24,colocationx-datacenter
+193.142.147.0/24,colocationx-datacenter
+45.134.225.0/24,colocationx-datacenter
+5.253.84.0/24,colocationx-datacenter
+78.142.18.0/24,colocationx-datacenter
+79.124.8.0/24,colocationx-datacenter
+
+# AS151796
+# Reference: https://ipinfo.io/AS151796
+# Reference: https://twitter.com/banthisguy9349/status/1788968135141339252
+
+103.153.4.0/24,bignetlimited-as-ap
+103.207.164.0/24,bignetlimited-as-ap
+103.207.165.0/24,bignetlimited-as-ap
+103.207.166.0/24,bignetlimited-as-ap
+103.207.167.0/24,bignetlimited-as-ap
+156.248.53.0/24,bignetlimited-as-ap
+38.181.88.0/24,bignetlimited-as-ap
+38.181.89.0/24,bignetlimited-as-ap
+38.181.91.0/24,bignetlimited-as-ap
+38.181.92.0/24,bignetlimited-as-ap
+38.181.93.0/24,bignetlimited-as-ap
+38.181.94.0/24,bignetlimited-as-ap
+38.181.95.0/24,bignetlimited-as-ap
+38.199.104.0/24,bignetlimited-as-ap
+38.199.105.0/24,bignetlimited-as-ap
+38.199.106.0/24,bignetlimited-as-ap
+38.199.107.0/24,bignetlimited-as-ap
+38.199.108.0/24,bignetlimited-as-ap
+38.199.109.0/24,bignetlimited-as-ap
+38.199.110.0/24,bignetlimited-as-ap
+38.199.111.0/24,bignetlimited-as-ap
+
+# AS211138
+# Reference: https://ipinfo.io/AS211138
+
+41.216.182.0/24,privatehosting-net
+41.216.183.0/24,privatehosting-net
+41.216.188.0/24,privatehosting-net
+41.216.189.0/24,privatehosting-net
+
+# AS214961
+# Reference: https://ipinfo.io/AS214961
+
+178.215.236.0/24,stellargroupsas
+
+# AS44901
+# Reference: https://ipinfo.io/AS44901
+
+109.94.110.0/24,belcloud
+149.13.5.0/24,belcloud
+149.13.6.0/24,belcloud
+149.13.7.0/24,belcloud
+178.255.220.0/24,belcloud
+185.141.60.0/24,belcloud
+185.141.61.0/24,belcloud
+185.141.62.0/24,belcloud
+185.141.63.0/24,belcloud
+185.148.145.0/24,belcloud
+185.148.146.0/24,belcloud
+185.148.147.0/24,belcloud
+185.177.56.0/24,belcloud
+185.177.57.0/24,belcloud
+185.177.59.0/24,belcloud
+185.196.101.0/24,belcloud
+185.203.116.0/24,belcloud
+185.203.117.0/24,belcloud
+185.203.118.0/24,belcloud
+185.203.119.0/24,belcloud
+185.205.208.0/24,belcloud
+185.205.209.0/24,belcloud
+185.205.210.0/24,belcloud
+185.206.144.0/24,belcloud
+185.206.145.0/24,belcloud
+185.206.146.0/24,belcloud
+185.206.147.0/24,belcloud
+185.243.213.0/24,belcloud
+185.244.128.0/24,belcloud
+193.37.212.0/24,belcloud
+193.37.213.0/24,belcloud
+193.37.214.0/24,belcloud
+193.37.215.0/24,belcloud
+195.230.19.0/24,belcloud
+212.73.150.0/24,belcloud
+45.137.220.0/24,belcloud
+45.137.221.0/24,belcloud
+45.137.222.0/24,belcloud
+45.137.223.0/24,belcloud
+78.40.142.0/24,belcloud
+85.217.170.0/24,belcloud
+85.217.171.0/24,belcloud
+86.104.15.0/24,belcloud
+86.106.93.0/24,belcloud
+88.80.145.0/24,belcloud
+88.80.147.0/24,belcloud
+88.80.148.0/24,belcloud
+88.80.150.0/24,belcloud
+88.80.151.0/24,belcloud
+89.45.67.0/24,belcloud
+91.132.60.0/24,belcloud
+91.132.62.0/24,belcloud
+91.132.63.0/24,belcloud
+91.92.108.0/24,belcloud
+91.92.111.0/24,belcloud
+91.92.120.0/24,belcloud
+91.92.128.0/24,belcloud
+91.92.136.0/24,belcloud
+91.92.137.0/24,belcloud
+91.92.144.0/24,belcloud
+93.115.38.0/24,belcloud
+93.94.142.0/24,belcloud
+94.156.128.0/24,belcloud
+94.156.144.0/24,belcloud
+94.156.174.0/24,belcloud
+94.156.189.0/24,belcloud
+94.156.35.0/24,belcloud
+95.169.202.0/24,belcloud

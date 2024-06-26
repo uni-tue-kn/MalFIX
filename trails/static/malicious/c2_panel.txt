@@ -739,6 +739,120 @@ yandexsupport.ddns.net
 zaza-miner.systems
 zopatolst9.temp.swtest.ru
 
+# Reference: https://www.virustotal.com/gui/ip-address/141.98.7.226/relations
+
+bbx.llc
+
+# Reference: https://twitter.com/DonPasci/status/1773472087316861380
+
+http://116.203.188.167
+http://131.221.33.178
+http://149.56.1.117
+http://149.56.12.233
+http://167.86.127.172
+http://172.111.48.76
+http://18.139.20.165
+http://181.215.46.146
+http://192.99.35.149
+http://206.83.151.7
+http://207.148.83.88
+http://212.87.214.32
+http://45.77.205.78
+http://49.12.34.122
+http://51.254.220.130
+http://65.109.232.16
+http://95.217.215.100
+nodepanel.uol.ovh
+
+# Reference: https://www.virustotal.com/gui/file/4170a728a436b2755e0751f8392309a0149996b5d48a27c04127a738b8c12cd2/detection
+
+/Server_Panel/public/commands.php
+
+# Reference: https://twitter.com/banthisguy9349/status/1782716186935095743
+
+http://91.92.244.15
+
+# Reference: https://twitter.com/banthisguy9349/status/1786078682336915883
+# Reference: https://pastebin.com/A8zCtymA
+
+exsacheck.net.tr
+ezik.world
+ixcode.com.tr
+mbwall.com
+mernis.co
+nulled.easymixtr.com
+polnet.store
+primecheck.xyz
+realfowy.com
+prime.math.thedavidglass.com
+
+# Reference: https://twitter.com/banthisguy9349/status/1787500060017631733
+
+http://106.54.200.213
+http://107.175.202.158
+http://116.204.132.131
+http://16.171.137.228
+http://185.112.147.62
+http://185.125.50.17
+http://31.27.151.203
+http://45.9.150.125
+http://51.195.211.231
+http://95.216.253.55
+103.106.189.49:8888
+104759689316.com
+112.78.3.100:7000
+172-104-103-158.ip.linodeusercontent.com
+65.21.146.254.sslip.io
+66.78.40.230.kyun.network
+70.225.125.34.bc.googleusercontent.com
+82.66.185.138:37393
+82.66.185.138:45713
+akunet.host
+aquaop.top
+badtrippaap.store
+blablaminions.online
+blablg.site.transip.me
+cf-protected-l7.com
+device-679f12e8-5521-4674-9797-cc5c04ee4213.remotewd.com
+dontdoxme.space
+dvr.getenjoyment.net
+jk005.xyz
+jk006.xyz
+jk013.xyz
+klanox.ru
+koldiv.ru
+koldiv.ru-F
+lavender-leopard-40929.zap.cloud
+linkerfunyfile.store
+lozak.site
+mail.52jfg.xyz
+mainnet-rpc.rupayx.com
+monerominer.ddns.net
+mrzopr.com
+muiairdrop.com
+netmatic.gr
+ns3109813.ip-54-36-127.eu
+panelyapiinsaat.net
+sec-1-min.usevm.xyz
+sh4945832.c.had.su
+static.254.146.21.65.clients.your-server.de
+static.55.253.216.95.clients.your-server.de
+striperouter.supelle.co
+vps-zap998573-1.zap-srv.com
+zepwk111.uk
+
+# Reference: https://twitter.com/Makesmewanna1/status/1787508657275470156
+
+http://185.112.147.62
+/db/unamewebpanel.db
+/unamewebpanel.db
+
+# Reference: https://x.com/WhichbufferArda/status/1803025904416747928
+# Reference: https://blog.eclecticiq.com/onnx-store-targeting-financial-institution
+
+http://5.181.156.247
+5.181.156.247:443
+
 # Generic
 
 /admin_123/auth.php

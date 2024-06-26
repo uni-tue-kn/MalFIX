@@ -137,6 +137,7 @@ mailchimp.com
 mailprotector.net
 mailshell.net
 mcafee.com
+mediafire.com
 microsoft.com
 msv1.invalid
 multicom.hr
@@ -183,6 +184,7 @@ takprosto.cc
 tawk.to
 testanalytics.net
 testflightapp.com
+tmpfiles.org
 torrent.eu.org
 trendmicro.com
 tumblr.com
@@ -1546,6 +1548,7 @@ cfg.cml.ksmobile.com
 
 208.91.112.52
 208.91.112.53
+208.91.112.55
 
 # AppleID resource
 
@@ -3519,9 +3522,11 @@ apps.identrust.com
 nintendo.com
 
 # Reference: https://github.com/stamparm/maltrail/issues/19149#issuecomment-1538605607
+# Reference: https://github.com/stamparm/maltrail/issues/19149#issuecomment-2081468268
 # Reference: https://www.virustotal.com/gui/domain/blackhole.monster/relations
 
 blackhole.monster
+blackhole.s-e-r-v-e-r.pw
 ip.blackhole.monster
 
 # Reference: https://www.virustotal.com/gui/domain/mastodon.xyz/relations
@@ -3991,3 +3996,18 @@ ns2.example.com
 # Reference: https://www.malwarebytes.com/blog/threat-intelligence/2023/12/new-metastealer-malvertising-campaigns
 
 accounts.google.com
+
+# Reference: https://www.virustotal.com/gui/domain/uploaddeimagens.com.br/relations
+
+uploaddeimagens.com.br
+
+# Reference: https://twitter.com/birchb0y/status/1790832044584349756
+
+brew.sh
+
+# Reference: https://github.com/stamparm/maltrail/issues/19259
+# Reference: https://github.com/stamparm/maltrail/commit/916ce06a90227a0f3ab4629aa101417effcc0b47
+
+docusign.net
+polaris.me
+powerdms.com

@@ -702,3 +702,45 @@ http://35.73.145.106
 # Reference: https://www.virustotal.com/gui/file/8165798fec8294523f25aedfc6699faad0c5d75f60bc7cefcbb2fa13dbc656e3/detection
 
 vinci-onedrive.azurewebsites.net
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2024-03-31)
+
+http://13.113.189.83
+http://18.181.61.11
+http://3.112.78.101
+http://3.115.218.3
+http://52.193.137.127
+138.124.183.209:8443
+157.230.247.198:443
+185.250.151.246:8443
+213.199.35.149:443
+3.36.144.103:443
+46.8.221.19:443
+46.8.221.19:8443
+5.253.43.96:8010
+69.176.89.82:443
+84.246.85.147:443
+88.151.192.114:443
+92.118.112.155:443
+93.66.153.13:9002
+95.179.159.107:443
+
+# Reference: https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/ (# 2024-06-22)
+
+http://18.177.14.165
+http://3.115.31.102
+http://52.68.210.54
+http://54.249.228.34
+http://54.95.170.58
+118.107.7.146:443
+31.27.187.236:9002
+45.135.232.38:8443
+45.76.53.16:443
+45.77.136.43:8443
+
+# Reference: https://x.com/Threatlabz/status/1804918852528357791
+
+94.232.249.86:7444
+94.232.249.87:7444
+barsen.monster
+kurvabbr.pw
