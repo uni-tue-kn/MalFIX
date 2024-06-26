@@ -8,6 +8,7 @@ import pyfixbuf.cert
 from core.settings import config
 from ipfix import helper
 from ipfix.information_elements import import_ie, maltrail_ie, export_ie
+from ipfix.ipfix_to_ip import ipfix_to_ip
 from sensor import _process_packet
 
 print_debug = False
@@ -111,7 +112,7 @@ class MalFix:
                 self._export_rec["dnsType"] = dns_info[1]
 
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-            self._process_packet(helper.ipfix_to_ip(data, dns_info), sec, usec, 0)
+            self._process_packet(ipfix_to_ip(data, dns_info), sec, usec, 0)
 
             if config.ipfix_pass_through:
                 self._send_ipfix()
