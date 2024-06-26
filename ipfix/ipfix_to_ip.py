@@ -81,4 +81,4 @@ def ipfix_to_ip(data, dns_info: Optional[Tuple[str, Number]]):
     else:
         packet_type = get_packet_type(is_ipv6, dns_name, protocol_identifier)
         packet = packet_mapping[packet_type]
-        return create_raw_packet(packet, src_ip, dst_ip, src_port, dst_port, dns_name, dns_type)
+        return create_raw_packet(packet, src_ip6 if is_ipv6 else src_ip, dst_ip6 if is_ipv6 else dst_ip, src_port, dst_port, dns_name, dns_type)
