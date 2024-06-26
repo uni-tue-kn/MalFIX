@@ -14,15 +14,6 @@ from sensor import _process_packet
 print_debug = False
 
 
-def _print_rec(rec: pyfixbuf.Record):
-    if print_debug:
-        print("-------------------------------------------")
-        for field in rec.iterfields():
-            if not isinstance(field.value, pyfixbuf.STL) and not isinstance(field.value, pyfixbuf.STML):
-                print(f'{field.name}: {field.value}')
-        print("-------------------------------------------\n\n")
-
-
 def _print(text):
     if print_debug:
         print(text)
@@ -83,6 +74,7 @@ class MalFix:
         self._export_buffer.set_export_template(export_template_id)
 
     def capture_ipfix(self):
+        count = 0
         self._import_buffer = self._listener.wait()
         self._import_buffer.set_record(self._import_rec)
         self._import_buffer.set_internal_template(self._import_template_id)
@@ -95,7 +87,7 @@ class MalFix:
                 if config.ipfix_pass_through:
                     self._export_rec.copy(data)
                 _print("Receiving: ")
-                _print_rec(data)
+                _print(data.as_dict())
             except StopIteration:
                 if not self._listener:
                     break
@@ -111,15 +103,16 @@ class MalFix:
                 self._export_rec["dnsName"] = dns_info[0]
                 self._export_rec["dnsType"] = dns_info[1]
 
+            count = (count + 1) % 100000
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-            self._process_packet(ipfix_to_ip(data, dns_info), sec, usec, 0)
+            self._process_packet(ipfix_to_ip(data, dns_info), sec+count, usec, 0)
 
             if config.ipfix_pass_through:
                 self._send_ipfix()
 
     def _send_ipfix(self):
         _print("Sending: ")
-        _print_rec(self._export_rec)
+        _print(self._export_rec.as_dict())
         self._export_buffer.append(self._export_rec)
         self._export_rec.clear()
 
@@ -135,7 +128,7 @@ class MalFix:
 
         if self._packet_count % 20000 == 0:
             self._export_session.export_templates()
-            self._packet_count = 0
+            self._packet_count = 1
         else:
             self._packet_count += 1
 
