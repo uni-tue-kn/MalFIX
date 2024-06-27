@@ -11,7 +11,7 @@ from ipfix.information_elements import import_ie, maltrail_ie, export_ie
 from ipfix.ipfix_to_ip import ipfix_to_ip
 from sensor import _process_packet
 
-print_debug = False
+print_debug = True
 
 
 def _print(text):
