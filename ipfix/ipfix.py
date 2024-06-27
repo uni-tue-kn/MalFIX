@@ -132,7 +132,7 @@ class MalFix:
             self._processing_time_list = []
             self._delta_packet_count = 0
             self._last_report_time = current_time
-
+        print(self._total_packet_count + self._delta_packet_count)
         if self._packet_count % 20000 == 0:
             self._export_session.export_templates()
             self._packet_count = 1
