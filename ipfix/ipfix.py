@@ -40,6 +40,9 @@ class MalFix:
         self._delta_packet_count = 0
         self._total_packet_count = 0
 
+        self._start_processing = None
+        self._processing_time_list = []
+
     def setup_pyfixbuf(self):
         self._export_elements = export_ie if config.ipfix_pass_through else maltrail_ie
         infomodel = pyfixbuf.InfoModel()
@@ -83,6 +86,7 @@ class MalFix:
             return
         while True:
             try:
+                self._start_processing = time.time()
                 data = next(self._import_buffer)
                 if config.ipfix_pass_through:
                     self._export_rec.copy(data)
@@ -118,11 +122,14 @@ class MalFix:
 
         self._delta_packet_count += 1
         current_time = time.time()
+        self._processing_time_list.append(current_time - self._start_processing)
         elapsed_time = current_time - self._last_report_time
         if elapsed_time >= 10.0:  # Report packets/sec every second
             packets_per_sec = self._delta_packet_count / elapsed_time
             self._total_packet_count += self._delta_packet_count
             print(f"records/sec: {round(packets_per_sec)}, total: {self._total_packet_count}")
+            print(f"per flow: {round(sum(self._processing_time_list) / self._delta_packet_count, 6)}")
+            self._processing_time_list = []
             self._delta_packet_count = 0
             self._last_report_time = current_time
 
