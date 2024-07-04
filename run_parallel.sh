@@ -18,6 +18,9 @@ do
     esac
 done
 
+shift $((OPTIND - 1))
+echo "$@"
+
 # Calculate the range of ports based on n
 end_port=$((port + n - 1))
 
@@ -34,4 +37,5 @@ parallel --tag --line-buffer python3 -u sensor.py \
                                         --ipfix_export_host "$host" \
                                         --ipfix_listen_port {} \
                                         --ipfix_listen_protocol "$protocol" \
+                                        "$@" \
                                         ::: $(seq "$port" $end_port)
