@@ -16,7 +16,7 @@ print_debug = False
 
 def _print(text):
     if print_debug:
-        print(text)
+        print(text.as_dict() if isinstance(text, pyfixbuf.Record) else text)
 
 
 class MalFix:
@@ -91,7 +91,7 @@ class MalFix:
                 if config.ipfix_pass_through:
                     self._export_rec.copy(data)
                 _print("Receiving: ")
-                _print(data.as_dict())
+                _print(data)
             except StopIteration:
                 if not self._listener:
                     break
@@ -116,7 +116,7 @@ class MalFix:
 
     def _send_ipfix(self):
         _print("Sending: ")
-        _print(self._export_rec.as_dict())
+        _print(self._export_rec)
         self._export_buffer.append(self._export_rec)
         self._export_rec.clear()
 
