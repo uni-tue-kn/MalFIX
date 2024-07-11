@@ -1,4 +1,5 @@
 import random
+import sys
 import time
 from numbers import Number
 from typing import Optional, Callable, Tuple
@@ -93,7 +94,7 @@ class MalFix:
                 self._export_rec["dnsName"] = dns_info[0]
                 self._export_rec["dnsType"] = dns_info[1]
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-            self._process_packet(ipfix_to_ip(data, dns_info), sec + random.randint(0, 10000), usec, 0)
+            self._process_packet(ipfix_to_ip(data, dns_info), sec + random.randint(0, sys.maxsize), usec, 0)
             if config.ipfix_pass_through:
                 self._send_ipfix()
 
