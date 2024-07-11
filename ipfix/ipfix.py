@@ -23,7 +23,7 @@ class MalFix:
     def __init__(self, _process_packet: Callable[[any, any, any, any], None]):
         self._initialized: bool = False
         self._process_packet: Callable[[any, any, any, any], None] = _process_packet
-        self._packet_count: int = 0
+        self._last_export_time = 0
 
         self._export_session: Optional[pyfixbuf.Session] = None
         self._import_buffer: Optional[pyfixbuf.Buffer] = None
@@ -41,7 +41,6 @@ class MalFix:
         self._total_packet_count = 0
 
         self._start_processing = None
-        self._processing_time_list = []
 
     def setup_pyfixbuf(self):
         self._export_elements = export_ie if config.ipfix_pass_through else maltrail_ie
@@ -109,7 +108,7 @@ class MalFix:
 
             count = (count + 1) % 100000
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-            self._process_packet(ipfix_to_ip(data, dns_info), sec+count, usec, 0)
+            self._process_packet(ipfix_to_ip(data, dns_info), sec + count, usec, 0)
 
             if config.ipfix_pass_through:
                 self._send_ipfix()
@@ -117,31 +116,31 @@ class MalFix:
     def _send_ipfix(self):
         _print("Sending: ")
         _print(self._export_rec)
+        current_time = time.time()
+        self._export_template(current_time)
         self._export_buffer.append(self._export_rec)
         self._export_rec.clear()
-
-        self._delta_packet_count += 1
-        current_time = time.time()
-        self._processing_time_list.append(current_time - self._start_processing)
-        elapsed_time = current_time - self._last_report_time
-        if elapsed_time >= 10.0:  # Report packets/sec every second
-            packets_per_sec = self._delta_packet_count / elapsed_time
-            self._total_packet_count += self._delta_packet_count
-            print(f"records/sec: {round(packets_per_sec)}, total: {self._total_packet_count}")
-            print(f"per flow: {round(sum(self._processing_time_list) / self._delta_packet_count, 6)}")
-            self._processing_time_list = []
-            self._delta_packet_count = 0
-            self._last_report_time = current_time
-        if self._packet_count % 20000 == 0:
-            self._export_session.export_templates()
-            self._packet_count = 1
-        else:
-            self._packet_count += 1
+        self._record_stats(current_time)
 
     def report_event(self, event: Tuple):
         helper.write_maltrail_to_record(event, self._export_rec, config.ipfix_pass_through)
         if not config.ipfix_pass_through:
             self._send_ipfix()
+
+    def _export_template(self, current_time):
+        if current_time - self._last_export_time > (60*10):
+            self._export_session.export_templates()
+            self._last_export_time = current_time
+
+    def _record_stats(self, current_time):
+        self._delta_packet_count += 1
+        elapsed_time = current_time - self._last_report_time
+        if elapsed_time >= 10.0:  # Report packets/sec every second
+            packets_per_sec = self._delta_packet_count / elapsed_time
+            self._total_packet_count += self._delta_packet_count
+            print(f"records/sec: {round(packets_per_sec)}, total: {self._total_packet_count}")
+            self._delta_packet_count = 0
+            self._last_report_time = current_time
 
 
 global_malfix = MalFix(_process_packet)
