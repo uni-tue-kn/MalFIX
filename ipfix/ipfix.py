@@ -108,6 +108,7 @@ class MalFix:
         current_time = time.time()
         self._export_template(current_time)
         self._export_buffer.append(self._export_rec)
+        self._export_buffer.emit()
         self._export_rec.clear()
         self._record_stats(current_time)
 
