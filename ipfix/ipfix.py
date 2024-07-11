@@ -1,3 +1,4 @@
+import random
 import time
 from numbers import Number
 from typing import Optional, Callable, Tuple
@@ -21,7 +22,6 @@ def _print(text):
 
 class MalFix:
     def __init__(self, _process_packet: Callable[[any, any, any, any], None]):
-        self._initialized: bool = False
         self._process_packet: Callable[[any, any, any, any], None] = _process_packet
         self._last_export_time = 0
 
@@ -35,12 +35,9 @@ class MalFix:
         self._import_elements: Optional[list] = import_ie
         self._export_elements: Optional[list] = None
 
-        self._start_time = time.time()
-        self._last_report_time = self._start_time
+        self._last_report_time = time.time()
         self._delta_packet_count = 0
         self._total_packet_count = 0
-
-        self._start_processing = None
 
     def setup_pyfixbuf(self):
         self._export_elements = export_ie if config.ipfix_pass_through else maltrail_ie
@@ -51,7 +48,6 @@ class MalFix:
         infomodel.add_element(pyfixbuf.InfoElement('dnsType', 420, 3, type=pyfixbuf.DataType.UINT8))
         self._setup_import(infomodel)
         self._setup_export(infomodel)
-        self._initialized = True
 
     def _setup_import(self, infomodel: pyfixbuf.InfoModel):
         import_template = pyfixbuf.Template(infomodel)
@@ -76,22 +72,14 @@ class MalFix:
         self._export_buffer.set_export_template(export_template_id)
 
     def capture_ipfix(self):
-        count = 0
-        self._import_buffer = self._listener.wait()
-        self._import_buffer.set_record(self._import_rec)
-        self._import_buffer.set_internal_template(self._import_template_id)
-        if not self._initialized:
-            print('IPFix not init!')
-            return
         while True:
             try:
-                self._start_processing = time.time()
                 data = next(self._import_buffer)
                 if config.ipfix_pass_through:
                     self._export_rec.copy(data)
                 _print("Receiving: ")
                 _print(data)
-            except StopIteration:
+            except (StopIteration, TypeError):
                 if not self._listener:
                     break
                 else:
@@ -99,19 +87,20 @@ class MalFix:
                     self._import_buffer.set_record(self._import_rec)
                     self._import_buffer.set_internal_template(self._import_template_id)
                     continue
-
             dns_info: Optional[Tuple[str, Number]] = None
             if "dnsName" in data:
                 dns_info = (data['dnsName'], data['dnsType'])
                 self._export_rec["dnsName"] = dns_info[0]
                 self._export_rec["dnsType"] = dns_info[1]
-
-            count = (count + 1) % 100000
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
-            self._process_packet(ipfix_to_ip(data, dns_info), sec + count, usec, 0)
-
+            self._process_packet(ipfix_to_ip(data, dns_info), sec + random.randint(0, 10000), usec, 0)
             if config.ipfix_pass_through:
                 self._send_ipfix()
+
+    def report_event(self, event: Tuple):
+        helper.write_maltrail_to_record(event, self._export_rec, config.ipfix_pass_through)
+        if not config.ipfix_pass_through:
+            self._send_ipfix()
 
     def _send_ipfix(self):
         _print("Sending: ")
@@ -122,13 +111,8 @@ class MalFix:
         self._export_rec.clear()
         self._record_stats(current_time)
 
-    def report_event(self, event: Tuple):
-        helper.write_maltrail_to_record(event, self._export_rec, config.ipfix_pass_through)
-        if not config.ipfix_pass_through:
-            self._send_ipfix()
-
     def _export_template(self, current_time):
-        if current_time - self._last_export_time > (60*10):
+        if current_time - self._last_export_time > (60 * 10):
             self._export_session.export_templates()
             self._last_export_time = current_time
 
