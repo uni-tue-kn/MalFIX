@@ -53,8 +53,12 @@ export_ie = [
 
     pyfixbuf.InfoElementSpec("dnsName"),
     pyfixbuf.InfoElementSpec("dnsType"),
-    pyfixbuf.InfoElementSpec("maltrail")
+    pyfixbuf.InfoElementSpec("malfix_type"),
+    pyfixbuf.InfoElementSpec("malfix_trail"),
+    pyfixbuf.InfoElementSpec("malfix_info"),
+    pyfixbuf.InfoElementSpec("malfix_reference"),
 ]
+
 
 maltrail_ie = [
     pyfixbuf.InfoElementSpec("sourceIPv4Address"),
@@ -67,7 +71,11 @@ maltrail_ie = [
 
     pyfixbuf.InfoElementSpec("protocolIdentifier"),
 
-    pyfixbuf.InfoElementSpec("maltrail"),
     pyfixbuf.InfoElementSpec("dnsName"),
-    pyfixbuf.InfoElementSpec("dnsType")
+    pyfixbuf.InfoElementSpec("dnsType"),
+
+    pyfixbuf.InfoElementSpec("malfix_type"),
+    pyfixbuf.InfoElementSpec("malfix_trail"),
+    pyfixbuf.InfoElementSpec("malfix_info"),
+    pyfixbuf.InfoElementSpec("malfix_reference"),
 ]

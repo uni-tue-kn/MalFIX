@@ -44,9 +44,13 @@ class MalFix:
         self._export_elements = export_ie if config.ipfix_pass_through else maltrail_ie
         infomodel = pyfixbuf.InfoModel()
         pyfixbuf.cert.add_elements_to_model(infomodel)
-        infomodel.add_element(pyfixbuf.InfoElement('maltrail', 420, 1, type=pyfixbuf.DataType.STRING))
-        infomodel.add_element(pyfixbuf.InfoElement('dnsName', 420, 2, type=pyfixbuf.DataType.STRING))
-        infomodel.add_element(pyfixbuf.InfoElement('dnsType', 420, 3, type=pyfixbuf.DataType.UINT8))
+        infomodel.add_element_list([pyfixbuf.InfoElement('dnsName', 420, 1, type=pyfixbuf.DataType.STRING),
+                                    pyfixbuf.InfoElement('dnsType', 420, 2, type=pyfixbuf.DataType.UINT8),
+                                    pyfixbuf.InfoElement("malfix_type", 420, 3, type=pyfixbuf.DataType.STRING),
+                                    pyfixbuf.InfoElement("malfix_trail", 420, 4, type=pyfixbuf.DataType.STRING),
+                                    pyfixbuf.InfoElement("malfix_info", 420, 5, type=pyfixbuf.DataType.STRING),
+                                    pyfixbuf.InfoElement("malfix_reference", 420, 6, type=pyfixbuf.DataType.STRING),
+                                    ])
         self._setup_import(infomodel)
         self._setup_export(infomodel)
 
@@ -109,7 +113,6 @@ class MalFix:
         current_time = time.time()
         self._export_template(current_time)
         self._export_buffer.append(self._export_rec)
-        self._export_buffer.emit()
         self._export_rec.clear()
         self._record_stats(current_time)
 
