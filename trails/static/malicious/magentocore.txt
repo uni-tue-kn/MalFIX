@@ -5719,6 +5719,7 @@ webffx.bz
 
 api-facebook.net
 api-localhost.com
+backstagecontacts.com
 cdn-bootstrapcdn.com
 conect-facebook.net
 core-static.com
@@ -8221,6 +8222,9 @@ nothing536.loan
 operator595.city
 passenger210.bar
 reduction925.cc
+rere.live
+rfer.co
+rtrk.be
 salt204.me
 slavery588.biz
 someone332.bond
@@ -8229,6 +8233,8 @@ supper728.gifts
 temple321.bar
 wa-track.com
 war740.engineer
+web-cockpit.jp
+zizy.lt
 bx46558954.block714.mobi
 6383573447.dig159.digital
 a139127292.dig159.digital
@@ -8724,8 +8730,10 @@ cdn.retpin.online
 cdn.shestiteek.quest
 cdn.tiopot.shop
 cdn.uakachumob.store
+cdn.udamos.online
 cdn.ukatec.pics
 cdn.undedigit.site
+cdn.vedldeno.store
 cdn.vinalink.click
 cdn.yelobit.online
 ww12.podobadigit.quest
@@ -9952,6 +9960,7 @@ cdn-analytic.net
 
 # Reference: https://twitter.com/sdcyberresearch/status/1765006091404869790
 # Reference: https://twitter.com/sdcyberresearch/status/1767159363729301667
+# Reference: https://x.com/sdcyberresearch/status/1810322431434727617
 
 admission616.clothing
 clay468.loan
@@ -9968,6 +9977,7 @@ punctual501.work
 respect802.gold
 slip136.fyi
 static-cdn.info
+ao97283204.static-cdn.info
 aw91804586.fault185.cool
 cm2346556.slip136.fyi
 db30325716.dance774.guru
@@ -10543,14 +10553,35 @@ tagmanager.ml
 # Reference: https://www.virustotal.com/gui/ip-address/193.3.19.162/relations
 # Reference: https://www.virustotal.com/gui/ip-address/193.3.19.36/relations
 
+adopt447.email
 blind761.asia
+by670.ltd
+classification327.city
+comes236.bar
 convenient830.cool
+course470.digital
 cover351.date
+crowd288.credit
+discomfort972.biz
 fine459.dog
+hunt734.monster
+lessen512.gold
 lord479.gold
+mile359.mobi
+nephew641.asia
+of584.buzz
 old221.asia
+opinion631.guru
 party257.engineer
+plant661.directory
+recommend173.dog
 stair151.clinic
+sun631.ink
+sweat320.asia
+wash856.estate
+waste191.ltd
+wheel194.buzz
+without527.agency
 
 # Reference: https://twitter.com/sdcyberresearch/status/1778056754636451903
 # Reference: https://www.virustotal.com/gui/ip-address/195.242.110.37/relations
@@ -11421,7 +11452,7 @@ wanderer.pinelli90.ml
 
 # Reference: https://twitter.com/sdcyberresearch/status/1787452025610895713
 # Reference: https://www.virustotal.com/gui/ip-address/195.242.110.8/relations
-# Refrence: https://app.validin.com/detail?find=195.242.110.8&type=ip4&ref_id=4c17b4e4cd4#tab=resolutions
+# Reference: https://app.validin.com/detail?find=195.242.110.8&type=ip4&ref_id=4c17b4e4cd4#tab=resolutions
 
 beztech.site
 clifolink.online
@@ -11732,6 +11763,7 @@ chigomob.online
 coyundearias.xyz
 ctotech.store
 cvyatop.online
+delamint.online
 depiters.store
 dilink.click
 dipteb.quest
@@ -11745,6 +11777,7 @@ feyatic.quest
 fototytrul.online
 frektech.site
 frothelink.quest
+fudorable.website
 gamakatvet.store
 gelte.site
 gemintele.shop
@@ -11762,6 +11795,7 @@ isolatec.site
 jectop.store
 jegpll.shop
 jeremob.site
+jsmhxfd.online
 joermen.store
 jojtom.store
 joyjon.click
@@ -11782,6 +11816,7 @@ mistlink.online
 mokamob.site
 molotech.online
 neznlink.store
+nishbakh.site
 nsnamob.site
 obshmob.shop
 pantech.online
@@ -11943,6 +11978,7 @@ cdn.yololive.sbs
 cdn.zakit.quest
 cdn.zapolmob.sbs
 cdn.zarelec.quest
+tvd.nishbakh.site
 
 # Reference: https://www.virustotal.com/gui/ip-address/195.242.110.10/relations
 
@@ -11976,6 +12012,9 @@ tagmanager.space
 ns1.tagmanager.space
 
 # Reference: https://x.com/sdcyberresearch/status/1801178651288871147
+# Reference: https://x.com/sdcyberresearch/status/1808102569086013847
+# Reference: https://www.virustotal.com/gui/ip-address/141.98.80.82/relations
+# Reference: https://app.validin.com/detail?find=141.98.80.0%2F24&type=ip&ref_id=93c02ace42f#tab=resolutions
 # Reference: https://app.validin.com/detail?find=91.202.233.147&type=ip4&ref_id=da1c921fe1c#tab=resolutions
 
 cnv.icu
@@ -11983,11 +12022,25 @@ cvd.icu
 cvn.icu
 cvv.icu
 dcv.icu
+ddv.icu
+dvv.icu
 ndn.icu
 nnv.icu
 nvv.icu
 vcn.icu
+vdd.icu
+vdv.icu
 vnv.icu
+vvd.icu
+
+# Reference: https://x.com/sdcyberresearch/status/1815380710737522937
+# Reference: https://www.virustotal.com/gui/ip-address/94.131.110.36/relations
+
+vvcv.icu
+vvdv.icu
+vvvc.icu
+vvvd.icu
+vvvn.icu
 
 # Reference: https://x.com/sdcyberresearch/status/1801186223593005289
 
@@ -12010,6 +12063,7 @@ kuurza.com
 amulink.click
 asekick.store
 boencon.click
+chosnow.online
 dvatop.quest
 feehner.online
 filtecc.quest
@@ -12034,6 +12088,7 @@ yeinc.store
 cdn.amulink.click
 cdn.asekick.store
 cdn.boencon.click
+cdn.chosnow.online
 cdn.dvatop.quest
 cdn.feehner.online
 cdn.filtecc.quest
@@ -12055,6 +12110,411 @@ cdn.vangot.online
 cdn.velput.online
 cdn.verdigit.click
 cdn.yeinc.store
+
+# Reference: https://x.com/sdcyberresearch/status/1800133719464006128
+# Reference: https://www.virustotal.com/gui/ip-address/78.128.112.217/relations
+# Reference: https://app.validin.com/detail?find=78.128.112.217&type=ip4&ref_id=53e84d71645#tab=resolutions
+
+0check.shop
+dbuono.shop
+extrastat.network
+firstat.guru
+globaltag.shop
+hardstat.bond
+istats.online
+jetag.one
+kanalytics.digital
+lowhost.buzz
+megatag.cam
+nccoastalvolleyball.shop
+newanalytics.homes
+opentag.lat
+plustat.forum
+quicklnk.asia
+retrostat.autos
+statz.christmas
+tagmanager.guru
+tagmanager.network
+truetag.fit
+ultranalytics.shop
+ultratags.shop
+unitag.info
+virtmarkt.shop
+zentag.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.193.125.168/relations
+
+gtagmanager.app
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.111.0%2F24#tab=resolutions (# 2024-07-10)
+
+ambidot.click
+bigjet.click
+halyeel.shop
+kanalit.site
+kitlinks.online
+mjeetech.store
+negoon.quest
+veuseel.click
+cdn.ambidot.click
+cdn.bigjet.click
+cdn.halyeel.shop
+cdn.kanalit.site
+cdn.kitlinks.online
+cdn.mjeetech.store
+cdn.negoon.quest
+cdn.veuseel.click
+
+# Reference: https://x.com/sdcyberresearch/status/1811388642377498669
+
+store.statsforapps.com/app/mobile/buildfire/api/api.min.js
+
+# Reference: https://sansec.io/research/cosmicsting-hitting-major-stores
+# Reference: https://www.virustotal.com/gui/ip-address/82.202.165.36/relations
+# Reference: https://www.virustotal.com/gui/ip-address/82.202.165.43/relations
+# Reference: https://www.virustotal.com/gui/ip-address/82.202.165.48/relations
+# Reference: https://www.virustotal.com/gui/ip-address/82.202.165.55/relations
+# Reference: https://www.virustotal.com/gui/ip-address/82.202.165.96/relations
+
+api4cdn.io
+bingforce.org
+easttrack.net
+foptimize.net
+freedombot.io
+freeview.io
+gearplace.net
+infiniboosts.com
+inpwrd.io
+pomtag.net
+quantlive.net
+registertime.net
+ruleslaw.org
+saleapi.org
+servicetoast.net
+stackapt.com
+staticforce.org
+wealthleaderinc.com
+wisepops.co
+yotpont.com
+app.ruleslaw.org
+app.staticforce.org
+h.pomtag.net
+js.yotpont.com
+map.registertime.net
+temp.quantlive.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/195.20.50.188/relations
+
+static-jquery.ga
+
+# Reference: https://www.virustotal.com/gui/ip-address/139.180.219.218/relations
+# Reference: https://www.virustotal.com/gui/ip-address/148.135.91.83/relations
+# Reference: https://www.virustotal.com/gui/ip-address/5.61.47.234/relations
+# Reference: https://www.virustotal.com/gui/ip-address/95.179.178.92/relations
+
+analyticsapi.club
+analyticsvisits.com
+jquerycdn.store
+jquerylab.pw
+static.jquerycdn.store
+test.jquerylab.pw
+
+# Reference: https://www.virustotal.com/gui/ip-address/5.45.122.116/relations
+
+jquery.space
+static.jquery.space
+
+# Reference: https://www.virustotal.com/gui/ip-address/134.122.109.150/relations
+
+jqurey.vip
+jsdelivr.autos
+autoscdn.jsdelivr.autos
+cdn.jsdelivr.autos
+dn.jsdelivr.autos
+fcdn.jsdelivr.autos
+magento.setting.gg
+static.jqurey.vip
+
+# Reference: https://x.com/sdcyberresearch/status/1812853003893837885
+# Reference: https://www.virustotal.com/gui/ip-address/77.238.233.189/relations
+
+adsimilar.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=45.88.3.0%2F24#tab=resolutions
+
+comslet.store
+cvirdot.quest
+kirelit.site
+koontop.click
+redelot.shop
+shemmob.online
+cdn.comslet.store
+cdn.cvirdot.quest
+cdn.kirelit.site
+cdn.koontop.click
+cdn.redelot.shop
+cdn.shemmob.online
+
+# Reference: https://app.validin.com/detail?find=45.88.3.141&type=ip4&ref_id=b806f575d8e#tab=resolutions
+
+ditchdigit.quest
+genotic.shop
+heleveni.cyou
+henotik.click
+komotech.quest
+santecs.store
+wenmen.online
+cdn.ditchdigit.quest
+cdn.genotic.shop
+cdn.heleveni.cyou
+cdn.henotik.click
+cdn.komotech.quest
+cdn.santecs.store
+cdn.wenmen.online
+
+# Reference: https://x.com/sdcyberresearch/status/1815710792651555218
+# Reference: https://www.virustotal.com/gui/ip-address/45.125.67.12/relations
+
+statistics-for-you.com
+wellfacing.com
+yourmarketingpay.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24
+
+fomloop.site
+getrei.store
+hihekic.online
+leftec.quest
+limatop.shop
+cdn.fomloop.site
+cdn.getrei.store
+cdn.hihekic.online
+cdn.leftec.quest
+cdn.limatop.shop
+
+# Reference: https://x.com/sdcyberresearch/status/1816105654416748722
+# Reference: https://x.com/ValidinLLC/status/1816449533359833160
+# Reference: https://www.virustotal.com/gui/ip-address/172.86.107.49/relations
+# Reference: https://www.virustotal.com/gui/ip-address/172.86.124.36/relations
+# Reference: https://www.virustotal.com/gui/ip-address/91.194.11.108/relations
+
+cdnamgasite.com
+cdnamgastyle.com
+cdnassetsite.com
+cdnjsdev.com
+cdnjsdevs.com
+devblen.com
+logicloo.com
+pixelforgts.com
+techglitc.com
+
+# Reference: https://x.com/sdcyberresearch/status/1817910238520959453
+
+abbiecrm.com
+adsprep.online
+b2blinkstorage.com
+b2bsolution24.com
+cartflowcrm.com
+cartfreedom.com
+cartualcrm.com
+clarkcrm.com
+click-analytics.net
+corkscrm.com
+crmbargs.com
+crmcrown.com
+crmdaps.com
+crmfant.site
+crmgibs.com
+crmkrafft.com
+crmprew.com
+crmprove.com
+crmrebss.com
+fastbcrm.com
+octalcrm.com
+quickcartcloud.com
+shopcartcrm.com
+smartcli.org
+smoothb2b.com
+smoothconnect.org
+speedspree.org
+speedysalestore.com
+tikmoneyid.cfd
+trustedapi.org
+updatecrm.org
+
+# Reference: https://www.virustotal.com/gui/domain/cdn-delivery-xyz.com/relations
+
+cdn-delivery-xyz.com
+chu.cdn-delivery-xyz.com
+dir.cdn-delivery-xyz.com
+
+# Reference: https://app.validin.com/detail?find=185.196.9.82&type=ip4&ref_id=e7811530e8a#tab=resolutions
+
+gmduftruepaitus.com
+javascript-static.com
+web3work.space
+
+# Reference: https://x.com/sdcyberresearch/status/1820463720965009424
+
+naturalcuriosities.com/a.js
+naturalcuriosities.com/obb.js
+
+# Reference: https://x.com/sdcyberresearch/status/1820837819088040000
+# Reference: https://x.com/sdcyberresearch/status/1821167470792638621
+# Reference: https://x.com/sdcyberresearch/status/1821167541818884207
+# Reference: https://x.com/sdcyberresearch/status/1822940433712111840
+# Reference: https://x.com/sdcyberresearch/status/1825517871893524530
+
+codcraft.shop
+codemingle.shop
+getlnfo.com
+luckycharm.website
+marketexpert.site
+paysysmetrics.com
+pixelsmith.shop
+productpulsehub.com
+protocolhubinfo.com
+reviewharborhub.com
+salesguru.online
+sibautomation.com
+statistall.com
+statlstic.shop
+statmaster.shop
+vodog.shop
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions
+
+dewoper.click
+kismic.click
+maketech.online
+strodigit.store
+tonamob.quest
+truvit.shop
+cdn.dewoper.click
+cdn.kismic.click
+cdn.maketech.online
+cdn.strodigit.store
+cdn.tonamob.quest
+cdn.truvit.shop
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.111.0%2F24#tab=resolutions
+
+helotop.site
+loetec.quest
+cdn.helotop.site
+cdn.loetec.quest
+
+# Reference: https://sansec.io/research/magento-wish-list-exploits
+
+http://69.49.246.122
+a.aa4.in
+purplesunrise.com/2.js
+triconville.com/pub/errors/cr.js
+
+# Reference: https://app.validin.com/detail?type=ip&find=45.88.3.0%2F24#tab=resolutions
+
+deqbit.quest
+feurcat.shop
+pealink.store
+shebil.online
+svetmob.click
+cdn.deqbit.quest
+cdn.feurcat.shop
+cdn.pealink.store
+cdn.shebil.online
+cdn.svetmob.click
+
+# Reference: https://blog.sucuri.net/2024/08/prestashop-gtag-websocket-skimmer.html
+# Reference: https://www.virustotal.com/gui/ip-address/176.113.115.198/relations
+
+iconstaff.top
+cd.iconstaff.top
+cdn.iconstaff.top
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-23-v10673/1914
+
+analytlx.shop
+artvislon.shop
+datawiz.shop
+deslgnpro.shop
+happywave.shop
+luckipath.shop
+trendset.website
+
+# Reference: https://app.validin.com/detail?type=ip&find=45.88.3.0%2F24#tab=resolutions
+
+creftip.shop
+gamdev.site
+jirelit.shop
+lhetoyer.store
+logidigit.online
+nesudteq.click
+otroot.quest
+peretec.click
+roztab.shop
+samloop.online
+vitadigit.quest
+cdn.creftip.shop
+cdn.gamdev.site
+cdn.jirelit.shop
+cdn.lhetoyer.store
+cdn.logidigit.online
+cdn.nesudteq.click
+cdn.otroot.quest
+cdn.peretec.click
+cdn.roztab.shop
+cdn.samloop.online
+cdn.vitadigit.quest
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions
+
+erhiteed.site
+geytiit.shop
+jeqvic.quest
+poglot.click
+povemob.store
+cdn.erhiteed.site
+cdn.geytiit.shop
+cdn.jeqvic.quest
+cdn.poglot.click
+cdn.povemob.store
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.111.0%2F24#tab=resolutions
+
+cheqseep.online
+dushiotk.store
+cdn.cheqseep.online
+cdn.dushiotk.store
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-26-v10674/1918
+
+artickon.shop
+articon.website
+happyllfe.online
+luckkystar.shop
+seilsmart.shop
+selllify.shop
+
+# Reference: https://sansec.io/research/cosmicsting-cnext-persistent-backdoor
+
+accept.bar
+amocha.xyz
+cdn-webstats.com
+clearnetfab.net
+fallodick87-78.sbs
+inspectdlet.net
+jqueryuslibs.com
+jstatic201.com
+lererikal.org
+mamatmavali.ru
+nothingillegal.bond
+paie-locli.com
+sellerstat.site
+statsseo.com
+statstoday.org
+vincaolet.xyz
+webexcelsior.org
+cdn.inspectdlet.net
 
 # Generic
 

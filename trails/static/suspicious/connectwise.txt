@@ -35,3 +35,298 @@ instance-m73xwc-relay.screenconnect.com
 
 192.3.176.135:443
 192.3.176.135:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/110.141.198.161/relations
+# Reference: https://www.virustotal.com/gui/file/238293270bed603b8622b2bb3ae968e09b629c7c3091cc72953463b9f14f299f/detection
+
+abbs.hopto.org
+myabbs.hopto.org
+
+# Reference: https://x.com/malwrhunterteam/status/1813085722716610795
+# Reference: https://www.virustotal.com/gui/file/112e780bd43ca5296bae9e4dd8b32964a518b8153f5e281c4a7c79ae7a0c2bef/detection
+
+94.131.109.18:8041
+sup2.sbk771.ru
+
+# Reference: https://www.virustotal.com/gui/file/18068b074d2be4e0d4c575b27f29bed6904230640e65cf2c1c8b088467f93688/detection
+
+sup2.cc771.ru
+
+# Reference: https://www.virustotal.com/gui/file/7251320890bda33ed7964515d296077541527d0a5b0d167c9593cdb82793dbf4/detection
+
+212.8.251.119:8041
+ctrl11.xyz
+control.ctrl11.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.131.109.18/relations
+
+control.247sup.org
+control.ctrl15.ru
+control.ctrl901.org
+m.mobile911.org
+sup2.bck123.org
+sup2.bck911.org
+sup2.cc771.ru
+sup2.sbk117.ru
+sup2.sc110.ru
+sup2.sc400.ru
+sup2.sp3300.ru
+
+# Reference: https://x.com/doc_guard/status/1821513954100646036
+# Reference: https://app.docguard.io/871e96fc0a955e25288ca9a3e94468b1855b36c9dc0200898e35c049d9275e2e/results/dashboard
+# Reference: https://www.virustotal.com/gui/file/871e96fc0a955e25288ca9a3e94468b1855b36c9dc0200898e35c049d9275e2e/detection
+
+192.3.243.147:8041
+viewertest.buzz
+
+# Reference: https://x.com/malwrhunterteam/status/1823262949789544937
+# Reference: https://app.validin.com/detail?find=%5Cr%5Cn%5CtSupport%5Cr%5Cn&type=raw&ref_id=68d2c807012#tab=host_pairs_v2
+# Reference: https://www.virustotal.com/gui/file/61e05c1375bf53cfd0b6dc43d73b76e0c76a21829d119cfc410175a91c531be4/detection
+# Reference: https://www.virustotal.com/gui/file/af0c898ab09223b4adb394e52928c835d144106ea382dd21418ae707687e4f76/detection
+# Reference: https://www.virustotal.com/gui/file/9ebc018a2f3fe77b5355c2d9508133505d7ef55f251f13a175615dbf81e26fe9/detection
+# Reference: https://www.virustotal.com/gui/file/666aa713579df90134c83e3297eba42dd7d0d35bb343b9cd94af0793e8f8a0ab/detection
+# Reference: https://www.virustotal.com/gui/file/4e81851729d58f321bb83bdb03200f62bc5ee56e0703b2d609a3923a033d5b53/detection
+
+45.83.31.11:8041
+79.110.49.157:8041
+alhelp.top
+allhelp.info
+blhelp.top
+cehelp.top
+ct1sbacks.site
+cxhelp.online
+dapxa.top
+dts1backks.site
+edcthmedu.serveblog.net
+fhelp.pro
+fhelp.top
+gehelp.top
+gethelpfast.net
+kfhelp.top
+khelp.site
+kohelp.top
+kthelp.top
+kuhelp.top
+mcthelp.site
+mhelp2.site
+msupport.top
+mtassist.site
+n2back96.site
+nrs18.loginlink1.org
+ooop21.zapto.org
+pohelp.top
+polhelp.top
+pothelp.top
+poyttwq.zapto.org
+qhelp.top
+qtemp.top
+railindiaticket.in
+settleweddings.in
+slhelp.top
+soporte247.top
+soporte365.top
+supportus.online
+web.quasarcomputer.it
+web.universidadefhenix.com.br
+whelp.top
+yg1back.site
+zhelp.top
+zonesc.ddns.net
+
+# Reference: https://www.virustotal.com/gui/file/9026cd41431f18e7229f97fc77041c46d86fcd323e2a87e95fe08c699c5946b7/detection
+
+37.221.67.23:8041
+
+# Reference: https://www.virustotal.com/gui/file/15cf939d82a48ef54b00ea86b514970ed8569bd52690eff10ae291baf05a1c12/detection
+# Reference: https://www.virustotal.com/gui/file/2f4489ca94982d0c86dd055ec19cd833f8effb6d19afaffee7673db8329afca3/detection
+
+91.92.247.175:8041
+klhelp.site
+kkkssi21.work.gd
+
+# Reference: https://www.virustotal.com/gui/file/35819c162bfb5a58bbf39e33da0eaeaabbea63bc41b7663f35060d4424228a93/detection
+
+91.92.241.2:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.255.71/relations
+# Reference: https://www.virustotal.com/gui/file/ecd0368f3fdec503981036632383fcc513441e1b22df37fdf84820b8c8a8ac35/detection
+
+91.92.255.71:8041
+alert4.be
+sahelp.site
+sshelp.site
+secdlform.work.gd
+
+# Reference: https://www.virustotal.com/gui/file/a650b5afff97f8d03e25b710c2038213c31b1fd06a86e6cbeddf285c1b54ce5e/detection
+
+peritumsolucoes.com
+
+# Reference: https://www.virustotal.com/gui/file/f2056a3a13ffc5c3097d2fd286463433f4c913f38736a91afabe8abea3182d87/detection
+# Reference: https://www.virustotal.com/gui/file/c512ea88b7cf98b368686b9d3708d02426a8bcbc30ee0384e679a30d5fb088c3/detection
+# Reference: https://www.virustotal.com/gui/file/3fa2bb31f169cce2ee77655338e906d24a627a4cfa7f7fc9169d041759dbcf41/detection
+# Reference: https://www.virustotal.com/gui/file/3b0a9cf9d316e8523b845cf126e6997d578d41f8f100569ea8c6bb6f044a5183/detection
+
+79.110.49.245:8041
+iiwq24.zapto.org
+
+# Reference: https://www.virustotal.com/gui/ip-address/213.232.235.44/relations
+# Reference: https://www.virustotal.com/gui/file/ac4238aa1a07193232a07b11f8b2425ea38029538f004020adfc268ba6ecb3ff/detection
+
+213.232.235.44:8041
+loginlink2.site
+mycoffeehouse.site
+dts1berckks.loginlink2.site
+dts1berckks.mycoffeehouse.site
+w56d.dts1berckks.loginlink2.site
+w56d.dts1berckks.mycoffeehouse.site
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.240.32/relations
+
+http://91.92.240.32
+
+# Reference: https://www.virustotal.com/gui/file/e527f198467dab1c1781e1341af5b1f3881820d778498fa12a0f609e5b8ad7e5/detection
+
+91.92.249.120:8041
+supportservice.zapto.org
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.241.134/relations
+
+91.92.241.134:8041
+ltcare.top
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.156.65.4/relations
+# Reference: https://www.virustotal.com/gui/file/ffe30f14b71c317ca8289bf2c31f9b0b67ac1d503d3fac2ec3cfc834d0af81a8/detection
+
+45.137.20.31:6606
+94.156.65.4:8041
+heistzeedijk.be
+lciuervvoufo87q32uiewo78vl.icu
+vfcq78ogviuywaraj.com
+vfcq78ogviuywaraj.org
+u28m1q342.floki-wallet.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.250.238/relations
+
+91.92.250.238:8041
+jhelp.pro
+whelp.pro
+
+# Reference: https://www.virustotal.com/gui/ip-address/79.110.49.150/relations
+
+79.110.49.150:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.156.68.73/relations
+# Reference: https://www.virustotal.com/gui/file/47ad9db1315d4daff66f867586b0f3cd4f9bd309e27629a56c9e983ae0f199cf/detection
+
+94.156.68.73:8041
+antwerphouse.be
+hlhelp.site
+jjsjskl221.work.gd
+
+# Reference: https://www.virustotal.com/gui/ip-address/93.185.167.143/relations
+
+93.185.167.143:8041
+mcaresup.com
+dasds21.zapto.org
+mmakk2121.zapto.org
+
+# Reference: https://www.virustotal.com/gui/ip-address/37.221.67.201/relations
+# Reference: https://www.virustotal.com/gui/file/116b1a8dd9ed4e41da69079aed479c570e86280a66ae193ff23a6c20566d04db/detection
+
+37.221.67.201:8041
+ctback.giize.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.113.8.222/relations
+
+185.113.8.222:8041
+work36pnl99.site
+nrs18.loginlink1.site
+scback.theworkpc.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/79.110.49.92/relations
+
+79.110.49.92:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.59.31.195/relations
+
+194.59.31.195:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.59.30.107/relations
+
+194.59.30.107:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/103.35.121.63/relations
+
+103.35.121.63:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.59.30.184/relations
+
+194.59.30.184:8041
+
+# Reference: https://www.virustotal.com/gui/file/5480daf2c84e7b26fac6bfb673b083fb8e14452b6ac4b2ab290057e5232f3931/detection
+# Reference: https://www.virustotal.com/gui/file/5c7bd28a10ea4544658d9daa286f7093367a10a47489fb0fd809d8bde113b8a5/detection
+# Reference: https://www.virustotal.com/gui/file/b9d412bebd3eb7db10053aa265f765a3e3ea5e47558f2dd0ea66e0ee5fbf21eb/detection
+# Reference: https://www.virustotal.com/gui/file/f6a9e9e1cb89d0d1f32b7112b4bf0aedaed3a5c862d4d83b3638183263b7ce9e/detection
+
+193.26.115.231:5839
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.249.254/relations
+
+91.92.249.254:8041
+bhelp.site
+lhelp.us
+
+# Reference: https://www.virustotal.com/gui/file/8abff3bda93872d3a0021ca38f0909c139245b2c1880c6f2ffa17eb71c0a948e/detection
+# Reference: https://www.virustotal.com/gui/file/c5c633b94ff887a5e8de1d12952a604ffdf7978f941dd7da63b654f84577c4d1/detection
+
+91.92.243.243:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.156.68.119/relations
+# Reference: https://www.virustotal.com/gui/file/0d480e64e68b30a7d645b1cff7d5629d40b202b1fe4df0f9462cae1aa4744210/detection
+# Reference: https://www.virustotal.com/gui/file/56cb4a5dd12f65ab87caf22ea169f0dd4ff2fd7cd4e4c45ad1937a8fdb9414d8/detection
+# Reference: https://www.virustotal.com/gui/file/4271578f913369e42a23ef900285641581599c315fb9a2db00fb306c8ee89797/detection
+
+194.59.31.58:8041
+94.156.68.119:8041
+durisoir.be
+ncwindows.be
+rhelp.pro
+dorsibmvy.linkpc.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.103.188.17/relations
+# Reference: https://www.virustotal.com/gui/file/0b09a7d2eddca49171d4e266b73a0170d2cc35ee0b5baa285dc9ca0d1388d8d9/detection
+
+94.103.188.17:8041
+mkhelp.site
+tm1back.site
+mkp0brkers.loginlink2.site
+9g5f.mkp0brkers.loginlink2.site
+
+# Reference: https://www.virustotal.com/gui/ip-address/85.239.33.100/relations
+# Reference: https://www.virustotal.com/gui/file/6a1b92eeccfbd93245499b0a6381c69eb03b9ae2b04e8bb1e5a057421e38cb68/detection
+
+85.239.33.100:8041
+cs1backks.site
+cshelp.site
+csback.giize.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/79.110.49.62/relations
+
+79.110.49.62:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/79.110.49.91/relations
+# Reference: https://www.virustotal.com/gui/file/60a48b80e2a35f3c74d2d055f46fd8c323d49efaedf7a7e57d9d5c7eee9b73c8/detection
+# Reference: https://www.virustotal.com/gui/file/c4499d6c4faf0b02d9eeff158d30cb08d1bc2f1a91f1bcdbf506c0dfb93caca6/detection
+# Reference: https://www.virustotal.com/gui/file/dcfd3588fe702c267c481bf726798dc137ec870c7df570410d53c5c95702653f/detection
+# Reference: https://www.virustotal.com/gui/file/f78982e96d3928ac60fb282d9fb1bb67a02c0b7b56fe1376dad99a4bc2a55fde/detection
+
+79.110.49.91:8041
+sisngl21a.ddns.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.59.30.225/relations
+
+194.59.30.225:8041
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.59.31.88/relations
+
+194.59.31.88:8041

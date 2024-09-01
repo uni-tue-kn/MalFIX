@@ -853,6 +853,38 @@ http://185.112.147.62
 http://5.181.156.247
 5.181.156.247:443
 
+# Reference: https://x.com/ViriBack/status/1799920236566909112
+
+http://5.42.65.140
+5.42.65.140:443
+
+# Reference: https://x.com/RacWatchin8872/status/1816061547564675214
+
+http://103.26.139.51
+103.26.139.51:443
+admin.sgp.argus-corp.com.br
+
+# Reference: https://x.com/banthisguy9349/status/1819274221161201950
+
+http://68.183.92.154
+68.183.92.154:443
+68.183.92.154:3000
+
+# Reference: https://www.virustotal.com/gui/file/72982e83206930e2da3f4887ef09520fbf6937f9475f34620c6a78843c640a65/detection
+
+/Panel//check_panel.php
+
+# Reference: https://x.com/banthisguy9349/status/1826986945035022557
+# Reference: https://search.censys.io/search?q=services.http.response.html_title%3D%22University+of+Oxford%22&resource=hosts
+
+147.45.79.168:3000
+87.251.64.112:3000
+
+# Reference: https://blog.sucuri.net/2024/08/wordpress-websites-used-to-distribute-clearfake-trojan-malware.html
+
+http://176.59.196.133
+176.59.196.133:443
+
 # Generic
 
 /admin_123/auth.php

@@ -6391,27 +6391,57 @@ wildhottiegirls.com
 /2455818bc570ff.php
 
 # Reference: https://twitter.com/wwp96/status/1628273497708326912
+# Reference: https://x.com/ShanHolo/status/1818541500348707022
+# Reference: https://tria.ge/240715-kmwn6axfpr
 # Reference: https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/
 # Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-01-12-IOCs-from-StealC-activity.txt
 
+/0b92e7ab19e861f9.php
 /0d8af8f06ba4b880.php
+/0e4968fc55367a12.php
+/108e010e8f91c38c.php
+/14b1d33c61a04c9e.php
+/201a735ed890db75.php
 /273d9c8034a95cb4.php
+/2fa883eebd632382.php
+/2fca4d4264af2833.php
 /30257e4c371b49a4.php
 /413a030d85acf448.php
+/570d5d5e8678366c.php
+/587ec30955d49a9c.php
+/6259fdc16222e061.php
 /6842f013779f3d08.php
+/73de3362ad1122cd.php
 /752e382b4dcf5e3f.php
 /7a957ef6cc168ff6.php
 /8621de5ba9a36454.php
 /8c3498a763cc5e26.php
+/8ee66a3c8f19e4b5.php
+/920475a59bac849d.php
+/94903f819d758732.php
 /984dd96064cb23d7.php
 /99210de056092a58.php
 /9b1668f28bd265e2.php
+/9b53fb902ecbf12d.php
+/9ccb7e7554a07e52.php
+/a066a53ea1064ac7.php
+/a17861b9cb6f1a53.php
+/a8f961c72f0d877c.php
+/b55459c10e99c506.php
 /bca98681abf8e1ab.php
 /bef7fb05c9ef6540.php
 /c1377b94d43eacea.php
+/c3f845711fab35f8.php
+/c4754d4f680ead72.php
+/ced268c0bcc9de5f.php
+/d4e186a7092be5c7.php
 /d8ab11e9f7bc9c13.php
+/daecd5ae9c3a5474.php
 /de4846fc29f26952.php
+/e2d7d29621e1052a.php
+/e6e1bcda8702fc37.php
 /f0b7e3704c0051f9.php
+/f3ee98d7eec07fb9.php
 /f9f76ae4bb7811d9.php
 
 # Reference: https://twitter.com/malwrhunterteam/status/1628482090114203649
@@ -6836,6 +6866,8 @@ tpc.cdn-linkedin.info
 /inject.ps1
 /inject.py
 /inject.vbs
+/inject.wsf
+/inject.xsl
 /injection.asp
 /injection.aspx
 /injection.bat
@@ -6846,6 +6878,7 @@ tpc.cdn-linkedin.info
 /injection.py
 /injection.vbs
 /injection.wsf
+/injection.xsl
 
 # Reference: https://twitter.com/petrovic082/status/1699766482517798930
 
@@ -6864,9 +6897,11 @@ tpc.cdn-linkedin.info
 /09c9de54c6be1727.php
 /09e4d23b10828340.php
 /0cf6bfa19d78b1fb.php
+/0e22f8f47f5fa441.php
 /0fad59ad7536045a.php
 /1088863268ab0b62.php
 /10bfb33db816f4b6.php
+/116b775395f6d155.php
 /11acf293b39e9ca9.php
 /11da1c02f1899731.php
 /129edec4272dc2c8.php
@@ -6884,6 +6919,7 @@ tpc.cdn-linkedin.info
 /1b17ccc0c3d00b18.php
 /1ba5bb0d68094a78.php
 /1c80d1b40e06f613.php
+/1cf3aa1810feeb67.php
 /1d9e38415ea54afa.php
 /1da263bff25c8346.php
 /1e9258f73c297510.php
@@ -6900,6 +6936,7 @@ tpc.cdn-linkedin.info
 /2b1fd477f413315b.php
 /2c843dccbeb16860.php
 /2e12d77e23b78d01.php
+/2fb6c2cc8dce150a.php
 /300e6d86f44da037.php
 /31b57f88e9b186cd.php
 /31dd08d447d463d4.php
@@ -6926,6 +6963,7 @@ tpc.cdn-linkedin.info
 /43851895e447afd7.php
 /43e18f2a3b646c54.php
 /46212e2326deb951.php
+/46ea3ef0390e13b4.php
 /482ca91956745c96.php
 /48a8a6cd726abeec.php
 /49621a18efb46765.php
@@ -6942,9 +6980,11 @@ tpc.cdn-linkedin.info
 /5196ba262b6d60e7.php
 /522d6f9280951d7f.php
 /5441a82c9941418d.php
+/5499d72b3a3e55be.php
 /56f47e918c5386bf.php
 /582e11ffc8500b8f.php
 /585a069844ca672e.php
+/587ec30955d49a9c.php
 /59b232f2b6dc5770.php
 /5ae84a6abb1a9a5b.php
 /5b470b53a9d137ee.php
@@ -6958,6 +6998,7 @@ tpc.cdn-linkedin.info
 /626e62981e663996.php
 /628ddfb216f373ea.php
 /6333ebeebfa39cd2.php
+/63383610eec59ec3.php
 /6338efb1723e277d.php
 /649938577e826117.php
 /6747f50ff0a064fd.php
@@ -7007,6 +7048,8 @@ tpc.cdn-linkedin.info
 /889842668f48cc70.php
 /88f3e0ab5b24337d.php
 /8aa296a5a560dea2.php
+/8b4c5bd1ddc1cb18.php
+/8c77d85de581124b.php
 /8c790830ecbaab3b.php
 /8d7eb205be988bbb.php
 /8f2f4cb4b10b6e96.php
@@ -7077,12 +7120,15 @@ tpc.cdn-linkedin.info
 /d27b1d581e3729a6.php
 /d3593c5aaea066ab.php
 /d522566a552de05d.php
+/d6f30af05ffe50bf.php
 /d88e594c8a5bc165.php
 /d9e6a8dee399ba79.php
 /da4d23fa59600f9c.php
 /db7555ee1aa3ef39.php
 /dd38f9377d068411.php
+/e2b1563c6670f193.php
 /e2f2e5114a761f4b.php
+/e47233787df7c9a6.php
 /e4ebc4b8c00b7089.php
 /e50a8a413d120466.php
 /e50ac16f7b113954.php
@@ -7100,10 +7146,12 @@ tpc.cdn-linkedin.info
 /ed9891f07f96bfb8.php
 /eddb6f7ac3df755b.php
 /edf04ce5e57d0f66.php
+/edf5daf277031dc3.php
 /ee4bbae3ded73edf.php
 /ef05b005854373ec.php
 /ef0b5c6106fc176f.php
 /f0b7b22cedd39d91.php
+/f0e4e4e04df8be83.php
 /f242026083c87346.php
 /f2cb651e3e755a0f.php
 /f6a046f8befb95a1.php
@@ -7736,58 +7784,6 @@ ccc.imbolexabc.top
 # Reference: https://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html
 # Reference: https://blog.sucuri.net/2024/03/from-web3-drainer-to-distributed-wordpress-brute-force-attack.html
 
-4378uehdkf.com
-65a044a0023ca.com
-87634rh4r4r3rfekj.com
-billionalr.com
-billlionair.app
-browsersjsfiles.com
-calzoom.com
-cdn-npmjs.com
-cdnjs-storage.com
-chain-connect-api.com
-cloudcdnjs.com
-cloudflare-eth.org
-cloudweb3-api.com
-coingecko-priceapi.com
-dynamic-linx.com
-dynamiclinks.cfd
-dynamiclink.lol
-flashbots-builder.com
-getblocks.org
-giftbeyondwealth.com
-hostpdf.co
-infura-api.com
-io-walletconnect.com
-melstroy.by
-nextcdnjs.com
-newsoutlets.net
-nftfastapi.com
-opensmarketplace.net
-paulmulleracademico.com
-posiit.com
-rpc-ankr.net
-tobaccosoldiers.com
-tradinglabs.app
-unpkgaa.com
-web3-cloudfront.com
-web3modal-api.com
-eth.flashbots-builder.com
-eth.rpc-ankr.net
-highaf.tobaccosoldiers.com
-jscdnweb.pages.dev
-rpc.4378uehdkf.com
-rpc.65a044a0023ca.com
-rpc.87634rh4r4r3rfekj.com
-rpc.chain-connect-api.com
-rpc.cloudweb3-api.com
-rpc.coingecko-priceapi.com
-rpc.getblocks.org
-rpc.infura-api.com
-rpc.io-walletconnect.com
-rpc.web3modal-api.com
-api.nftfastapi.com
-rpc.nftfastapi.com
 /cachingjs/turboturbo.js
 /turboturbo.js
 
@@ -8545,6 +8541,155 @@ cachline.com
 /orvx-avjyyr.php
 /pfiigphc.php
 /vlspgbsfjo.php
+
+# Reference: https://x.com/malwareforme/status/1809257799387361422
+# Reference: https://www.virustotal.com/gui/file/45d3063b41fc1d6c8387600e49b6da5c8ec9909ef3636d539ca2a10aec7f3c59/detection
+
+/CertRead.hta
+
+# Reference: https://www.virustotal.com/gui/file/8decdfe5e000475d09f077a3d5b06843f1138e307141e0d0433526ae7037731d/detection
+
+/0day.asp
+/0day.aspx
+/0day.bat
+/0day.hta
+/0day.ps1
+/0day.py
+/0day.vbs
+/0day.wsf
+/0day.xsl
+
+# Reference: https://x.com/malwrhunterteam/status/1810305014088282568
+# Reference: https://www.virustotal.com/gui/file/23355e6bb3fb1b0e389e7ec95bacf5f205cfb4e1be6f427aabd9fcba0f603a59/detection
+# Reference: https://www.virustotal.com/gui/file/47b12bc3756bf1c2339578eef98a12eb68f142f601ebee25eacca7d6ef6dc349/detection
+# Reference: https://www.virustotal.com/gui/file/ffac703f236c11563dec94b9d9dcc0f1bb37a814f98400e62512a2df5e596ec6/detection
+# Reference: https://www.virustotal.com/gui/file/fbc8bed8f5a9b1c73a165119d5f1735f5f06562b787f50f343b04e1bc8f0b2d4/detection
+# Reference: https://www.virustotal.com/gui/file/e314b233b41a5688a4e43f876ccb10718351d3f396b4df623b4ebb0a093be7e0/detection
+# Reference: https://www.virustotal.com/gui/file/d938cb8accbc51046158350155f1af9248fc8459ef2b92be752b93dae77504a6/detection
+
+/hooks/och?id=
+/hooks/xxx?id=
+
+# Reference: https://www.virustotal.com/gui/file/0ca46fb10da403fd20317cbd55434388275c7e9abba697ca4c9916f241ff53f6/detection
+
+/powershell_attack.asp
+/powershell_attack.aspx
+/powershell_attack.bat
+/powershell_attack.hta
+/powershell_attack.ps1
+/powershell_attack.py
+/powershell_attack.txt
+/powershell_attack.vbs
+/powershell_attack.wsf
+/powershell_attack.xsl
+
+# Reference: https://x.com/ShanHolo/status/1813149888001011754
+
+/d3l.ps1
+
+# Reference: https://x.com/karol_paciorek/status/1813856475670024690
+
+/evil.dtd
+
+# Reference: https://x.com/1ZRR4H/status/1814413341328322966
+
+/20240416.hta
+
+# Reference: https://x.com/banthisguy9349/status/1814925887906664718
+
+/arc1b7jcFClaP
+/arcUObduhEO
+/arcUObduhRu
+/systray.ps1
+
+# Reference: https://x.com/RacWatchin8872/status/1815338996005777590
+
+/UIDEIEEN.hta
+
+# Reference: https://cert.gov.ua/article/6280129
+
+/RemoteAssistanceSvc.hta
+
+# Reference: https://www.virustotal.com/gui/ip-address/1.15.44.211/relations
+
+/m3wtw0.xml
+
+# Reference: https://x.com/500mk500/status/1819325319565758518
+
+/xss.hta
+/xss.js
+/xss.xspf
+
+# Reference: https://x.com/Huntio/status/1820797152085582112
+# Reference: https://moonlock.com/loom-macos-stealer
+
+/yvfiubhferwewf/process_l00m.php
+/yvfiubhferwewf/
+
+# Reference: https://x.com/9823f_/status/1820807344638279761
+# Reference: https://urlscan.io/search/#filename%3A%22php_en-e372bb40.js%22
+
+/php_en-e372bb40.js
+
+# Reference: https://x.com/lontze7/status/1821042477022822834
+
+/262f6e0.php
+/2f20376.php
+/5edec54.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1821171522074984552
+
+/97075184016hjaksjxjzwc
+/jU8OTI-qnvhjeIB0-W7q7EvR4-dacb47a/index.html
+/jU8OTI-qnvhjeIB0-W7q7EvR4-dacb47a/
+
+# Reference: https://x.com/banthisguy9349/status/1822635735494664701
+# Reference: https://www.virustotal.com/gui/file/0bb9e107a5f5f9ad838173ebf222107d37cc1f378fa10f46ad5b2914f19f8e72/detection
+
+/wbinjget?q=
+/wbinjget
+
+# Reference: https://www.joesandbox.com/analysis/1393952#iocs
+# Reference: https://tria.ge/240617-vg68tazhkm/behavioral2
+
+/gAySB.php
+/gAySB.php?cnv_id=
+
+# Reference: https://x.com/malwrhunterteam/status/1828028438407479788
+# Reference: https://www.virustotal.com/gui/file/0077647aa98f096591f70bbd3f1a0364b56c5e39f68ed85509b28a31b2d4f869/detection
+
+/0day.asp
+/0day.aspx
+/0day.bat
+/0day.hta
+/0day.js
+/0day.ps1
+/0day.py
+/0day.txt
+/0day.vbs
+/0day.wsf
+/0day.xsl
+
+# Reference: https://x.com/banthisguy9349/status/1828499255184552253
+
+/Payload.kt
+/ViewInjectionsad.kt
+
+# Reference: https://www.virustotal.com/gui/file/faf05cc7a617e771f061ed131429ccacfe9039634cbd0259c455c3e8baa6a129/detection
+
+gatetodisplaycontent.com
+/3d336374d870f17c9375aee0e6779e7b/invoke.js
+
+# Reference: https://x.com/0Dayhta/status/1828461255784378562
+
+/cd_v2_x64.xsl
+/cd_v2_x86.xsl
+/cd_v4_x64.xsl
+/cd_v4_x86.xsl
+
+# Reference: https://www.virustotal.com/gui/file/828616945d46a2c161c17d88f0f8dd0b890107ec200551ad9b9836d71833fb6a/detection
+
+/downloadfaxfile28071991.php
 
 # Generic
 

@@ -744,3 +744,86 @@ http://54.95.170.58
 94.232.249.87:7444
 barsen.monster
 kurvabbr.pw
+
+# Reference: https://x.com/MichalKoczwara/status/1808039481032786239
+
+splunkapi.com
+
+# Reference: https://x.com/banthisguy9349/status/1808550048847818947
+
+81.69.248.100:8000
+
+# Reference: https://x.com/nahamike01/status/1808655269691543684
+
+61.164.242.162:8888
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s.csv
+
+http://13.112.130.229
+http://13.115.70.76
+http://176.34.50.52
+http://18.180.118.60
+http://35.76.131.174
+104.129.181.195:443
+106.14.122.162:5000
+143.92.42.200:8443
+148.135.35.239:8443
+185.237.165.247:8443
+206.166.251.107:4443
+206.166.251.107:8443
+42.192.107.173:5000
+45.77.172.240:8443
+8.138.39.245:37443
+91.92.254.19:443
+
+# Reference: https://x.com/malwrhunterteam/status/1815713225138143245
+# Reference: https://www.virustotal.com/gui/file/6529e924420db80091f2d132caad8c18f22f9c4c2496e41bf0b3309fd187f508/detection
+
+liveupdatesmonitor.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1816043377990778894
+# Reference: https://www.virustotal.com/gui/file/e1f94ba658acde6223eba8c5f869226a521fb64af7b6259baf06866812f752b6/detection
+# Reference: https://www.virustotal.com/gui/file/241719892a747862ca98f44bbe4b22336fabbafe0cae7e3a8b30d2a9290c48de/detection
+
+haileigh-oakes.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-08-24)
+
+http://18.177.226.4
+http://43.206.47.12
+http://54.65.7.247
+103.234.72.154:50000
+114.132.183.203:443
+158.247.250.152:50000
+167.172.89.184:443
+167.172.89.184:8443
+212.64.13.7:443
+38.147.172.226:443
+43.159.193.173:443
+47.237.111.1:443
+
+# Reference: https://www.virustotal.com/gui/file/36a028434c55dd9fe73958b563815f52e4cbfebb5115bbd798e6e7270b457f9d/detection
+
+br.libjs.xyz
+
+# Reference: https://x.com/malwrhunterteam/status/1828024457686061312
+# Reference: https://www.virustotal.com/gui/file/3a1f90acf560c1f5b675fcecb8b172c7eba7190c4f511c59759f2a2ab2c4bdff/detection
+
+dkq4prtotbji7.cloudfront.net
+fifgroup.azureedge.net
+/informasi-perusahaan/informasi-umum
+/informasi-perusahaan
+/informasi-umum
+/mitra-fifgroup
+
+# Reference: https://x.com/malwrhunterteam/status/1828753063047500237
+# Reference: https://www.virustotal.com/gui/file/079e3171048286472cff2b0267cd2d6a90bf9d7f45255f48031bf4bf2ac3b0b4/detection
+
+javaforyouedu.in
+
+# Reference: https://x.com/malwrhunterteam/status/1829130035808059668
+# Reference: https://www.virustotal.com/gui/ip-address/104.234.25.56/relations
+# Reference: https://www.virustotal.com/gui/file/59c2266a4db4250a90592075c32f49dc4341921414d78e9b9b9e092a083ba7a8/detection
+
+1398daufhauidhjkadf.com
+systematictld.com

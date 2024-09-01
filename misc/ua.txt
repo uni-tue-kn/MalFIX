@@ -2210,11 +2210,13 @@ ZeroStresser Botnet
 # Reference: https://unit42.paloaltonetworks.com/trident-ursa/
 # Reference: https://twitter.com/WhichbufferArda/status/1616895455182442497
 # Reference: https://research.checkpoint.com/2023/malware-spotlight-into-the-trash-analyzing-litterdrifter/
+# Reference: https://securityintelligence.com/x-force/hive0051-all-in-triple-threat/
 
 \bjosephine\b
 \bsnventor\b
 \binsufficient\b
 ::\/\.josephine\/
+;;\/\.jumper\/
 ;;\/\.justly\/
 ;;\/\.insufficient\/
 ;;\/\.snventor\/
@@ -2470,6 +2472,54 @@ AGCYRNRWWWFZZSWWFWDYDCVDN
 
 SSLoad
 SSLoad/1.1
+
+# Reference: https://x.com/suyog41/status/1810268207241982376
+# Reference: https://www.virustotal.com/gui/ip-address/172.81.60.40/relations
+# Reference: https://www.virustotal.com/gui/file/f6d171e79e2fb38b3919011835c8117a1c56788bcf634e69ae67a5e255fb9d58/detection
+# Reference: https://www.virustotal.com/gui/file/14bbe421abe496531f4c63b16881eee23fb2c92b2938335dca1668206882201a/detection
+
+QllXjxbyEvMuARVOztDiSZDNtQQb
+
+# Reference: https://x.com/naumovax/status/1813151432419254656
+# Reference: https://www.ctfiot.com/193014.html
+# Reference: https://tria.ge/240715-lrfzyazfmm/behavioral2
+# Reference: https://www.virustotal.com/gui/file/6afdf4a3088bff045e1998d2dc2863b90d06765abb2dc35c7b93c456b9818e55/detection
+
+kmdjdheyytgebfghehhenegsdfsdf
+
+# Reference: https://x.com/malwrhunterteam/status/1813311575723511869
+# Reference: https://www.virustotal.com/gui/file/bef99f862b9d7a47bddf9d51121196ab2f25234b38169c49e47a672bf849a7c9/detection
+
+sarabi
+sarabi xor
+
+# Reference: https://x.com/ViriBack/status/1814702278030332091
+# Reference: https://tria.ge/240720-txe9latdqd/behavioral1
+# Reference: https://www.virustotal.com/gui/file/c2a095bf5b04c0ce7af29aebab583b31d76475b3e15762ba5db956b0a3f717d5/detection
+
+\/xevil\b
+
+# Reference: https://x.com/naumovax/status/1817905495824327144
+
+User-Agent:Mozilla
+
+# Reference: https://x.com/malwrhunterteam/status/1818577746861199398
+
+\bMALCJS\b
+
+# Reference: https://x.com/g0njxa/status/1829177645348860120
+
+NIKMOK
+
+# Reference: https://x.com/Jane_0sint/status/1829451117337399719
+# Reference: https://app.any.run/tasks/4a153e23-21c4-4001-93e1-c0aa1ea4e261
+
+Diamotrix
+
+# Reference: https://x.com/Jane_0sint/status/1829452981168718017
+# Reference: https://app.any.run/tasks/2296c79b-a1bb-4f42-b543-ece52d241372
+
+NuclearBot
 
 # Misc
 

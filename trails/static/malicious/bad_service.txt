@@ -624,6 +624,7 @@ stresse.space
 stresser.cam
 stresser.digital
 stressers.io
+stress.mineheaven.org
 
 # Reference: https://twitter.com/banthisguy9349/status/1760315124655566897
 
@@ -745,13 +746,26 @@ bbxstresser.llc
 brebes-bx.id
 
 # Reference: https://twitter.com/banthisguy9349/status/1773297607642673237
+# Reference: https://x.com/banthisguy9349/status/1819393857269772320
+# Reference: https://x.com/banthisguy9349/status/1819400254527049908
 # Reference: https://pastebin.com/PGz6A1Nd
 
 0rte.net
+cfx-mirrors.net
+cfxsecurity.app
+cfxsecurity.bet
 cfxsecurity.cc
+cfxsecurity.ru
+cfxsecurity.st
+cfxstress.ru
 cyberflood.ru
+ddoswf.live
+dstat.online
+dstatlove-6qm.pages.dev
+dstatlove.pages.dev
 hexstresser.xyz
 l7stresse.com
+rage.company
 stresslab.su
 vacstresser.ru
 webstress.app
@@ -2751,3 +2765,85 @@ onnx.su
 # Reference: https://x.com/banthisguy9349/status/1804804540387979301
 
 /codecanyon-39029867-mailer-email-marketing-application.zip
+
+# Reference: https://x.com/banthisguy9349/status/1812709201640099877
+
+connect-trojan.org
+
+# Reference: https://x.com/banthisguy9349/status/1814923181343314158
+
+hackforums.to
+
+# Reference: https://app.validin.com/detail?find=Horus%20Protector%20100%25%20FUD%20Crypter%202024&type=raw&ref_id=ac3a0be4a80#tab=host_pairs_v2
+
+fudi.ing
+horus-protector.pro
+vmi1547155.contaboserver.net
+
+# Reference: https://x.com/rabbitinfosec/status/1817547602013061475
+# Reference: https://app.validin.com/detail?type=ip&find=104.244.78.99#tab=host_pairs_v2
+
+hxattack.xyz
+stresser.uno
+
+# Reference: https://app.validin.com/detail?find=Stresser.uno&type=raw&ref_id=12b6ea929b9#tab=host_pairs_v2
+
+http://118.107.41.227
+http://141.11.196.2
+http://62.72.50.9
+catstress.cfd
+igar.shayaglobal.site
+
+# Reference: https://www.virustotal.com/gui/ip-address/80.249.145.207/relations
+
+carder007.info
+deluxedumps.ws
+diamonddumps.cc
+easydeals.cc
+fe-shop.cc
+fe-shop.pro
+fe-shop.ru
+ferum-shop.cc
+ferum.cc
+feshop.bid
+feshop18.us
+feshop2017.us
+freshbase.tv
+goldcvv.cc
+greatdumps.cc
+iprofit.su
+j-stash.su
+joker-stash.cc
+joker-stash.ru
+jokerstash.biz
+jokerstash.su
+l33t.cc
+ltd-cc.ws
+royaldumps.biz
+shopcvv.ru
+tuxedocrew.cc
+unicc.io
+unicc.mx
+uniccshop.ws
+uniccshops.cc
+vault-market.su
+vaultmarket.su
+worldcvv.cc
+mail.tuxedocrew.cc
+mail.worldcvv.cc
+webmail.worldcvv.cc
+
+# Reference: https://x.com/4n6Bexaminer/status/1822281363946381501
+
+haxmac.cc
+
+# Reference: https://www.virustotal.com/gui/ip-address/81.161.229.4/relations
+
+futurestresser.org
+
+# Reference: https://x.com/MalGamy12/status/1826621858319663565
+# Reference: https://app.validin.com/detail?find=dark_partner&type=raw&ref_id=f034cde0e24#tab=host_pairs_v2
+# Reference: https://www.virustotal.com/gui/file/6f429ae81ef2b99cd357ae51da315723ab10f3ee54780b82374000cbee430687/detection
+
+x00x.online
+panel.dianecarson.workers.dev
