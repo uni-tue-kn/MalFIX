@@ -2,7 +2,7 @@
 
 # Default values
 port=19000
-n=1
+n=4
 host=localhost
 protocol=tcp
 

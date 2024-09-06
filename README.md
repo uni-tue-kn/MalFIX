@@ -567,6 +567,54 @@ Nevertheless, administrator(s) should invest some extra time and check (with oth
     
   **Note**: ```/maltrail-sensor.service``` can be started as dedicated service without pre-started ```/maltrail-server.service```. This is useful for case, when ```/maltrail-server.service``` is installed and works on another machine in you network environment.
 
+## IPFIX Configuration
+
+Maltrail now supports IPFIX (IP Flow Information Export) for both listening and exporting flow data. The following options are available for configuring IPFIX:
+
+### Command Line Options
+
+- `--ipfix`
+  - **Description:** Enable IPFIX mode instead of listening to PCAP files.
+  - **Type:** Flag (boolean)
+  - **Default:** `False`
+
+- `--ipfix_listen_port`
+  - **Description:** Set the port for listening to incoming IPFIX flows.
+  - **Type:** Integer (port number)
+  - **Default:** `19000`
+
+- `--ipfix_listen_protocol`
+  - **Description:** Set the protocol for listening to incoming IPFIX flows.
+  - **Type:** String (e.g., `tcp` or `udp`)
+  - **Default:** `tcp`
+
+- `--ipfix_export_port`
+  - **Description:** Set the port for exporting IPFIX flows.
+  - **Type:** Integer (port number)
+  - **Default:** `2055`
+
+- `--ipfix_export_protocol`
+  - **Description:** Set the protocol for exporting IPFIX flows.
+  - **Type:** String (e.g., `tcp` or `udp`)
+  - **Default:** `udp`
+
+- `--ipfix_export_host`
+  - **Description:** Set the host address for exporting IPFIX flows.
+  - **Type:** String (hostname or IP address)
+  - **Default:** `localhost`
+
+- `--ipfix_pass_through`
+  - **Description:** Forward all incoming IPFIX flows without processing.
+  - **Type:** Flag (boolean)
+  - **Default:** `False`
+
+### Example Usage
+
+To start Maltrail with IPFIX listening on port `19000` and exporting data to `localhost` on port `2055` using UDP, you would run:
+
+```bash
+maltrail --ipfix --ipfix_listen_port 19000 --ipfix_export_host localhost --ipfix_export_port 2055 --ipfix_export_protocol udp
+```
 
 ## License
 
