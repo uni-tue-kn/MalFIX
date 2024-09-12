@@ -93,7 +93,7 @@ class MalFix:
                     self._import_buffer.set_internal_template(self._import_template_id)
                     continue
             dns_info: Optional[Tuple[str, Number]] = None
-            if "dnsName" in data:
+            if "dnsName" in data and data['dnsName'] != "" and data['dnsName'] is not None:
                 dns_info = (data['dnsName'], data['dnsType'])
                 self._export_rec["dnsName"] = dns_info[0]
                 self._export_rec["dnsType"] = dns_info[1]
