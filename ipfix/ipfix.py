@@ -41,7 +41,7 @@ class MalFix:
         self._total_packet_count = 0
 
     def setup_pyfixbuf(self):
-        self._export_elements = export_ie if config.ipfix_pass_through else maltrail_ie
+        self._export_elements = export_ie if config.ipfix_forward else maltrail_ie
         infomodel = pyfixbuf.InfoModel()
         pyfixbuf.cert.add_elements_to_model(infomodel)
         infomodel.add_element_list([pyfixbuf.InfoElement('dnsName', 420, 1, type=pyfixbuf.DataType.STRING),
@@ -80,7 +80,7 @@ class MalFix:
         while True:
             try:
                 data = next(self._import_buffer)
-                if config.ipfix_pass_through:
+                if config.ipfix_forward:
                     self._export_rec.copy(data)
                 _print("Receiving: ")
                 _print(data)
@@ -99,12 +99,12 @@ class MalFix:
                 self._export_rec["dnsType"] = dns_info[1]
             sec, usec = [int(_) for _ in ("%.6f" % time.time()).split('.')]
             self._process_packet(ipfix_to_ip(data, dns_info), sec + random.randint(0, sys.maxsize), usec, 0)
-            if config.ipfix_pass_through:
+            if config.ipfix_forward:
                 self._send_ipfix()
 
     def report_event(self, event: Tuple):
-        helper.write_maltrail_to_record(event, self._export_rec, config.ipfix_pass_through)
-        if not config.ipfix_pass_through:
+        helper.write_maltrail_to_record(event, self._export_rec, config.ipfix_forward)
+        if not config.ipfix_forward:
             self._send_ipfix()
 
     def _send_ipfix(self):

@@ -1266,7 +1266,7 @@ def main():
     parser.add_option("--ipfix_export_port", dest="ipfix_export_port", default="2055",  help="set port to export")
     parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
     parser.add_option("--ipfix_export_host", dest="ipfix_export_host", default="localhost",  help="set host for export")
-    parser.add_option("--ipfix_pass_through", dest="ipfix_pass_through", action='store_true',  help="forward all incoming ipfix")
+    parser.add_option("--ipfix_forward", dest="ipfix_forward", action='store_true',  help="forward all incoming ipfix")
 
 
     patch_parser(parser)
@@ -1305,7 +1305,7 @@ def main():
               config.ipfix_export_host + ":" +
               config.ipfix_export_port + "/" +
               config.ipfix_export_protocol)
-        print("[i] forwarding all incoming ipfix packages: " + ("yes" if config.ipfix_pass_through else "no"))
+        print("[i] forwarding all incoming ipfix packages: " + ("yes" if config.ipfix_forward else "no"))
 
     try:
         init()

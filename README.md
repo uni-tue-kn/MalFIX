@@ -603,7 +603,7 @@ Maltrail now supports IPFIX (IP Flow Information Export) for both listening and 
   - **Type:** String (hostname or IP address)
   - **Default:** `localhost`
 
-- `--ipfix_pass_through`
+- `--ipfix_forward`
   - **Description:** Forward all incoming IPFIX flows without processing.
   - **Type:** Flag (boolean)
   - **Default:** `False`
