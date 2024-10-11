@@ -1434,3 +1434,14 @@ c3.wptask.cyou
 51.195.127.124:7777
 kryptex.network
 xmr.kryptex.network
+
+# Reference: https://www.virustotal.com/gui/file/e23b9cae980fa0271cd0a2301f3d4cb67b55c689fd9e1f499b875f61487fcdce/detection
+
+107.167.83.34:3333
+107.167.92.130:3333
+
+# Reference: https://www.virustotal.com/gui/file/f23470688cea62fb7b3dfcf75fff0ad7cc31386cca92ec5214d87fd0efa93698/detection
+
+195.201.190.170:1230
+salvium.herominers.com
+de.salvium.herominers.com

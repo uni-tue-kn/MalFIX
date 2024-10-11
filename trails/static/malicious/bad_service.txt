@@ -2847,3 +2847,127 @@ futurestresser.org
 
 x00x.online
 panel.dianecarson.workers.dev
+
+# Reference: https://x.com/SecureSh3ll/status/1832189060275724727
+# Reference: https://app.validin.com/detail?find=JustPaste%20-%20Simple%20Pastebin%20Clone&type=raw&ref_id=d8be89624f8#tab=host_pairs_v2
+
+http://185.196.10.84
+justpaste.xyz
+westtin.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/5.188.88.252/relations
+
+00code.in
+ccshop.at
+ccshop.in
+ccshop.xyz
+ccshop2.com
+ccshop2.shop
+cczauvr.biz
+ch2-status.top
+topgame.biz
+ccshop2jsqvmkhon7hgvuftdhdmftrqrqg6l3cz5deojvbzyw2kjvhid.onion
+gbkir75uwjbxfkpj6mfr7uuigvtqfqwjxpyzg4rkondkt525od2edqqd.onion
+
+# Reference: https://x.com/RacWatchin8872/status/1835348116360310968
+
+http://95.214.27.153
+
+# Reference: https://x.com/t43cr0wl3r/status/1816371152199073991
+# Reference: https://www.virustotal.com/gui/ip-address/198.98.53.133/relations
+
+marioc2.online
+marioc2-connect.ddns.net
+swiftapi.ddns.net
+
+# Reference: https://x.com/banthisguy9349/status/1838890030066024731
+# Reference: https://www.virustotal.com/gui/ip-address/185.91.127.76/relations
+# Reference: https://app.validin.com/detail?type=dom&find=Freeddos.pw#tab=host_pairs_v2
+# Reference: https://app.validin.com/detail?type=dom&find=ddosforhire.su#tab=host_pairs_v2
+
+1981.re
+ackflood.is
+alya.dev
+apinigger.buzz
+atomic-stresser.xyz
+bootcaat.fr
+booter.cc
+cloudleague.de
+cyber-hub.pw
+darkvr.su
+ddosforhire.su
+destroyersv.best
+downon.click
+dreams-stresser.org
+exoticstress.com
+freeddos.pw
+freestresser.net
+heydos.cc
+high-stress.com
+hirestresser.net
+hkstresser.net
+infinity-studios.icu
+inversecurity.org
+ipstresser.su
+kaka-stresser.org
+loudstresser.net
+minecraftstresser.net
+netstress.cc
+nkstresser.net
+nulling.it
+orbital-solutions.xyz
+packetsto.me
+pluto.cx
+prostress.pro
+quantum-stresser.org
+quez.in
+quezstresser.ru
+rocket-stress.com
+rolexapi.xyz
+scystress.xyz
+shock-stresser.org
+silence-network.xyz
+silentstress.wtf
+solostress.net
+str3ssed.co
+stresse.app
+stressednet.xyz
+stresser.city
+stresser.ga
+stresser.ovh
+stresserst.su
+stresserus.io
+stresshit.club
+tokenview.life
+tresser.io
+volitystress.vip
+warapi.net
+wrldsecurity.org
+zerostresser.net
+
+# Reference: https://app.validin.com/detail?find=ddosforhire.ru&type=dom&ref_id=742177571af#tab=host_pairs_v2
+
+cloudnode.me
+crtz.top
+cypherservices.org
+ddosforhire.ru
+elitenetwork.su
+enkisecurity.com
+jetstress.su
+lkxstress.su
+netguard.io
+quickdown.su
+streserus.com
+wrldsecurity.ru
+xonnetwork.com
+xstress.ru
+
+# Reference: https://hunt.io/blog/inside-a-cybercriminal-s-server-ddos-tools-spyware-apks-and-phishing-pages
+# Reference: https://www.virustotal.com/gui/file/0b80a52885e811d0e59318bd5feef640c7b18976c9da51e618de4d2b19b90c07/detection
+# Reference: https://www.virustotal.com/gui/file/666ccd4a45a48bbdd7b32e291436b8fd3104dcd797f4e17e204c18b046fe8077/detection
+
+bgng.io
+billgang.store
+aspect.bgng.io
+condi.bgng.io
+condi.billgang.store

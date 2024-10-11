@@ -330,3 +330,76 @@ sisngl21a.ddns.net
 # Reference: https://www.virustotal.com/gui/ip-address/194.59.31.88/relations
 
 194.59.31.88:8041
+
+# Reference: https://x.com/malwrhunterteam/status/1831775031220957669
+# Reference: https://www.virustotal.com/gui/file/77a4f959f19592757a9c5f50c0f6187370d35fec575de6c034c94ce88042823b/detection
+
+37.221.64.42:8041
+
+# Reference: https://x.com/malwrhunterteam/status/1833086227047723257
+# Reference: https://www.virustotal.com/gui/file/abbb2686d3424253ed4e183c1a2fc86e77c798801766411ee3f54943dbfe0bc3/detection
+
+94.156.65.19:8041
+
+# Reference: https://x.com/malwrhunterteam/status/1838905839966470652
+# Reference: https://www.virustotal.com/gui/file/04a5b7d02fa2155021cabe33dc50066ce1076ba2ed0ee6bd39f2316676665786/detection
+
+194.59.30.201:8041
+voicemail-lakeleft.top
+popwee2.zapto.org
+
+# Reference: https://x.com/malwrhunterteam/status/1839258008204779861
+# Reference: https://www.virustotal.com/gui/file/934a35f92555d0004e1fb78fd91f6dd33036afa329c0900969adb07305231f74/detection
+
+79.110.49.42:8041
+dsmf2.zapto.org
+
+# Reference: https://x.com/x3ph1/status/1839635461834174547
+# Reference: https://www.virustotal.com/gui/file/d9758d5e18b52b45fd061042145486091a059f6faba0097b4b54b66fd48342eb/detection
+
+cs796back3.site
+
+# Reference: https://x.com/banthisguy9349/status/1840097237172457681
+# Reference: https://www.virustotal.com/gui/file/2efd27df3c5458e8c43d6936739fb7a8d2eda10a6fe41d38c6e31703bb384052/detection
+
+91.92.244.246:8041
+microwavesupport.anondns.net
+
+# Reference: https://x.com/malwrhunterteam/status/1840860741605245248
+# Reference: https://www.virustotal.com/gui/file/03346032170b7e7e0b8c9f425b4ac55bcaa9021b06402f82c8cbe19418763e2c/detection
+
+188.119.113.59:8041
+cloudfiles-secure.io
+app.cloudfiles-secure.io
+kkl22.ddns.net
+
+# Reference: https://x.com/malwrhunterteam/status/1840710912329572411
+# Reference: https://www.virustotal.com/gui/file/8f085b24061cd7446a4e53bf2a03d4a35fd39b172c199c3447da1be3d1fc017e/detection
+# Reference: https://www.virustotal.com/gui/file/600c9dbc59ebc82960527f346eb89aeac9383b7b8064bed0ed1826d3975877c2/detection
+
+37.221.64.66:8041
+sbvhty84.top
+sibjwh5.top
+snbcv4.top
+
+# Reference: https://x.com/malwrhunterteam/status/1840711558764081400
+# Reference: https://www.virustotal.com/gui/file/2f9d98d69de030462125dc18540bc1989b58ea0a26deaf757780035c615589a9/detection
+
+79.110.49.16:8041
+otohelp.top
+mmf351.ddns.net
+
+# Reference: https://x.com/malwrhunterteam/status/1840711918006239456
+# Reference: https://www.virustotal.com/gui/file/9be96842563827373caedce47de8191e2be93f6d3286cf8b4286492be4445cad/detection
+# Reference: https://www.virustotal.com/gui/file/defe3ce55efec3331afaaa98abe87d6a2aa738ddae5b1f840a92368199276023/detection
+
+79.110.49.196:8041
+upphelp.top
+qpkl23.zapto.org
+
+# Reference: https://x.com/malwrhunterteam/status/1844113254706274384
+# Reference: https://www.virustotal.com/gui/file/7de2ed042582642c3b13335ab629eb8758be226bcc6c9103e16985d5d2f76837/detection
+
+194.59.31.199:8041
+noreply-gymnastics.top
+yurre2.zapto.org

@@ -827,3 +827,79 @@ javaforyouedu.in
 
 1398daufhauidhjkadf.com
 systematictld.com
+
+# Reference: https://blog.talosintelligence.com/threat-actors-using-macropack/
+
+http://122.114.10.239
+s-logistics.net
+dns1.s-logistics.net
+dns2.s-logistics.net
+d1209brpqetpa4.cloudfront.net
+d2v6ycjbdzo6ui.cloudfront.net
+d2wpc9lcvgj680.cloudfront.net
+d2z6sfzo660xrm.cloudfront.net
+d3qrqtfazjdt5i.cloudfront.net
+/HubsExtension/Resource/Type/c8d984.php
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-07)
+
+http://35.79.171.237
+http://54.248.85.250
+104.248.7.160:443
+104.248.7.160:8443
+161.35.73.220:443
+161.35.73.220:61337
+167.172.243.32:443
+209.38.196.51:443
+24.144.92.172:443
+3.254.105.98:443
+45.61.137.15:8443
+54.70.52.38:443
+80.255.6.12:40000
+81.95.8.165:40000
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-14)
+
+http://13.231.40.125
+http://35.73.247.226
+77.221.149.199:8443
+92.118.112.193:443
+
+# Reference: https://x.com/malwrhunterteam/status/1837467196655640968
+# Reference: https://www.virustotal.com/gui/file/c3f8ebc9cfb7ebe1ebbe3a4210753b271fecf73392fef98519b823a3e7c056c7/detection
+
+plantytime.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-22)
+
+http://54.178.38.136
+157.230.63.141:443
+164.90.144.91:443
+185.106.176.250:8443
+205.209.126.137:41867
+81.95.8.178:40000
+94.156.67.247:443
+
+# Reference: https://x.com/iam_rajhans/status/1839221953980149808
+# Reference: https://www.virustotal.com/gui/file/45257b5cd16d391bc37afe4a6534610cb1bb70c14dbec15b5594ad798d31933f/detection
+
+d19uqbwzyx9r4z.cloudfront.net
+
+# Reference: https://x.com/malwrhunterteam/status/1839924221201220056
+# Reference: https://www.virustotal.com/gui/file/b67ce96362756c7a8f22e535b6a73aa9edbb84568c591efab378c0e3a5257368/detection
+
+74.50.84.181:443
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_03.10.2024.txt
+
+combazarunet.com
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_04.10.2024.txt
+# Reference: https://www.virustotal.com/gui/file/07282b92613d88cdeb02dc30835216268c7ec378bb0ff7a08bb280775a8f82c3/detection
+
+141.98.234.114:8042
+185.106.92.80:8042
+82.115.223.150:8042
+obobobo.com
+pobegskichi.com
+sosachwaffen.com
