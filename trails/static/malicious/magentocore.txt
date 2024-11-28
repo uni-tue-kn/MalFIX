@@ -7001,6 +7001,7 @@ transitfex.com
 static.transitfex.com
 
 # Reference: https://twitter.com/EKFiddle/status/1544076272694743040
+# Reference: https://x.com/sdcyberresearch/status/1850896710656049409
 # Reference: https://www.virustotal.com/gui/ip-address/141.98.82.244/relations
 # Reference: https://www.virustotal.com/gui/ip-address/5.188.62.10/relations
 
@@ -7467,6 +7468,8 @@ hxbic.pics
 hxcit.pics
 hxdot.pics
 hxfel.pics
+hxgot.pics
+hxhop.pics
 indid.buzz
 internl.xyz
 intrst.sbs
@@ -10213,12 +10216,15 @@ uads.club
 uads.digital
 uads.guru
 uads.info
+uads.lat
 uads.life
 uads.live
 uads.pw
+uads.rest
 uads.shop
 uads.space
 uads.store
+uads.today
 winaprize.shop
 winprizes.shop
 wintheprize.shop
@@ -12840,7 +12846,14 @@ jgueurystatic.xyz
 2links.blog
 3analytics.buzz
 4casts.one
+5data.world
+6stat.website
+7tags.shop
+8urls.info
+9analytics.ink
+tagsanalytics.shop
 tagscart.shop
+tagsmanager.shop
 ultrabit.shop
 wikistat.wiki
 xtreme.boats
@@ -12894,7 +12907,10 @@ repo.marenteches.online
 
 # Reference: https://x.com/sdcyberresearch/status/1838222470135833080
 # Reference: https://www.virustotal.com/gui/ip-address/176.124.222.157/relations
+# Reference: https://www.virustotal.com/gui/ip-address/217.144.184.139/relations
+# Reference: https://app.validin.com/detail?type=dom&find=cdnstatics.net#tab=host_pairs
 
+cdnstaticnetwork.net
 cdnstatics.net
 
 # Reference: https://x.com/sdcyberresearch/status/1838527580678275345
@@ -13347,6 +13363,320 @@ styllize.shop
 # Reference: https://www.virustotal.com/gui/ip-address/38.180.61.99/relations
 
 javalibraryeuro.com
+
+# Reference: https://guardiansofcyber.com/threats-vulnerabilities/the-mongolian-skimmer-inside-a-javascript-skimming-campaign-using-obfuscation-and-anti-debugging-tactics/
+
+cdn-core.com
+gifcache.com
+common.gifcache.com
+blog.cdn-core.com
+cache.cdn-core.com
+cdn.gifcache.com
+js.cdn-core.com
+sentry.cdn-core.com
+zb.cdn-core.com
+
+# Reference: https://x.com/sdcyberresearch/status/1845777289151136039
+# Reference: https://www.virustotal.com/gui/ip-address/5.10.250.250/relations
+
+gstatlc.org
+
+# Reference: https://sansec.io/research/cosmicsting#group-peschanki%3A-automated-mass-cms-block-updates
+# Reference: https://www.virustotal.com/gui/ip-address/106.14.40.200/relations
+
+http://106.14.40.200
+106.14.40.200:443
+cssucess.com
+desiginfest.com
+designmetrlcs.com
+designospro.com
+desynifynet.com
+htmledge.com
+marketprome.com
+statrackers.com
+
+# Reference: https://x.com/sdcyberresearch/status/1845796766911775076
+
+graphorix.com
+
+# Reference: https://x.com/sdcyberresearch/status/1845813522250264895
+
+elbruho.com
+https://paramascot.com/iframes/spiuk/iframe.php
+
+# Reference: https://x.com/sdcyberresearch/status/1846207523117814140
+# Reference: https://www.virustotal.com/gui/ip-address/185.163.204.248/relations
+
+redsys-spain.com
+
+# Reference: https://app.validin.com/detail?first_seen=2024-10-10&type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2024-10-24)
+
+dogroudig.store
+durgeem.shop
+feitoot.site
+geipets.online
+georips.online
+geyteck.store
+heoturs.fun
+jeyrice.store
+joeqolip.fun
+kecicte.sbs
+kopitec.store
+kresviv.sbs
+lenlink.sbs
+luchfran.store
+meglink.online
+multilot.shop
+norkes.shop
+paysendmmm.online
+remnit.fun
+souserec.shop
+spasit.site
+tellaso.fun
+uerzit.online
+vexirec.shop
+vosabit.fun
+vulpet.sbs
+wepits.sbs
+yapitse.site
+yenmac.site
+zarotec.site
+cdn.dogroudig.store
+cdn.durgeem.shop
+cdn.feitoot.site
+cdn.geipets.online
+cdn.georips.online
+cdn.geyteck.store
+cdn.heoturs.fun
+cdn.joeqolip.fun
+cdn.kecicte.sbs
+cdn.kopitec.store
+cdn.kresviv.sbs
+cdn.luchfran.store
+cdn.meglink.online
+cdn.multilot.shop
+cdn.paysendmmm.online
+cdn.remnit.fun
+cdn.souserec.shop
+cdn.spasit.site
+cdn.tellaso.fun
+cdn.vexirec.shop
+cdn.vulpet.sbs
+cdn.wepits.sbs
+cdn.yapitse.site
+cdn.yenmac.site
+
+# Reference: https://x.com/sdcyberresearch/status/1850897739426541700
+# Reference: https://app.validin.com/detail?find=83.147.18.204&type=ip4&ref_id=ec65632f3ec#tab=resolutions
+
+win-win.work
+
+# Reference: https://x.com/sdcyberresearch/status/1850898932441714774
+# Reference: https://app.validin.com/detail?find=137.74.151.41&type=ip4&ref_id=127115debe2#tab=resolutions
+
+zoonmer.xyz
+cnd.zoonmer.xyz
+js.zoonmer.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.156.68.148/relations
+
+shopanalyticss.com
+
+# Reference: https://x.com/sdcyberresearch/status/1851634572728893823
+
+fb-counter.com
+connect.fb-counter.com
+
+# Reference: https://x.com/sdcyberresearch/status/1854186024131268735
+
+statnestt.com
+
+# Reference: https://app.validin.com/detail?find=Attention%20Notice&type=raw&ref_id=131c0406d8d#tab=host_pairs
+
+admatrixclick.com
+adpulsetop.com
+advertiqs.com
+analytishub.com
+artifyau.com
+brandiffy.com
+brandmynxt.com
+brandoraup.com
+chartmyiq.com
+chartproset.com
+codeslucky.com
+countifyhub.com
+creatisup.com
+creatowebhub.com
+cssiwave.com
+datageen.com
+datamazehub.com
+datavibers.com
+designiohub.com
+designlfy.com
+desynity.com
+desynmax.com
+graphlycool.com
+graphwebpad.com
+happystrend.com
+luckydealls.com
+marketcnaft.com
+marketgoweb.com
+marketisplay.com
+marketon360.com
+marketxxx.com
+marketzeen.com
+metricsyapp.com
+pixeloramy.com
+pixelprosstudio.com
+quantifymy.com
+salesflowe.com
+salesuplab.com
+saveanon.com
+sellarcs.com
+sellbeamshop.com
+sellnestonline.com
+sellpathhub.com
+sellriter.com
+sellwebhype.com
+sellwiseweb.com
+statgennius.com
+statibuzz.com
+staticvisionary.com
+statnxt.com
+statsalles.com
+stylifyhub.com
+styloramy.com
+thejupitersystems.com
+trasoltng.com
+trendifymy.com
+trendisall.com
+trendkeed.com
+trendlab360.com
+trenduphut.com
+trendwebbot.com
+visualldata.com
+vizualispro.com
+wisedesignls.com
+
+# Reference: https://blog.sucuri.net/2024/11/2024-credit-card-theft-season-arrives.html
+
+cpeciadogfoods.com
+
+# Reference: https://x.com/sansecio/status/1856658781322510420
+
+statepulseapp.com
+
+# Reference: https://app.validin.com/detail?find=45.88.3.0%2F24&type=ip&ref_id=91b18e17fe2#tab=resolutions
+
+aktevil.store
+babadodo.site
+beltip.sbs
+bierom.store
+bokdigit.shop
+daemets.sbs
+dalifeu.fun
+faeqir.site
+feuted.sbs
+forcet.store
+gelotec.online
+geosepy.site
+geypol.shop
+grunet.online
+guetech.online
+heokit.fun
+hoetmob.sbs
+interqc.online
+intqc.site
+jadov.store
+jarkit.site
+leiuer.store
+loperbit.shop
+nemipoots.sbs
+nikhem.shop
+opeton.site
+partiii.life
+pizvoofes.shop
+portec.online
+raztop.site
+rivtec.online
+sealink.fun
+sedevtec.sbs
+sijemit.sbs
+slidovodi.fun
+tripist.online
+vidyeolit.online
+volopert.site
+cdn.aktevil.store
+cdn.babadodo.site
+cdn.beltip.sbs
+cdn.bierom.store
+cdn.bokdigit.shop
+cdn.daemets.sbs
+cdn.dalifeu.fun
+cdn.faeqir.site
+cdn.feuted.sbs
+cdn.forcet.store
+cdn.gelotec.online
+cdn.geosepy.site
+cdn.geypol.shop
+cdn.grunet.online
+cdn.guetech.online
+cdn.heokit.fun
+cdn.hoetmob.sbs
+cdn.interqc.online
+cdn.intqc.site
+cdn.jadov.store
+cdn.jarkit.site
+cdn.leiuer.store
+cdn.loperbit.shop
+cdn.nemipoots.sbs
+cdn.nikhem.shop
+cdn.opeton.site
+cdn.partiii.life
+cdn.pizvoofes.shop
+cdn.portec.online
+cdn.raztop.site
+cdn.rivtec.online
+cdn.sealink.fun
+cdn.sedevtec.sbs
+cdn.sijemit.sbs
+cdn.slidovodi.fun
+cdn.tripist.online
+cdn.vidyeolit.online
+cdn.volopert.site
+
+# Reference: https://x.com/sdcyberresearch/status/1858833533663383856
+
+ads-data-verify-v5g3dyhvdq-uc.a.run.app
+
+# Reference: https://x.com/sdcyberresearch/status/1859239170754957317
+
+productprobehub.com
+reviewgatherer.com
+
+# Reference: https://x.com/sdcyberresearch/status/1861040655922843998
+# Reference: https://www.virustotal.com/gui/ip-address/213.108.22.35/relations
+# Reference: https://app.validin.com/detail?find=204.48.30.229&type=ip4&ref_id=50ba59b1326#tab=resolutions
+
+click-track-adwords-google-cpc-search.ga
+dynamicopenfonts.com
+ecommercesoltic.org
+foodnetwork.buzz
+link-track-cpc.tk
+pogoo.click
+webtracker.click
+click.webtracker.click
+
+# Reference: https://x.com/sdcyberresearch/status/1861805574003822765
+# Reference: https://app.validin.com/detail?find=f19be927e0ace610970e44ac0fda9f6bdd0c9267&type=hash&ref_id=293e78771a7#tab=host_pairs
+
+analytics-open.com
+ecommercesolution.tech
+ecomscan.click
+static-fonts.com
+staticfonts.com
+ustatics.info
+webdevtools.sa.com
 
 # Generic
 

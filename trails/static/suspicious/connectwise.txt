@@ -403,3 +403,102 @@ qpkl23.zapto.org
 194.59.31.199:8041
 noreply-gymnastics.top
 yurre2.zapto.org
+
+# Reference: https://x.com/malwrhunterteam/status/1845763933807706125
+# Reference: https://app.validin.com/detail?find=176.123.1.130&type=ip4&ref_id=7b15649007d#tab=resolutions
+# Reference: https://www.virustotal.com/gui/file/c06c3d6bcd3eb6e558564e8afecd2ffad463343b9cde299df4c5080bc76456b7/detection
+# Reference: https://www.virustotal.com/gui/file/9724b75d3405ea5ca0412b75e424aee603c1b8d3f4b7316a93e061d024c2c862/detection
+# Reference: https://www.virustotal.com/gui/file/425ab54a2a799c669902ddf13f47bd686ce4d08f1ee0b1bea65a750a3b03cd37/detection
+# Reference: https://www.virustotal.com/gui/file/2d7c15d87ca98d24e82cd1e1dcc81ab93a13e71faa54d47fe88a985615445f4c/detection
+
+176.123.1.130:8880
+bw36back93.site
+bws1backss.site
+loglink9.site
+bw3699.loglink9.site
+
+# Reference: https://x.com/malwrhunterteam/status/1846177965819707774
+# Reference: https://www.virustotal.com/gui/file/f93c9d7f6224261d9909554f6182bd4fe4991cdca6ed46dde4576e2e99d5ebed/detection
+
+79.110.49.185:8041
+kjh231a.zapto.org
+secure.stansup.com
+
+# Reference: https://x.com/karol_paciorek/status/1849734928935624797
+# Reference: https://www.virustotal.com/gui/file/45f04777c51e93d2534aba941d66f722dc3c1d1991e577b789faaaef0b671eb8/detection
+
+103.35.190.119:443
+103.35.190.119:8041
+wise.access.ly
+
+# Reference: https://www.virustotal.com/gui/file/8ddf3420790d946008651c2ba6acb16ecbb57568503f09855c5e2974f475aeed/detection
+
+79.110.49.185:443
+79.110.49.185:8041
+
+# Reference: https://www.virustotal.com/gui/file/a7e518921aba508fad8a0556ce5b3ba992448697022668da2312eaada730b589/detection
+
+wingenuity.dyndns.org
+
+# Reference: https://www.virustotal.com/gui/file/00db14b6f5112c7a8b81db407923f2d9e37e09d9c9978e2b0fe9022895137161/detection
+# Reference: https://www.virustotal.com/gui/file/47c8a2a05b6797644c3c856caf875cdd01876e75ea3f3894764935a49cb1702f/detection
+
+20.122.97.194:8040
+20.122.97.194:8041
+control.vertilocity.com
+
+# Reference: https://www.virustotal.com/gui/file/1790fd36f4bb820a1beed813b836a14fffd18c3c47f00554239a237ed7d442fd/detection
+
+89.187.28.231:443
+89.187.28.231:8041
+docmentsign.ssag00v-0ffical.com
+signdocument.ssag00v-0ffical.com
+wise.dynns.com
+
+# Reference: https://x.com/malwrhunterteam/status/1854456006207484228
+# Reference: https://www.virustotal.com/gui/file/f549e010bf53ced574aac739f55c7785da906cca8c3de02f9271770a8b2645f3/detection
+
+194.59.31.9:8041
+ssagov.cc
+llkt501.ddns.net
+
+# Reference: https://x.com/malwrhunterteam/status/1854881357605822487
+# Reference: https://www.virustotal.com/gui/file/6671f2cb83274541d439b21f917411e1043bd3c0b76946aa4d5875a3f0cc2248/detection
+
+194.110.247.198:8880
+grip08r.top
+
+# Reference: https://x.com/malwrhunterteam/status/1856383222025773346
+# Reference: https://www.virustotal.com/gui/file/29e369f7b7ee09c8b15a8dc133561d4d71e55c100eeff8d7e72d2c6016b179e9/detection
+# Reference: https://www.virustotal.com/gui/file/762e2a16be5fd2a274ba0db78f20d4ba2e6f1b51ed962bd793349bf7de522638/detection
+
+95.164.16.15:8041
+forcloud.xyz
+lokistorage.xyz
+
+# Reference: https://x.com/malwrhunterteam/status/1856395199267872884
+# Reference: https://www.virustotal.com/gui/file/ff829afead15584b5654720ef4985a81f9adab4890485bbf1be4fafb99755b64/detection
+# Reference: https://www.virustotal.com/gui/file/641117163de19c368a6872389725baad7d06e9651d3f3229de2d12cbbcb0cc28/detection
+# Reference: https://www.virustotal.com/gui/file/56c16ac1bae05f5ffc0eaa88c1625e3552a0e43764a434b5e0771caa3fcd9f71/detection
+
+kinglues.com
+secure.kinglues.com
+t23amma.zapto.org
+
+# Reference: https://x.com/malwrhunterteam/status/1856408735800754302
+# Reference: https://www.virustotal.com/gui/file/ec9320875fe14415e6a5b12ccd957ac36ca6b3349c7357836d896199fcd662ea/detection
+
+37.221.65.47:8880
+acemisn.win
+t285.acemisn.win
+
+# Reference: https://x.com/malwrhunterteam/status/1857696062703808782
+# Reference: https://www.virustotal.com/gui/file/02662ecf4b875e7ab204e212395900fcf47eb765180260b99f3517ed643bebed/detection
+# Reference: https://www.virustotal.com/gui/file/caf48e2a81a7b6acd412fef11fac9b5b4d716236ba23044bca21681b46511922/detection
+
+173.46.80.52:443
+173.46.80.52:8041
+signdoc.cloud
+todesk.help
+cloud.signdoc.cloud
+yourrldns22.hopto.org

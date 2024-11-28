@@ -2521,6 +2521,14 @@ Diamotrix
 
 NuclearBot
 
+# Reference: https://tria.ge/240928-zfp1csyckc/behavioral1
+
+Cherax-Loader
+
+# Reference: https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/
+
+cur1-agent
+
 # Misc
 
 information_schema

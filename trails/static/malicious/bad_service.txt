@@ -2971,3 +2971,31 @@ billgang.store
 aspect.bgng.io
 condi.bgng.io
 condi.billgang.store
+
+# Reference: https://x.com/GroupIB_TI/status/1674062245091737600
+# Reference: https://x.com/RakeshKrish12/status/1846435698858946780
+
+brok3r7bhcblynwpoymgarr6zwcy4ttfbhkhcmotz4lw2gcsuojgaeqd.onion
+
+# Reference: https://x.com/g0njxa/status/1848823943953846692
+# Reference: https://app.any.run/tasks/f993b425-a04b-41d0-b760-10ba40dcb819
+
+pastesnip.com
+
+# Reference: https://x.com/DarkWebInformer/status/1852512288156139951
+
+socketstresser.pw
+
+# Reference: https://x.com/0x6rss/status/1854567080357499343
+
+apktopng.com
+
+# Reference: https://x.com/TLP_R3D/status/1857344503704650035
+# Reference: https://www.virustotal.com/gui/ip-address/185.193.125.25/relations
+
+cardersparadise.cc
+
+# Reference: https://app.validin.com/detail?find=193.151.136.249&type=ip4&ref_id=f772d7b812d#tab=resolutions
+
+anonkiller.com
+anonkiller.net

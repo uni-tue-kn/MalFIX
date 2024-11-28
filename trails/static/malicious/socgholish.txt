@@ -4086,6 +4086,94 @@ yyab.podcast.lisameyerson.com
 94.156.248.15:443
 94.156.248.8:443
 
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-10-13)
+
+170.75.167.85:443
+198.98.48.223:443
+216.189.145.234:443
+88.119.175.180:443
+
+# Reference: https://x.com/threatcat_ch/status/1851566183876550946
+# Reference: https://x.com/threatcat_ch/status/1851718952121991366
+# Reference: https://urlscan.io/result/d192df9c-7d81-4d0e-97a1-0b85ca533a80/
+
+keenmagwife.live
+objmapper.com
+thewayofmoney.us
+variablescopetool.com
+winanimperialpower.top
+customer.thewayofmoney.us
+virtual.urban-orthodontics.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/SocGholish/ (# 2024-10-30)
+
+apistateupdater.com
+circle.innovativecsportal.com
+cive.free.thebitmeister.com
+cxwm.podcast.lisameyerson.com
+czo.free.thebitmeister.com
+djt.free.thebitmeister.com
+drddn.free.thebitmeister.com
+ebjmr.free.thebitmeister.com
+fetchdataajax.com
+free.thebitmeister.com
+house.zionanakwenze.com
+jeju.podcast.lisameyerson.com
+jepw.free.thebitmeister.com
+khu.free.thebitmeister.com
+kvlig.free.thebitmeister.com
+lab.free.thebitmeister.com
+loopconstruct.com
+lpgv.free.thebitmeister.com
+majorbrdide.com
+myvz.free.thebitmeister.com
+nhall.free.thebitmeister.com
+oln.free.thebitmeister.com
+outfit.dianamercer.com
+promiseresolverdev.com
+qdif.free.thebitmeister.com
+qqmb.free.thebitmeister.com
+range.cccinvolve.org
+rooms.fierceatfifty.com
+shades.whatisaweekend.com
+syx.free.thebitmeister.com
+therapy.emergencepsychservices.com
+vryv.free.thebitmeister.com
+wccw.free.thebitmeister.com
+yqf.free.thebitmeister.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-11-10)
+
+172.96.8.206:443
+205.185.119.10:443
+38.180.242.241:443
+45.76.250.221:443
+50.114.37.19:443
+62.60.154.114:443
+86.124.170.114:443
+88.119.175.247:443
+91.240.202.172:443
+
+# Reference: https://x.com/TRACLabs_/status/1859727076124999714
+# Reference: https://www.virustotal.com/gui/ip-address/38.180.136.48/relations
+# Reference: https://www.virustotal.com/gui/file/27909ef2e03908e4c0011acebe377a541e41db03843f5856b5e3e58887d8b79d/detection
+# Reference: https://www.virustotal.com/gui/file/b5c26533650b7da90c162b945533be126b640f4957d6a0376977d6b42e06b3fd/detection
+
+cases.​pcohenlaw.​com
+cxhkh.cases.pcohenlaw.com
+geui.cases.pcohenlaw.com
+kwsww.cases.pcohenlaw.com
+xrqax.cases.pcohenlaw.com
+
+# Reference: https://x.com/TRACLabs_/status/1861073149070041377
+
+dashnex.plexusmarket.fund
+
+# Reference: https://x.com/TRACLabs_/status/1862161709353365776
+# Reference: https://www.virustotal.com/gui/ip-address/137.220.63.132/relations
+
+studio.lacrenshawcrossing.com
+
 # Generic
 
 /Chrome.Quick.Update.ver.101.65.65282.js

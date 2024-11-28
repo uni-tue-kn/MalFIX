@@ -5270,11 +5270,92 @@ rtxcore.ru
 194.169.175.134:8443
 194.49.94.18:8443
 
+# Reference:  https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-10-13)
+
+104.248.113.150:443
+118.25.103.251:10010
+165.227.204.151:8888
+176.124.205.60:1337
+176.124.205.60:8443
+20.255.58.253:9823
+208.123.119.159:12345
+38.55.193.31:31337
+38.55.193.31:8888
+43.230.161.37:888
+45.32.117.209:31337
+45.32.117.209:8888
+78.40.116.248:666
+
+# Reference: https://x.com/RakeshKrish12/status/1851872514793968008
+# Reference: https://www.virustotal.com/gui/file/a7d68938baaf71f6fdb698b71a667544a98c603ff958c1e88f31956456808747/detection
+
+172.96.137.224:7083
+
+# Reference: https://x.com/banthisguy9349/status/1854115213835898998
+# Reference: https://www.virustotal.com/gui/file/39b20351bd38a8414fa2a1af3d2f931d8dd3f7e322db7a4e7aa84df24367de5c/detection
+
+185.247.224.8:2344
+185.247.224.8:5559
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-11-10)
+
+http://38.54.88.181
+http://43.138.184.91
+121.127.33.63:31337
+121.127.33.63:443
+124.156.200.15:42387
+124.156.200.15:8443
+137.184.126.213:443
+165.22.229.124:8443
+172.86.66.37:31337
+172.86.66.37:8888
+179.60.149.4:31337
+179.60.149.4:43215
+179.60.149.75:31337
+179.60.149.75:43215
+183.128.141.238:5005
+185.130.44.115:31337
+185.130.44.115:443
+185.29.10.251:1234
+185.29.10.251:443
+194.87.196.126:443
+194.87.68.191:8443
+206.119.167.171:31337
+217.195.153.118:443
+217.195.153.118:51000
+38.54.88.181:3389
+38.54.88.181:8088
+38.54.88.181:8443
+43.230.161.37:5040
+45.154.2.77:31337
+45.154.2.77:8888
+86.107.101.22:31337
+86.107.101.22:33076
+94.198.54.98:45361
+94.198.54.98:8080
+95.163.222.246:31337
+95.163.222.246:443
+
+# Reference: https://hunt.io/blog/sliver-c2-ligolo-ng-targeting-yc
+
+179.60.149.75:22813
+179.60.149.75:3333
+ycombinator.serveblog.net
+
+# Reference: https://www.virustotal.com/gui/file/d6b7b1234e2380235db197a1924a738b464e87b4fe749348c5662e33fc6aff77/detection
+
+http://45.82.254.63
+45.82.254.63:443
+
 # Generic
 
 /.sliver-client/
 /.sliver-server/
 /.sliver/
+/sliver_beacon
+/sliver_client
+/sliver_implant
+/sliver_payload
 /sliver-client
 /sliver-client_linux
 /sliver-client_linux.sig

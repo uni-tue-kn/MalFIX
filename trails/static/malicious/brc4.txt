@@ -903,3 +903,97 @@ combazarunet.com
 obobobo.com
 pobegskichi.com
 sosachwaffen.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-10-13)
+
+http://52.198.166.185
+http://54.178.8.63
+http://54.248.167.251
+http://57.180.68.148
+120.26.97.135:23333
+143.198.123.32:8443
+18.201.190.57:443
+194.48.154.64:443
+34.211.116.85:443
+47.113.193.147:443
+47.113.193.147:8443
+47.93.240.197:444
+52.250.14.157:8443
+54.71.218.247:443
+81.19.141.238:10443
+87.120.127.145:1080
+94.232.247.68:443
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_16.10.2024.txt
+# Reference: https://www.virustotal.com/gui/file/0cf42f02249025e69a65c5395e04c3e220cf59cbf02daf1f04b036d740fbf96c/detection
+# Reference: https://www.virustotal.com/gui/file/02e54ffdb478f964dc486197e239c802bffef514bedfa3a30f50f9b8fea8bfbd/detection
+
+185.106.92.108:8810
+185.106.92.109:8810
+185.106.92.110:8810
+berzzuzz.com
+deltaso.com
+soccoc.africa
+
+# Reference: https://x.com/malwrhunterteam/status/1854823012798738814
+# Reference: https://www.virustotal.com/gui/file/c96ec96ea29372311cbef1d2b23f0e51b06f1f6184a41da985142929d9fa2f02/detection
+# Reference: https://www.virustotal.com/gui/file/714944899f2b0fe6496ac15359ba90fb9d9891a84111fc7dc3cd5b1093b17347/detection
+
+45.143.166.83:8822
+45.143.166.83:8877
+80.66.76.106:8822
+80.66.76.106:8877
+ergiholim.com
+rolefenik.com
+waffaffa.com
+xomamox.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-11-10)
+
+http://13.115.99.135
+http://52.69.75.103
+http://54.249.240.178
+http://54.249.244.152
+http://54.250.147.219
+http://57.180.74.95
+104.207.132.109:443
+159.89.105.196:443
+164.90.146.24:443
+165.232.139.231:443
+23.168.152.67:8443
+23.168.152.68:443
+94.156.166.170:1378
+94.232.247.97:21
+
+# Reference: https://github.com/pr0xylife/Latrodectus/blob/main/Latrodectus_19.11.2024.txt
+# Reference: https://www.virustotal.com/gui/file/14ffcbbfb305287ea15264df3363567f36a26917ae2018af0f40e2009b8a7184/detection
+
+46.249.49.83:4438
+94.232.40.38:4438
+guaaug.com
+uayyau.com
+
+# Reference: https://x.com/Cryptolaemus1/status/1856774655534637418
+# Reference: https://www.virustotal.com/gui/file/0f23855e56eb6ec760717be43280eeeeaec1aeef939f9ae6a41daf1b8e3bd306/detection
+
+45.143.166.230:9043
+87.120.37.120:9043
+azuredcloud.world
+burjog.com
+memorun.life
+samomol.com
+
+# Reference: https://x.com/P4nd3m1cb0y/status/1861171310824693892
+
+146.70.213.35:443
+162.254.85.213:443
+162.254.86.108:443
+185.75.240.211:443
+35.161.207.170:443
+84.46.239.89:443
+
+# Reference: https://x.com/malwrhunterteam/status/1861747344770843000
+# Reference: https://www.virustotal.com/gui/file/196b4d327d8cc1fab8d801c19872c0b084d7485aeb1a103396652ff40fae45e1/detection
+
+http://147.45.124.228
+147.45.124.228:443
