@@ -12394,6 +12394,7 @@ crmrebss.com
 fastbcrm.com
 octalcrm.com
 quickcartcloud.com
+rsoftline.sbs
 shopcartcrm.com
 smartcli.org
 smoothb2b.com
@@ -12851,6 +12852,11 @@ jgueurystatic.xyz
 7tags.shop
 8urls.info
 9analytics.ink
+analytz.info
+builder.motorcycles
+coworkin.art
+directs.bond
+enrgy.cam
 tagsanalytics.shop
 tagscart.shop
 tagsmanager.shop
@@ -13525,6 +13531,7 @@ marketisplay.com
 marketon360.com
 marketxxx.com
 marketzeen.com
+marteton360.com
 metricsyapp.com
 pixeloramy.com
 pixelprosstudio.com
@@ -13536,9 +13543,11 @@ sellarcs.com
 sellbeamshop.com
 sellnestonline.com
 sellpathhub.com
+sellquestor.com
 sellriter.com
 sellwebhype.com
 sellwiseweb.com
+statenova.com
 statgennius.com
 statibuzz.com
 staticvisionary.com
@@ -13552,6 +13561,7 @@ trendifymy.com
 trendisall.com
 trendkeed.com
 trendlab360.com
+trendlq.com
 trenduphut.com
 trendwebbot.com
 visualldata.com
@@ -13575,6 +13585,7 @@ bierom.store
 bokdigit.shop
 daemets.sbs
 dalifeu.fun
+depssitntrac.icu
 faeqir.site
 feuted.sbs
 forcet.store
@@ -13583,13 +13594,16 @@ geosepy.site
 geypol.shop
 grunet.online
 guetech.online
+handslegs.site
 heokit.fun
 hoetmob.sbs
 interqc.online
 intqc.site
 jadov.store
 jarkit.site
+krtztanik.xyz
 leiuer.store
+lntearec.icu
 loperbit.shop
 nemipoots.sbs
 nikhem.shop
@@ -13599,9 +13613,12 @@ pizvoofes.shop
 portec.online
 raztop.site
 rivtec.online
+safemh.icu
+safemh.lol
 sealink.fun
 sedevtec.sbs
 sijemit.sbs
+sliceadslvlb.com
 slidovodi.fun
 tripist.online
 vidyeolit.online
@@ -13644,6 +13661,9 @@ cdn.slidovodi.fun
 cdn.tripist.online
 cdn.vidyeolit.online
 cdn.volopert.site
+chairi.handslegs.site
+merajd.safemh.lol
+merajdns.safemh.icu
 
 # Reference: https://x.com/sdcyberresearch/status/1858833533663383856
 
@@ -13677,6 +13697,106 @@ static-fonts.com
 staticfonts.com
 ustatics.info
 webdevtools.sa.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.196.11.69/relations
+
+magentoplugins.cc
+
+# Reference: https://app.validin.com/detail?find=89d0ef12d8d583fba8c80cad17e6ef30&type=hash&ref_id=e8c9bfe02ca#tab=host_pairs (# 2024-12-01)
+
+anonguard.shop
+anontech.shop
+brandlx.shop
+countify.shop
+creativemlnd.shop
+creatlveedge.shop
+cssfusion.shop
+datasphare.shop
+dealflnder.shop
+designfiow.shop
+designia.shop
+designls.shop
+graphexpert.shop
+graphiq.shop
+htmlwizard.shop
+htmlworks.shop
+javawizard.shop
+joyfuipath.shop
+marketls.shop
+markettis.shop
+pixelmaster.shop
+quantlfy.shop
+safezonne.shop
+sellboost.shop
+sellifry.shop
+statboost.shop
+stattrek.shop
+trendlfy.shop
+trendweve.shop
+
+# Reference: https://x.com/sdcyberresearch/status/1863580218822185269
+# Reference: https://app.validin.com/detail?find=146.70.71.179&type=ip4&ref_id=682c14ec707#tab=resolutions
+
+apistatistic.live
+
+# Reference: https://x.com/sdcyberresearch/status/1864303340403732714
+
+webtagcontrol.com
+api.webtagcontrol.com
+
+# Reference: https://x.com/sdcyberresearch/status/1866126596983115899
+# Reference: https://app.validin.com/detail?find=192.145.125.142&type=ip4&ref_id=1bd1a6d7787#tab=resolutions
+
+apistats.info
+asd123qwe2.online
+gatetpere.space
+jfixed.com
+lsikaqr.vip
+tetsted.com
+wargular.xyz
+windowsupdate.io
+
+# Reference: https://app.validin.com/detail?first_seen=2024-12-01&type=ip&find=45.88.3.0%2F24 (# 2024-12-09)
+
+beopoor.site
+brasei.fun
+cetuopit.online
+gogetec.sbs
+kurmob.site
+leopevit.store
+mojtec.sbs
+pftuotic.fun
+shatink.store
+sobilink.shop
+unirec.store
+veofet.shop
+vseyol.online
+cdn.beopoor.site
+cdn.brasei.fun
+cdn.cetuopit.online
+cdn.gogetec.sbs
+cdn.kurmob.site
+cdn.leopevit.store
+cdn.mojtec.sbs
+cdn.pftuotic.fun
+cdn.shatink.store
+cdn.sobilink.shop
+cdn.unirec.store
+cdn.veofet.shop
+cdn.vseyol.online
+
+# Reference: https://app.validin.com/detail?find=195.242.110.161&type=ip4&ref_id=adc7115d423#tab=resolutions
+
+bazgent.shop
+ocajep.fun
+opestat.online
+sgomet.store
+zatrob.sbs
+cdn.bazgent.shop
+cdn.ocajep.fun
+cdn.opestat.online
+cdn.sgomet.store
+cdn.zatrob.sbs
 
 # Generic
 

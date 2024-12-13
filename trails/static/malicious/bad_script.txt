@@ -3872,6 +3872,7 @@ premcloa.shop
 /BB.ps1
 /Invoke-CustomKatz.ps1
 /Invoke-Mimikatz.ps1
+/Invoke-Mimikatz2.ps1
 /powercat.ps1
 /shell.hta
 /shell.ps1
@@ -8641,6 +8642,33 @@ gatetodisplaycontent.com
 
 /emotewipe.ps1
 /emotewipe2.ps1
+
+# Reference: https://x.com/malwrhunterteam/status/1862624900592119903
+# Reference: https://www.virustotal.com/gui/file/e29d2bd946212328bcdf783eb434e1b384445f4c466c5231f91a07a315484819/detection
+
+/wp-includes/barasinghaby.ps1
+/wp-includes/neocolonialXAW.php
+/wp-includes/phyllopodan7V7GD.php
+/barasinghaby.ps1
+/neocolonialXAW.php
+/phyllopodan7V7GD.php
+
+# Reference: https://x.com/banthisguy9349/status/1864282025579987072
+
+/1krecrypted.cmd
+
+# Reference: https://x.com/Gi7w0rm/status/1864308600841068864
+
+/Network4726Man.cmd
+
+# Reference: https://x.com/solostalking/status/1864532060896924136
+
+/azured_decrypt_msol_v2.ps1
+/php_reverse_shell.php
+
+# Reference: https://x.com/banthisguy9349/status/1866121920808419751
+
+/!HELP_SOS.hta
 
 # Generic
 
