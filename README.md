@@ -2,6 +2,20 @@
 
 [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/stamparm/maltrail#license) [![Malware families](https://img.shields.io/badge/malware_families-1494-orange.svg)](https://github.com/stamparm/maltrail/tree/master/trails/static/malware) [![Malware sinkholes](https://img.shields.io/badge/malware_sinkholes-1354-green.svg)](https://github.com/stamparm/maltrail/tree/master/trails/static/malware) [![Twitter](https://img.shields.io/badge/twitter-@maltrail-blue.svg)](https://twitter.com/maltrail)
 
+## IPFIX
+
+Relevant commandline options:
+
+```py
+    parser.add_option("--ipfix", dest="ipfix", action="store_true", help="listen ipfix instead if pcap")
+    parser.add_option("--ipfix_listen_port", dest="ipfix_listen_port", default="19000", help="set port to listen on")
+    parser.add_option("--ipfix_listen_protocol", dest="ipfix_listen_protocol", default="tcp", help="set protocol to listen on")
+    parser.add_option("--ipfix_export_port", dest="ipfix_export_port", default="2055",  help="set port to export")
+    parser.add_option("--ipfix_export_protocol", dest="ipfix_export_protocol", default="udp",  help="set protocol for export")
+    parser.add_option("--ipfix_export_host", dest="ipfix_export_host", default="localhost",  help="set host for export")
+    parser.add_option("--ipfix_forward", dest="ipfix_forward", action='store_true',  help="forward all incoming ipfix")
+```
+
 ## Content
 
 - [Introduction](#introduction)
