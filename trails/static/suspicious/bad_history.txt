@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://github.com/deepfield/dnsflow-merit/blob/f484bc792c1b743057a9e6a443cf9fe26ae444fe/src/blacklists/domains1.txt
@@ -27,7 +27,6 @@ autohton2005.ro
 bestfinderr.cn
 bitaid.nl
 carita.pl
-centrepassatge.com
 citygroupservices.com
 coll-med6.freevar.com
 darkscape.info
@@ -1102,7 +1101,6 @@ orhaninsaatltd.com
 panamaxexim.com
 pannatex.com
 petplant.hu
-picafierce.com
 pin98.dothome.co.kr
 ponysirindhorn.com
 poze.sloris.ro
@@ -2980,7 +2978,6 @@ mainsoftscanner46.net
 mguardlab.net
 modern-protectav.net
 modes-torm.net
-monoprotection.com
 most-popularav.net
 my-firstavprotect.com
 my-firstavprotection.net
@@ -3159,7 +3156,6 @@ insoftprotect.com
 internetissafe.com
 internetsecurity-suite.com
 internetsmart-secure4u.net
-invisibleprotection.net
 iqtzbgiqva1496fk.com
 isdignsafe.com
 jacbocome6.co.cc
@@ -7853,7 +7849,6 @@ cutped.com
 9669b6b96b.com
 acdeubbamlc.com
 acdpeylaoxk.com
-adfirmogroup.com
 admin-vertigo2.uni.cc
 aghjpcfamlc.com
 ahf3fa6yf.com
@@ -17028,7 +17023,6 @@ pypwalve.ru
 qq12300.com
 raviganeshassociates.com
 rujascur.ru
-salesio.net
 shortrib.ru
 siteanalitycs.ru
 smn.klm.net.pl
@@ -17513,7 +17507,6 @@ maison-a-restaurer.fr
 malermeister-papen.de
 martinschroer.eu
 maspedmeasled.bogotatraveller.info
-maxdezignz.com
 mebel2010.ru
 meewxib.ru
 meisure.com
@@ -19499,7 +19492,6 @@ bestdenverattorney.com
 bestdriverstar.net
 bigappsidea.com
 bigtreeapps.com
-billscheidlerforrep.com
 bjart999.com
 boatpropshop.com
 bond.trajesdeodalisca.cl
@@ -19909,7 +19901,6 @@ cabinetlocale.net
 cactussg.com
 caixaseguranca.com
 cas-sfu-ca.96.lt
-cc-base.com
 cgemac.return.to
 cgmar.up.to
 chenjufen512.v1.zmtuaa.com
@@ -22742,7 +22733,6 @@ download.cdn.0023.78302.com
 download.suxiazai.com
 download.xiaoxinrili.com
 download4win.org
-downloadizer.net
 downloadserver40.com
 downloadthesefiles.org
 druzhkovka.com
@@ -23727,7 +23717,6 @@ babushkapriehalaa.com
 babygo01.com
 backupmarquis.com
 bagogilu.hostoi.com
-bague-a-tm.com
 bakkerconstruction.com
 balalaikablahblahblah.info
 banercom.net
@@ -26506,3 +26495,8 @@ zz.611u.com
 # Reference: https://twitter.com/ps66uk/status/1032177208335450112
 
 occe.com
+
+# Reference: https://x.com/r3dbU7z/status/1810725087064011116
+# Request for Removal of interpol.cc from Maltrail Blocklist [2025-01-23], moving from 'generic_stealer' detection to 'bad_hostory' trail.
+
+interpol.cc

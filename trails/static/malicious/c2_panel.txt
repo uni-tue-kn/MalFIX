@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://viriback.com/30-days-later-97-panels/
@@ -904,6 +904,19 @@ mgkr.shop
 portalnfe.digital
 magiker.portalnfe.digital
 magiker.mgkr.shop
+
+# Reference: https://x.com/idclickthat/status/1875784371996914069
+
+http://144.126.237.89
+http://154.216.19.179
+http://185.196.9.120
+http://45.61.159.101
+http://66.78.40.145
+http://94.103.125.100
+154.216.19.179:3000
+185.193.125.121:3000
+185.193.125.220:3000
+185.193.125.226:3000
 
 # Generic
 

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/wastedlocker-ransomware-us
@@ -4178,6 +4178,622 @@ studio.lacrenshawcrossing.com
 # Reference: https://www.virustotal.com/gui/ip-address/166.88.159.66/relations
 
 material.​amstillroofing.​com
+
+# Reference: https://x.com/TRACLabs_/status/1868788183112315339
+# Reference: https://www.virustotal.com/gui/ip-address/38.180.146.6/relations
+# Reference: https://www.virustotal.com/gui/file/8e513dc4b7ddfc0980e41338699d19d3e64ec841a3e2fbf30dfe84d5aa68f827/detection
+
+clients.​dedicatedservicesusa.​com
+sectors.​bowentaxlaw.​com
+axpr.sectors.bowentaxlaw.com
+cobt.sectors.bowentaxlaw.com
+fgmtp.sectors.bowentaxlaw.com
+ijngp.sectors.bowentaxlaw.com
+msux.sectors.bowentaxlaw.com
+qlu.sectors.bowentaxlaw.com
+touqp.sectors.bowentaxlaw.com
+uag.sectors.bowentaxlaw.com
+urue.sectors.bowentaxlaw.com
+vlxnj.sectors.bowentaxlaw.com
+zter.sectors.bowentaxlaw.com
+correo.dedicatedservicesusa.com
+hermes.dedicatedservicesusa.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-11-04-v10734/2111
+
+strategies.mvpstrat.com
+aaaaa.strategies.mvpstrat.com
+ajyqv.strategies.mvpstrat.com
+asao.strategies.mvpstrat.com
+bdi.strategies.mvpstrat.com
+dbgq.strategies.mvpstrat.com
+eccr.strategies.mvpstrat.com
+efr.strategies.mvpstrat.com
+fioii.strategies.mvpstrat.com
+fmhc.strategies.mvpstrat.com
+fqv.strategies.mvpstrat.com
+fvps.strategies.mvpstrat.com
+gitae.strategies.mvpstrat.com
+gqha.strategies.mvpstrat.com
+gqn.strategies.mvpstrat.com
+gqpme.strategies.mvpstrat.com
+gvf.strategies.mvpstrat.com
+hwve.strategies.mvpstrat.com
+ibih.strategies.mvpstrat.com
+iwzs.strategies.mvpstrat.com
+jqpc.strategies.mvpstrat.com
+jyez.strategies.mvpstrat.com
+jzyk.strategies.mvpstrat.com
+keayx.strategies.mvpstrat.com
+kkgs.strategies.mvpstrat.com
+loqpj.strategies.mvpstrat.com
+mkotl.strategies.mvpstrat.com
+mkxm.strategies.mvpstrat.com
+onsau.strategies.mvpstrat.com
+osm.strategies.mvpstrat.com
+qdofg.strategies.mvpstrat.com
+qkv.strategies.mvpstrat.com
+quf.strategies.mvpstrat.com
+rfuef.strategies.mvpstrat.com
+rulj.strategies.mvpstrat.com
+sgokz.strategies.mvpstrat.com
+shfgf.strategies.mvpstrat.com
+srivl.strategies.mvpstrat.com
+tpguf.strategies.mvpstrat.com
+ulj.strategies.mvpstrat.com
+wgfcg.strategies.mvpstrat.com
+wlmnn.strategies.mvpstrat.com
+wuih.strategies.mvpstrat.com
+xlkwu.strategies.mvpstrat.com
+xpvrk.strategies.mvpstrat.com
+xuxv.strategies.mvpstrat.com
+yts.strategies.mvpstrat.com
+zmv.strategies.mvpstrat.com
+zrn.strategies.mvpstrat.com
+zyf.strategies.mvpstrat.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-11-11-v10739/2129
+
+events.socalpocis.org
+adj.events.socalpocis.org
+aeyi.events.socalpocis.org
+avc.events.socalpocis.org
+buki.events.socalpocis.org
+bzfp.events.socalpocis.org
+cha.events.socalpocis.org
+chf.events.socalpocis.org
+cms.events.socalpocis.org
+dfg.events.socalpocis.org
+ebbm.events.socalpocis.org
+edah.events.socalpocis.org
+gogju.events.socalpocis.org
+gtj.events.socalpocis.org
+gxq.events.socalpocis.org
+hdqem.events.socalpocis.org
+ixkix.events.socalpocis.org
+jygtq.events.socalpocis.org
+kxqsr.events.socalpocis.org
+lcxsk.events.socalpocis.org
+lzt.events.socalpocis.org
+mbw.events.socalpocis.org
+mep.events.socalpocis.org
+ndur.events.socalpocis.org
+ngfet.events.socalpocis.org
+ntqq.events.socalpocis.org
+oil.events.socalpocis.org
+omrua.events.socalpocis.org
+ppzdn.events.socalpocis.org
+pzhe.events.socalpocis.org
+rrtid.events.socalpocis.org
+sim.events.socalpocis.org
+szgje.events.socalpocis.org
+szl.events.socalpocis.org
+tqne.events.socalpocis.org
+tqqen.events.socalpocis.org
+tuw.events.socalpocis.org
+tzc.events.socalpocis.org
+varu.events.socalpocis.org
+whnhg.events.socalpocis.org
+ygtvv.events.socalpocis.org
+ysflo.events.socalpocis.org
+zessk.events.socalpocis.org
+zmscf.events.socalpocis.org
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-11-18-v10744/2147
+
+staff.plenarykcg.com
+ady.staff.plenarykcg.com
+bxf.staff.plenarykcg.com
+drcm.staff.plenarykcg.com
+edb.staff.plenarykcg.com
+evy.staff.plenarykcg.com
+fntkn.staff.plenarykcg.com
+igeha.staff.plenarykcg.com
+jbfrh.staff.plenarykcg.com
+jwvqy.staff.plenarykcg.com
+kuotc.staff.plenarykcg.com
+lnr.staff.plenarykcg.com
+opw.staff.plenarykcg.com
+pcbpy.staff.plenarykcg.com
+pclok.staff.plenarykcg.com
+pzzay.staff.plenarykcg.com
+rgjn.staff.plenarykcg.com
+rmzrc.staff.plenarykcg.com
+rvjmm.staff.plenarykcg.com
+sjwrx.staff.plenarykcg.com
+snk.staff.plenarykcg.com
+syzzz.staff.plenarykcg.com
+utbw.staff.plenarykcg.com
+uukdz.staff.plenarykcg.com
+vdvv.staff.plenarykcg.com
+ycujr.staff.plenarykcg.com
+youxj.staff.plenarykcg.com
+zhw.staff.plenarykcg.com
+zrdg.staff.plenarykcg.com
+zrggz.staff.plenarykcg.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-11-25-v10750/2164
+
+lessons.southsidechurchofchristla.org
+ource.scriptsafedata.com
+source.scriptsafedata.com
+aaa.lessons.southsidechurchofchristla.org
+cov.lessons.southsidechurchofchristla.org
+cumd.lessons.southsidechurchofchristla.org
+dwya.lessons.southsidechurchofchristla.org
+ehkhl.lessons.southsidechurchofchristla.org
+esske.lessons.southsidechurchofchristla.org
+flchc.lessons.southsidechurchofchristla.org
+fqpeo.lessons.southsidechurchofchristla.org
+fyvd.lessons.southsidechurchofchristla.org
+hhx.lessons.southsidechurchofchristla.org
+https.lessons.southsidechurchofchristla.org
+ijxm.lessons.southsidechurchofchristla.org
+jwcy.lessons.southsidechurchofchristla.org
+klrag.lessons.southsidechurchofchristla.org
+mdl.lessons.southsidechurchofchristla.org
+mldjx.lessons.southsidechurchofchristla.org
+ncyp.lessons.southsidechurchofchristla.org
+obef.lessons.southsidechurchofchristla.org
+qihdv.lessons.southsidechurchofchristla.org
+qppwq.lessons.southsidechurchofchristla.org
+rnjj.lessons.southsidechurchofchristla.org
+spsl.lessons.southsidechurchofchristla.org
+tew.lessons.southsidechurchofchristla.org
+uske.lessons.southsidechurchofchristla.org
+vcja.lessons.southsidechurchofchristla.org
+yaez.lessons.southsidechurchofchristla.org
+yeuo.lessons.southsidechurchofchristla.org
+yew.lessons.southsidechurchofchristla.org
+yoebo.lessons.southsidechurchofchristla.org
+yxqnj.lessons.southsidechurchofchristla.org
+yyey.lessons.southsidechurchofchristla.org
+zgp.lessons.southsidechurchofchristla.org
+zvymi.lessons.southsidechurchofchristla.org
+
+# Reference: https://x.com/TRACLabs_/status/1871152723388682404
+
+office.enewlaw.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-02-v10781/2210
+
+trc20.kcgrocks.com
+aaa.trc20.kcgrocks.com
+aawh.trc20.kcgrocks.com
+ayb.trc20.kcgrocks.com
+bris.trc20.kcgrocks.com
+cdaw.trc20.kcgrocks.com
+chha.trc20.kcgrocks.com
+depd.trc20.kcgrocks.com
+dupcl.trc20.kcgrocks.com
+dvhg.trc20.kcgrocks.com
+dxhe.trc20.kcgrocks.com
+ekn.trc20.kcgrocks.com
+ezj.trc20.kcgrocks.com
+femk.trc20.kcgrocks.com
+fxc.trc20.kcgrocks.com
+hkjak.trc20.kcgrocks.com
+jblz.trc20.kcgrocks.com
+jxv.trc20.kcgrocks.com
+kcmxy.trc20.kcgrocks.com
+lklvj.trc20.kcgrocks.com
+lxdrh.trc20.kcgrocks.com
+nse.trc20.kcgrocks.com
+nuvth.trc20.kcgrocks.com
+oarzj.trc20.kcgrocks.com
+ozdff.trc20.kcgrocks.com
+poj.trc20.kcgrocks.com
+wdrj.trc20.kcgrocks.com
+wihzf.trc20.kcgrocks.com
+ywzu.trc20.kcgrocks.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-05-v10791/2234
+
+law.kimsavagelaw.com
+cujy.law.kimsavagelaw.com
+dqpgb.law.kimsavagelaw.com
+dyt.law.kimsavagelaw.com
+egodu.law.kimsavagelaw.com
+eja.law.kimsavagelaw.com
+fsur.law.kimsavagelaw.com
+ggsp.law.kimsavagelaw.com
+gqatp.law.kimsavagelaw.com
+gvwh.law.kimsavagelaw.com
+ims.law.kimsavagelaw.com
+ivhg.law.kimsavagelaw.com
+jurkw.law.kimsavagelaw.com
+jwoo.law.kimsavagelaw.com
+kul.law.kimsavagelaw.com
+mxq.law.kimsavagelaw.com
+nooo.law.kimsavagelaw.com
+numaz.law.kimsavagelaw.com
+oclc.law.kimsavagelaw.com
+pjs.law.kimsavagelaw.com
+rar.law.kimsavagelaw.com
+sjig.law.kimsavagelaw.com
+tmowh.law.kimsavagelaw.com
+tnpz.law.kimsavagelaw.com
+umkq.law.kimsavagelaw.com
+utg.law.kimsavagelaw.com
+vfaw.law.kimsavagelaw.com
+woc.law.kimsavagelaw.com
+xul.law.kimsavagelaw.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-09-v10793/2248
+
+material.amstillroofing.com
+aaa.material.amstillroofing.com
+abuyw.material.amstillroofing.com
+akzht.material.amstillroofing.com
+anl.material.amstillroofing.com
+asg.material.amstillroofing.com
+bxy.material.amstillroofing.com
+cmku.material.amstillroofing.com
+gmmiw.material.amstillroofing.com
+gym.material.amstillroofing.com
+hil.material.amstillroofing.com
+itmto.material.amstillroofing.com
+jetxf.material.amstillroofing.com
+ooeyi.material.amstillroofing.com
+pla.material.amstillroofing.com
+qkn.material.amstillroofing.com
+sqkn.material.amstillroofing.com
+terb.material.amstillroofing.com
+vjorq.material.amstillroofing.com
+wmj.material.amstillroofing.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-12-v10800/2257
+
+riders.50kfor50years.com
+agqxp.riders.50kfor50years.com
+ggja.riders.50kfor50years.com
+hbuv.riders.50kfor50years.com
+klaq.riders.50kfor50years.com
+kolw.riders.50kfor50years.com
+lbhz.riders.50kfor50years.com
+lluc.riders.50kfor50years.com
+mjp.riders.50kfor50years.com
+nughk.riders.50kfor50years.com
+oozmo.riders.50kfor50years.com
+ovgt.riders.50kfor50years.com
+pbyit.riders.50kfor50years.com
+qvyvi.riders.50kfor50years.com
+qxxj.riders.50kfor50years.com
+rqeda.riders.50kfor50years.com
+tbq.riders.50kfor50years.com
+tha.riders.50kfor50years.com
+uadew.riders.50kfor50years.com
+uprpi.riders.50kfor50years.com
+usk.riders.50kfor50years.com
+vhnrz.riders.50kfor50years.com
+vhxhm.riders.50kfor50years.com
+vmonh.riders.50kfor50years.com
+wcjp.riders.50kfor50years.com
+wgj.riders.50kfor50years.com
+wswzb.riders.50kfor50years.com
+wyll.riders.50kfor50years.com
+xqlh.riders.50kfor50years.com
+ygj.riders.50kfor50years.com
+ygt.riders.50kfor50years.com
+yoymx.riders.50kfor50years.com
+yxf.riders.50kfor50years.com
+zapz.riders.50kfor50years.com
+zexl.riders.50kfor50years.com
+zqe.riders.50kfor50years.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-13-v10805/2263
+
+mentor.omgwowhq.org
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-16-v10808/2270
+
+trust.scriptobject.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-17-v10809/2275
+
+clients.dedicatedservicesusa.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-19-v10811/2280
+
+demo.ezra-ai.com
+agwa.demo.ezra-ai.com
+buuao.demo.ezra-ai.com
+ccjz.demo.ezra-ai.com
+derp.demo.ezra-ai.com
+iopuz.demo.ezra-ai.com
+ipimd.demo.ezra-ai.com
+mkgd.demo.ezra-ai.com
+mnsty.demo.ezra-ai.com
+nibvx.demo.ezra-ai.com
+nsgs.demo.ezra-ai.com
+opa.demo.ezra-ai.com
+sdlru.demo.ezra-ai.com
+tltnx.demo.ezra-ai.com
+uabyu.demo.ezra-ai.com
+uleor.demo.ezra-ai.com
+vbjr.demo.ezra-ai.com
+vzfy.demo.ezra-ai.com
+waz.demo.ezra-ai.com
+wimf.demo.ezra-ai.com
+wyn.demo.ezra-ai.com
+xlu.demo.ezra-ai.com
+xyfe.demo.ezra-ai.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-26-v10817/2296
+
+stock.letsgoautomotive.com
+qytn.stock.letsgoautomotive.com
+xof.stock.letsgoautomotive.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-30-v10819/2306
+
+chain.buyclosersonline.com
+aaa.chain.buyclosersonline.com
+cqda.chain.buyclosersonline.com
+gicw.chain.buyclosersonline.com
+ugbhe.chain.buyclosersonline.com
+ztzzj.chain.buyclosersonline.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2025-01-02)
+
+137.220.63.132:443
+155.138.206.121:443
+166.88.159.66:443
+170.75.160.84:443
+172.96.10.211:443
+172.96.10.214:443
+198.98.59.241:443
+207.90.238.101:443
+23.146.184.165:443
+38.180.136.48:443
+38.180.146.6:443
+86.124.168.255:443
+88.119.175.152:443
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-09-v10834/2338
+# Reference: https://www.virustotal.com/gui/file/d57e9b5dff8131002aade29e2333e732d955d841e23ab0dd1ec73eccfc57d0df/detection
+
+static.buyweatherstriponline.com
+awx.static.buyweatherstriponline.com
+fdab.static.buyweatherstriponline.com
+gpfj.static.buyweatherstriponline.com
+ikqn.static.buyweatherstriponline.com
+oemb.static.buyweatherstriponline.com
+rekt.static.buyweatherstriponline.com
+uybd.static.buyweatherstriponline.com
+yyb.static.buyweatherstriponline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-23-v10844/2386
+# Reference: https://www.virustotal.com/gui/file/5d26e6bbeb5235c8d3e1d327681df72f7e9f91e2165b742db00da76278423d24/detection
+
+customer.aaddigitalstrategies.com
+
+# Reference: https://www.virustotal.com/gui/file/ae0447bc6ba0fdabbdf832d548879aca2fb1f9f64fe9668bb0a3a469ffc10868/detection
+
+gemini.1stpagegold.com
+
+# Reference: https://x.com/malware_traffic/status/1884476331821326816
+# Reference: https://www.malware-traffic-analysis.net/2025/01/28/index.html
+
+http://147.45.47.98
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-13-v10859/2441
+# Reference: https://www.virustotal.com/gui/file/e9d40289741116602c57f73b9b42747dd42b3a9bb3ecc965c918cc0844badb22/detection
+
+portal.miaariacademy.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-02-v10822/2313
+
+slot.buyaiphoneonline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-06-v10830/2328
+
+zone.ebuilderssource.com
+aaa.zone.ebuilderssource.com
+awfb.zone.ebuilderssource.com
+aye.zone.ebuilderssource.com
+cyk.zone.ebuilderssource.com
+ddx.zone.ebuilderssource.com
+flyx.zone.ebuilderssource.com
+gkzmk.zone.ebuilderssource.com
+h894.zone.ebuilderssource.com
+htdt.zone.ebuilderssource.com
+hyj.zone.ebuilderssource.com
+mer.zone.ebuilderssource.com
+pfu.zone.ebuilderssource.com
+pzb.zone.ebuilderssource.com
+qjapf.zone.ebuilderssource.com
+vdf.zone.ebuilderssource.com
+vfej.zone.ebuilderssource.com
+vkv.zone.ebuilderssource.com
+wdp.zone.ebuilderssource.com
+wvay.zone.ebuilderssource.com
+zycz.zone.ebuilderssource.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-13-v10836/2351
+
+order.buyanemostatonline.com
+aaa.order.buyanemostatonline.com
+bbcv.order.buyanemostatonline.com
+btl.order.buyanemostatonline.com
+ckgag.order.buyanemostatonline.com
+cx.order.buyanemostatonline.com
+cxxhz.order.buyanemostatonline.com
+egqxa.order.buyanemostatonline.com
+envuh.order.buyanemostatonline.com
+gwrwn.order.buyanemostatonline.com
+iajop.order.buyanemostatonline.com
+ibray.order.buyanemostatonline.com
+jzud.order.buyanemostatonline.com
+kol.order.buyanemostatonline.com
+kxwhf.order.buyanemostatonline.com
+mnlvp.order.buyanemostatonline.com
+nalpg.order.buyanemostatonline.com
+niag.order.buyanemostatonline.com
+obdb.order.buyanemostatonline.com
+ogw.order.buyanemostatonline.com
+omu.order.buyanemostatonline.com
+pjop.order.buyanemostatonline.com
+pmiqu.order.buyanemostatonline.com
+qslgh.order.buyanemostatonline.com
+rcx.order.buyanemostatonline.com
+rvua.order.buyanemostatonline.com
+rzhh.order.buyanemostatonline.com
+sip.order.buyanemostatonline.com
+udyqv.order.buyanemostatonline.com
+ulm.order.buyanemostatonline.com
+vpey.order.buyanemostatonline.com
+wamzv.order.buyanemostatonline.com
+wpnci.order.buyanemostatonline.com
+wtcp.order.buyanemostatonline.com
+wvtg.order.buyanemostatonline.com
+wxdu.order.buyanemostatonline.com
+wzse.order.buyanemostatonline.com
+yfbtl.order.buyanemostatonline.com
+ylssf.order.buyanemostatonline.com
+zfw.order.buyanemostatonline.com
+zhh.order.buyanemostatonline.com
+zpu.order.buyanemostatonline.com
+zwxb.order.buyanemostatonline.com
+zxtc.order.buyanemostatonline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-20-v10841/2375
+
+trial.buyintercomsonline.com
+ctiai.trial.buyintercomsonline.com
+eyi.trial.buyintercomsonline.com
+gcd.trial.buyintercomsonline.com
+hak.trial.buyintercomsonline.com
+huph.trial.buyintercomsonline.com
+kcirl.trial.buyintercomsonline.com
+qzxm.trial.buyintercomsonline.com
+rgtf.trial.buyintercomsonline.com
+uwq.trial.buyintercomsonline.com
+vwi.trial.buyintercomsonline.com
+ybbc.trial.buyintercomsonline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-21-v10842/2377
+
+crm.bestintownpro.com
+fim.crm.bestintownpro.com
+hth.crm.bestintownpro.com
+ifw.crm.bestintownpro.com
+nwynx.crm.bestintownpro.com
+rjk.crm.bestintownpro.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-22-v10843/2382
+
+app.andredenault.com
+apvyg.app.andredenault.com
+flfsv.app.andredenault.com
+hpmd.app.andredenault.com
+irshg.app.andredenault.com
+lxhcl.app.andredenault.com
+nkj.app.andredenault.com
+oey.app.andredenault.com
+ourh.app.andredenault.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-28-v10847/2397
+# Reference: https://www.virustotal.com/gui/file/f8ee2a0ff206c40aac5b18030da151e8bbf1100d3a68d2b0cd24aff634d31cca/detection
+
+subscribe.bigeznola.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-29-v10848/2399
+# Reference: https://www.virustotal.com/gui/file/3b44e8410d9d4a3676666b7d2ee3177799ecf806468af6801c1947bd5fdc99eb/detection
+# Reference: https://www.virustotal.com/gui/file/54411095936810f8e4273df7a3eedc496c3a099ef5744e379418007ca86b0ec4/detection
+# Reference: https://www.virustotal.com/gui/file/cf2a69560ede73e4e88b9c223c097dae72bd1a5cfabd7dd6901b51d3f59d8ee5/detection
+
+webmail.ebuildingsource.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-31-v10850/2408
+# Reference: https://www.virustotal.com/gui/file/d258936eb4ce610a7d079de16850758b065eebad7d1116198749b37641ab0d79/detection
+# Reference: https://www.virustotal.com/gui/file/397a782455c0f91dde7b0547b3d49496c01fd6cdfffb4f4f1f5d0639b7a1d5f6/detection
+# Reference: https://www.virustotal.com/gui/file/35182c52dd4d0fba9b11f56abbe5a498af8331ba263eccfb776b4456b82976b2/detection
+
+cpanel.buyjlindustriesonline.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-03-v10851/2413
+# Reference: https://www.virustotal.com/gui/file/d50b01e26a18bf63288094c34f0e774e37f2bc09ba9e8cfbef81cbf07923ce65/detection
+# Reference: https://www.virustotal.com/gui/file/5dfeee68bb237f318053ccbdb0525b5d3c8d06758a7eda7bea55c807509782f1/detection
+
+btctrading.crestlinesolutions.work
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-04-v10852/2417
+# Reference: https://www.virustotal.com/gui/file/569b06e8525e6fb813cb0870d88176e0888076422ad483de3393c527ef0e6850/detection
+# Reference: https://www.virustotal.com/gui/file/47a1648d8e4208ca58c59851c2bb2e0dc0636eff8ac2eebb6de3dfcef4ed3fc6/detection
+# Reference: https://www.virustotal.com/gui/file/4539d6e0e59c3ce2f81b5dfb0dbb827bb0aca53eee96617db3e4a7c1529dcac1/detection
+
+newsite.iapmd.org
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-05-v10853/2419
+# Reference: https://www.virustotal.com/gui/file/2ebec8c4294a90c4bc066a90299683ee61cde44653b77a074e35d94db2b6cb98/detection
+
+support.myfirstdealplaybook.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-06-v10854/2421
+# Reference: https://www.virustotal.com/gui/file/fc6918f18f51de3e0145c444e9212368be8f206a88ea309d156900f2930be95b/detection
+
+ceo.cowholesaling.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-07-v10855/2423
+# Reference: https://www.virustotal.com/gui/file/c8c8f37ee2c561aa834585b6cb8c4b0c24492874041d05d2215abd13a0a4760a/detection
+# Reference: https://www.virustotal.com/gui/file/74ed07bfd0dd7c4200c174d305a79898e6128f2ee4d59f4e2fb87e4844471915/detection
+# Reference: https://www.virustotal.com/gui/file/2c43cd7e1a46220e51ad8393980b35c6b9a745b95207150885d943ee00acf78e/detection
+# Reference: https://www.virustotal.com/gui/file/0dd00aa41d2bd22a0ff2c22c9cc595a8f26f3a5c953747c79636afff20d2d3c9/detection
+# Reference: https://www.virustotal.com/gui/file/071008f97ce8b2578fd384ced6a90dc3bc29fa8e114e2f77b2acf2004f77d027/detection
+
+hub.unlimitedcashflowevent.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-10-v10856/2427
+# Reference: https://www.virustotal.com/gui/file/e776d69aaab295189dcd2d8724503deeb929539debca30be515429fd4454d3ae/detection
+
+preview.jpainting.ca
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-12-v10858/2435
+# Reference: https://www.virustotal.com/gui/file/fd5a13a9d7f6874a0873b6fdc15e69454fdb2b48b19853c4863d21c6efa368c5/detection
+
+academy.entrepreneurwealthhub.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-14-v10860/2442
+# Reference: https://www.virustotal.com/gui/file/d552fe952f696c0fbe541442a0fd8fe110b0edfc92e95b8e5c06840d0793359d/detection
+# Reference: https://www.virustotal.com/gui/file/933173b2c2bf1e79914cf05e2901f1330a15177f2951e52338e6a7baa5a1ab96/detection
+# Reference: https://www.virustotal.com/gui/file/721ddaa60d0212cabd5fa013d13054cca02da05199e25c1020c513957a2fffc8/detection
+
+exchange.tuckx.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-18-v10861/2454
+# Reference: https://www.virustotal.com/gui/file/38ba42fe0a49ecefdb150f068809f774c740b5d033647f3a95916ad300b7c4f3/detection
+
+programs.edlester.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-02-18-v10861/2454
+# Reference: https://www.virustotal.com/gui/file/ecceb4020a0b20a8cd0133a82debb77da930c67e1386d77bd57ebdc00a92c8ab/detection
+# Reference: https://www.virustotal.com/gui/file/c61efef7735edcbbe5cac3bb196081716301666c7220f6155c482761012e194f/detection
+# Reference: https://www.virustotal.com/gui/file/b74c17d99d9f6f74d26a3436c1aa1e066e1ca39d8b0fa1954dbe0a4767697b0c/detection
+# Reference: https://www.virustotal.com/gui/file/7e1a15af44d35c1d33b4c0cd793b03c99cfbc583bbc39163bca9804be28eba4a/detection
+# Reference: https://www.virustotal.com/gui/file/4fcc1a99ccc32080ff48ef3274ffacb9f1ec9f2fa154af44b069287717a06039/detection
+
+certificate.hypnotherapy-training.co.nz
 
 # Generic
 

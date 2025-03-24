@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: magecart
@@ -7470,6 +7470,7 @@ hxdot.pics
 hxfel.pics
 hxgot.pics
 hxhop.pics
+hxint.pics
 indid.buzz
 internl.xyz
 intrst.sbs
@@ -10493,7 +10494,9 @@ jqueurystatics.xyz
 jqueurystaticx.com
 jstags.com
 sanzsec.net
+siteagencyanalytics.com
 cdn.cloudlayerinsights.com
+static.siteagencyanalytics.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/185.159.82.57/relations
 
@@ -11656,14 +11659,22 @@ static.store-content.com
 
 # Reference: https://x.com/sdcyberresearch/status/1792485034068185295
 # Reference: https://www.virustotal.com/gui/ip-address/5.188.86.230/relations
+# Reference: https://app.validin.com/detail?find=d6b2747cc7a010c50b34119e9c98947e&type=hash&ref_id=71d565febed#tab=host_pairs (# 2025-02-19)
+# Reference: https://app.validin.com/detail?find=179.60.147.85&type=ip4&ref_id=b8cf6bcc858#tab=resolutions (# 2025-02-19)
 
 cdnjs.st
 cdnjs.us
+cdnjs.ws
 esicm.biz
 lgstd.io
+lgstd.net
+logstash.in
+logstorage.in
 sitegateproxy.net
 siteimproveanalytic.net
 siteimproveanalytics.net
+stores-content.com
+static.stores-content.com
 
 # Reference: https://x.com/sdcyberresearch/status/1792880699164291143
 # Reference: https://www.virustotal.com/gui/ip-address/109.120.134.52/relations
@@ -12078,8 +12089,19 @@ vnv.icu
 vvd.icu
 
 # Reference: https://x.com/sdcyberresearch/status/1815380710737522937
+# Reference: https://x.com/sdcyberresearch/status/1878786203023245478
 # Reference: https://www.virustotal.com/gui/ip-address/94.131.110.36/relations
 
+ccvc.icu
+db13g10.com
+db13g6.com
+db13g7.com
+db13g8.com
+db13g9.com
+googeinfo.com
+inforestele.com
+informrunner.com
+searchnau.com
 vvcv.icu
 vvdv.icu
 vvvc.icu
@@ -12336,10 +12358,16 @@ cdn.wenmen.online
 
 # Reference: https://x.com/sdcyberresearch/status/1815710792651555218
 # Reference: https://www.virustotal.com/gui/ip-address/45.125.67.12/relations
+# Reference: https://app.validin.com/detail?find=139453fbd538458849d54a40a5a300ae18a6f30c&type=hash&ref_id=37722d4fd81#tab=host_pairs (# 2025-02-28)
 
+morningflexpleasure.com
+reusable-flex.com
+static-open.com
 statistics-for-you.com
+statistics-renew.com
 wellfacing.com
 yourmarketingpay.com
+waf-tg.2gc.workers.dev
 
 # Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24
 
@@ -12383,6 +12411,7 @@ clarkcrm.com
 click-analytics.net
 corkscrm.com
 crmbargs.com
+crmcom.org
 crmcrown.com
 crmdaps.com
 crmfant.site
@@ -12391,6 +12420,7 @@ crmkrafft.com
 crmprew.com
 crmprove.com
 crmrebss.com
+datasconn.com
 fastbcrm.com
 octalcrm.com
 quickcartcloud.com
@@ -12827,6 +12857,29 @@ vincaolet.xyz
 webexcelsior.org
 cdn.inspectdlet.net
 
+# Reference: https://x.com/Gi7w0rm/status/1878770002448564491
+# Reference: https://x.com/Gi7w0rm/status/1878780682803310793
+# Reference: https://x.com/Gi7w0rm/status/1878799911002763727
+# Reference: https://blog.sucuri.net/2025/01/stealthy-credit-card-skimmer-targets-wordpress-checkout-pages-via-database-injection.html
+# Reference: https://app.validin.com/detail?find=185.11.61.57&type=ip4&ref_id=18b92005709#tab=resolutions
+# Reference: https://app.validin.com/detail?type=dom&find=gjoagjiii.proton.me#tab=dns
+
+fqbe23.xyz
+valhafather.xyz
+browser-security.digital
+data-redirect.biz
+panel-alert-v1.homes
+redirect-security.digital
+serverproxy-v2homes.life
+wordpress-control.org
+wordpress-defense.com
+wordpress-redirect.biz
+wordpress-request.com
+wordpress-safety.org
+wordpress-secirity.org
+wordpress-secure.org
+wordpress-team.org
+
 # Reference: https://x.com/sdcyberresearch/status/1830625427284525061
 
 cdnweb2analytics.com
@@ -12853,14 +12906,36 @@ jgueurystatic.xyz
 8urls.info
 9analytics.ink
 analytz.info
+brinder.wiki
 builder.motorcycles
 coworkin.art
+crowdspace.shop
 directs.bond
+dofabrics.asia
 enrgy.cam
+fieldmans.fit
+grossbar.shop
+histat.top
+itracking.autos
+jetstat.info
+keytag.rest
+livedirect.my
+metamanager.shop
+nextai.cam
+openc.shop
+openmonitor.rest
+openstat.cc
+protostat.lat
+quicktag.wiki
+realstat.today
+statmasters.shop
+supertag.info
 tagsanalytics.shop
 tagscart.shop
 tagsmanager.shop
+tagspot.store
 ultrabit.shop
+ultrabyte.shop
 wikistat.wiki
 xtreme.boats
 yesyes.rest
@@ -13386,6 +13461,7 @@ zb.cdn-core.com
 # Reference: https://www.virustotal.com/gui/ip-address/5.10.250.250/relations
 
 gstatlc.org
+ssl.gstatlc.org
 
 # Reference: https://sansec.io/research/cosmicsting#group-peschanki%3A-automated-mass-cms-block-updates
 # Reference: https://www.virustotal.com/gui/ip-address/106.14.40.200/relations
@@ -13521,9 +13597,14 @@ designiohub.com
 designlfy.com
 desynity.com
 desynmax.com
+dsgnflux.com
+dsgnpit.com
+fittjamatmarknad.se
 graphlycool.com
 graphwebpad.com
 happystrend.com
+letcc.tk
+letzz.cf
 luckydealls.com
 marketcnaft.com
 marketgoweb.com
@@ -13533,6 +13614,9 @@ marketxxx.com
 marketzeen.com
 marteton360.com
 metricsyapp.com
+mktgle.com
+mktloope.com
+mktvibe.com
 pixeloramy.com
 pixelprosstudio.com
 quantifymy.com
@@ -13567,6 +13651,9 @@ trendwebbot.com
 visualldata.com
 vizualispro.com
 wisedesignls.com
+cpanel.fittjamatmarknad.se
+denizens-nonfrigidity.initrdns.web-hosting.com
+webdisk.fittjamatmarknad.se
 
 # Reference: https://blog.sucuri.net/2024/11/2024-credit-card-theft-season-arrives.html
 
@@ -13578,15 +13665,18 @@ statepulseapp.com
 
 # Reference: https://app.validin.com/detail?find=45.88.3.0%2F24&type=ip&ref_id=91b18e17fe2#tab=resolutions
 
+1acades.click
 aktevil.store
 babadodo.site
 beltip.sbs
 bierom.store
 bokdigit.shop
+crocuta.mom
 daemets.sbs
 dalifeu.fun
 depssitntrac.icu
 faeqir.site
+felis.homes
 feuted.sbs
 forcet.store
 gelotec.online
@@ -13596,6 +13686,7 @@ grunet.online
 guetech.online
 handslegs.site
 heokit.fun
+hetper.fun
 hoetmob.sbs
 interqc.online
 intqc.site
@@ -13607,12 +13698,16 @@ lntearec.icu
 loperbit.shop
 nemipoots.sbs
 nikhem.shop
+oceanicsre.site
 opeton.site
+outapps.online
 partiii.life
 pizvoofes.shop
 portec.online
 raztop.site
+richen.club
 rivtec.online
+roomscontsbelts.lol
 safemh.icu
 safemh.lol
 sealink.fun
@@ -13623,14 +13718,17 @@ slidovodi.fun
 tripist.online
 vidyeolit.online
 volopert.site
+cdn.1acades.click
 cdn.aktevil.store
 cdn.babadodo.site
 cdn.beltip.sbs
 cdn.bierom.store
 cdn.bokdigit.shop
+cdn.crocuta.mom
 cdn.daemets.sbs
 cdn.dalifeu.fun
 cdn.faeqir.site
+cdn.felis.homes
 cdn.feuted.sbs
 cdn.forcet.store
 cdn.gelotec.online
@@ -13639,6 +13737,7 @@ cdn.geypol.shop
 cdn.grunet.online
 cdn.guetech.online
 cdn.heokit.fun
+cdn.hetper.fun
 cdn.hoetmob.sbs
 cdn.interqc.online
 cdn.intqc.site
@@ -13648,12 +13747,16 @@ cdn.leiuer.store
 cdn.loperbit.shop
 cdn.nemipoots.sbs
 cdn.nikhem.shop
+cdn.oceanicsre.site
 cdn.opeton.site
+cdn.outapps.online
 cdn.partiii.life
 cdn.pizvoofes.shop
 cdn.portec.online
 cdn.raztop.site
+cdn.richen.club
 cdn.rivtec.online
+cdn.roomscontsbelts.lol
 cdn.sealink.fun
 cdn.sedevtec.sbs
 cdn.sijemit.sbs
@@ -13688,14 +13791,22 @@ webtracker.click
 click.webtracker.click
 
 # Reference: https://x.com/sdcyberresearch/status/1861805574003822765
-# Reference: https://app.validin.com/detail?find=f19be927e0ace610970e44ac0fda9f6bdd0c9267&type=hash&ref_id=293e78771a7#tab=host_pairs
+# Reference: https://app.validin.com/detail?find=f19be927e0ace610970e44ac0fda9f6bdd0c9267&type=hash&ref_id=293e78771a7#tab=host_pairs (# 2024-12-24)
 
+365live.world
+analyticcoms.com
 analytics-open.com
+ecofonts.pro
 ecommercesolution.tech
 ecomscan.click
+generateyourlogo.pro
+helpdevtools.world
+opensansfont.com
+perfectdomains.world
 static-fonts.com
 staticfonts.com
 ustatics.info
+webdevelopers.tools
 webdevtools.sa.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/185.196.11.69/relations
@@ -13762,10 +13873,13 @@ beopoor.site
 brasei.fun
 cetuopit.online
 gogetec.sbs
+jaluwtech.store
+kometeches.store
 kurmob.site
 leopevit.store
 mojtec.sbs
 pftuotic.fun
+pvilinket.store
 shatink.store
 sobilink.shop
 unirec.store
@@ -13775,15 +13889,59 @@ cdn.beopoor.site
 cdn.brasei.fun
 cdn.cetuopit.online
 cdn.gogetec.sbs
+cdn.jaluwtech.store
+cdn.kometeches.store
 cdn.kurmob.site
 cdn.leopevit.store
 cdn.mojtec.sbs
 cdn.pftuotic.fun
+cdn.pvilinket.store
 cdn.shatink.store
 cdn.sobilink.shop
 cdn.unirec.store
 cdn.veofet.shop
 cdn.vseyol.online
+
+# Reference: https://app.validin.com/detail?first_seen=2024-12-12&type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2024-12-19)
+
+bilseo.sbs
+bojtech.online
+feokicn.shop
+gemedig.shop
+getilock.quest
+iertik.store
+jeiloot.site
+jeorets.site
+keitouc.store
+leopent.fun
+presidential.digital
+prizefor.me
+routotech.site
+rubicot.site
+samotech.sbs
+sobolent.online
+vivodit.yachts
+wislit.fun
+zonisnap.site
+cdn.bilseo.sbs
+cdn.bojtech.online
+cdn.feokicn.shop
+cdn.gemedig.shop
+cdn.getilock.quest
+cdn.iertik.store
+cdn.jeiloot.site
+cdn.jeorets.site
+cdn.keitouc.store
+cdn.leopent.fun
+cdn.presidential.digital
+cdn.prizefor.me
+cdn.routotech.site
+cdn.rubicot.site
+cdn.samotech.sbs
+cdn.sobolent.online
+cdn.vivodit.yachts
+cdn.wislit.fun
+cdn.zonisnap.site
 
 # Reference: https://app.validin.com/detail?find=195.242.110.161&type=ip4&ref_id=adc7115d423#tab=resolutions
 
@@ -13797,6 +13955,1040 @@ cdn.ocajep.fun
 cdn.opestat.online
 cdn.sgomet.store
 cdn.zatrob.sbs
+
+# Reference: https://x.com/sdcyberresearch/status/1868663371870130626
+
+designsetlab.com
+dnflowe.com
+dnsphire.com
+dsgntag.com
+mktcrafter.com
+mktflowe.com
+salecores.com
+saleviewapp.com
+sellboosti.com
+statsalesup.com
+
+# Reference: https://x.com/sdcyberresearch/status/1868974963274973325
+# Reference: https://www.virustotal.com/gui/ip-address/45.61.132.99/relations
+# Reference: https://app.validin.com/detail?find=19fe6b1334b2035cedcaa692ac77b550&type=hash&ref_id=f73fc343e2b#tab=host_pairs (# 2024-12-17)
+
+bbpjsuporte.pro
+cdnjsdevcss.com
+cdnjsdvcss.com
+chatjsdvcss.com
+chatjssvcss.com
+cspreport.org
+debdpkgseclib.com
+instaholldatalib.com
+logicwploo.com
+logicwploop.com
+logwplmap.com
+reportcsp.com
+stylewpcall.com
+stylewpcoll.com
+stylewpoll.com
+restapi.space
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-09-19-v10698/1991
+
+trendpronet.com
+
+# Reference: https://x.com/sdcyberresearch/status/1871179192513290460
+# Reference: https://app.validin.com/detail?find=38.180.241.131&type=ip4&ref_id=fb7e106e3b0#tab=resolutions
+# Reference: https://app.validin.com/detail?find=87.120.112.166&type=ip4&ref_id=b47ca8be73b#tab=resolutions
+
+eurowebmonitortool.com
+onlinechatusbot.com
+webmonitortool.info
+webstatusmonitor.store
+
+# Reference: https://bsky.app/profile/sans.ec/post/3ldy6xxz7rk2l
+# Reference: https://x.com/sdcyberresearch/status/1871228710579253746
+
+esaspaceshop.pics
+
+# Reference: https://app.validin.com/detail?first_seen=2024-12-12&type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2024-12-29)
+
+beiyalo.sbs
+bralink.online
+feodates.fun
+geopyt.online
+izteches.store
+keitint.fun
+meliperk.shop
+noasint.store
+pvetech.site
+shapotech.sbs
+twelai.site
+ulasint.shop
+cdn.beiyalo.sbs
+cdn.bralink.online
+cdn.feodates.fun
+cdn.geopyt.online
+cdn.izteches.store
+cdn.keitint.fun
+cdn.meliperk.shop
+cdn.noasint.store
+cdn.pvetech.site
+cdn.shapotech.sbs
+cdn.twelai.site
+cdn.ulasint.shop
+
+# Reference: https://app.validin.com/detail?first_seen=2024-12-12&type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2025-01-10)
+
+aidoppep.shop
+cilseminty.fun
+nafkaut.site
+theufenq.store
+tokoleq.sbs
+cdn.aidoppep.shop
+cdn.cilseminty.fun
+cdn.nafkaut.site
+cdn.theufenq.store
+cdn.tokoleq.sbs
+
+# Reference: https://sansec.io/research/google-services-abused-skimming-campaigns
+# Reference: https://www.virustotal.com/gui/ip-address/94.131.105.71/relations
+
+cloudflare-stat.net
+js-stats.com
+montina.it/mx/stripe
+premium.vn/bb/stripe
+udalzira.com/.well-known/cloud.js
+
+# Reference: https://x.com/sdcyberresearch/status/1876212239570706724
+# Reference: https://app.validin.com/detail?find=37.1.211.247&type=ip4&ref_id=0f22ad7c900#tab=resolutions
+# Reference: https://app.validin.com/detail?find=72.5.42.123&type=ip4&ref_id=12fcc4054b0#tab=resolutions
+
+brudget.net
+ebobus.online
+ls1ks.xyz
+schneemann.tech
+sitesupport.vip
+cn.ls1ks.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/80.78.28.57/relations
+
+sucuri.ltd
+
+# Reference: https://x.com/sdcyberresearch/status/1877007825521521129
+
+saurojewelry.com/js/tinybox/tinymod.js
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-01-09-v10834/2338
+
+chartzend.com
+
+# Reference: https://app.validin.com/detail?first_seen=2025-01-01&type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2025-01-14)
+
+illopou.store
+lisitec.site
+serteop.fun
+sevemit.shop
+tvorotech.online
+volkanti.online
+cdn.illopou.store
+cdn.lisitec.site
+cdn.serteop.fun
+cdn.sevemit.shop
+cdn.tvorotech.online
+cdn.volkanti.online
+
+# Reference: https://x.com/sdcyberresearch/status/1879225717789270380
+# Reference: https://www.virustotal.com/gui/ip-address/45.61.151.43/relations
+
+jsmanifestgl.com
+jsmanifestglls.com
+jsmanifestgls.com
+
+# Reference: https://app.validin.com/detail?find=Attention%20Notice&type=raw#tab=host_pairs (# 2025-01-19)
+
+bslnfo.com
+dninsignht.com
+dnmep.com
+dsgnbee.com
+dsgncore.com
+dsgnjet.com
+dsgnnest.com
+dsgnsynic.com
+exoticsovokefizzier.lol
+mktflowi.com
+mktvault.com
+rinfohub.lol
+salemape.com
+saleshifft.com
+saletrendio.com
+saliedash.com
+snslyticus.com
+starhegc.com
+statihive.com
+statspoot.com
+statvibbe.com
+volemson.com
+apis.exoticsovokefizzier.lol
+clients1.exoticsovokefizzier.lol
+clients6.exoticsovokefizzier.lol
+docs.exoticsovokefizzier.lol
+gstatic-fonts.exoticsovokefizzier.lol
+mers.exoticsovokefizzier.lol
+news.exoticsovokefizzier.lol
+optimizationguide-pa.exoticsovokefizzier.lol
+play.exoticsovokefizzier.lol
+securitydomain-pa.exoticsovokefizzier.lol
+www1.exoticsovokefizzier.lol
+www2.exoticsovokefizzier.lol
+
+# Reference: https://x.com/Gi7w0rm/status/1882475789335109745
+# Reference: https://gi7w0rm.medium.com/a-beginner-s-guide-to-hunting-web-based-credit-card-skimmers-c820aeee87d6
+# Reference: https://app.validin.com/detail?find=185.208.156.149&type=ip4&ref_id=ee5d8d3de6d#tab=resolutions
+# Reference: https://app.validin.com/detail?find=185.208.158.230&type=ip4&ref_id=14aeaa11986#tab=resolutions
+
+analyticsseolinks.online
+api-chat.live
+bulforanalysis.online
+cantact.chat
+cdn-statistics.com
+dataassociates.online
+dataassociates.org
+dobrowork.space
+ebatkopat.click
+eeestats.com
+fecaboo0k.xyz
+getcssmodals.com
+handsl.org
+jquerywp.xyz
+nc-img.co
+neshion.com
+privatstripp.com
+privatstripp.tech
+statedash.com
+store-locator.org
+storedirect.top
+authx.fecaboo0k.xyz
+bc.nc-img.co
+socket.bulforanalysis.online
+
+# Reference: https://x.com/salmanvsf/status/1886664402243608717
+# Reference: https://jscrambler.com/blog/stealing-seconds-web-skimmer-compromises-websites
+# Reference: https://app.validin.com/detail?find=82.202.166.35&type=ip4&ref_id=b861456976a#tab=resolutions
+
+augmetrics.org
+easyanalytic.net
+imagechat.net
+pagelook.org
+trade4host.com
+tradewine.net
+app.imagechat.net
+cms.pagelook.org
+common.trade4host.com
+conn.augmetrics.org
+img.tradewine.net
+pp.imagechat.net
+static.easyanalytic.net
+
+# Reference: https://app.validin.com/detail?first_seen=2025-01-01&type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2025-02-02)
+
+fionest.fun
+gieyloop.shop
+leospeet.store
+meliter.online
+sugtheit.site
+vseshoy.sbs
+cdn.fionest.fun
+cdn.gieyloop.shop
+cdn.leospeet.store
+cdn.meliter.online
+cdn.sugtheit.site
+cdn.vseshoy.sbs
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions (# 2025-02-02)
+
+aletec.store
+aretech.site
+bazetoch.yachts
+blagotic.online
+bosilamp.online
+bosileen.click
+drifmop.store
+feetlink.store
+genonet.fun
+hedlendet.quest
+helepop.store
+holetoc.online
+klevtic.fun
+makelec.yachts
+menisop.space
+nemovipster.shop
+nitnet.shop
+poenepo.site
+pohnat.site
+rebellion.lol
+sikpic.online
+stereotype.digital
+terlonic.shop
+treclap.quest
+voilink.site
+widspe.site
+cdn.aletec.store
+cdn.aretech.site
+cdn.bazetoch.yachts
+cdn.blagotic.online
+cdn.bosilamp.online
+cdn.bosileen.click
+cdn.drifmop.store
+cdn.feetlink.store
+cdn.genonet.fun
+cdn.hedlendet.quest
+cdn.helepop.store
+cdn.holetoc.online
+cdn.klevtic.fun
+cdn.makelec.yachts
+cdn.menisop.space
+cdn.nemovipster.shop
+cdn.nitnet.shop
+cdn.poenepo.site
+cdn.pohnat.site
+cdn.rebellion.lol
+cdn.sikpic.online
+cdn.stereotype.digital
+cdn.terlonic.shop
+cdn.treclap.quest
+cdn.voilink.site
+cdn.widspe.site
+
+# Reference: https://x.com/sdcyberresearch/status/1888981202641596816
+
+gate2uni.com
+
+# Reference: https://x.com/sdcyberresearch/status/1889641697698607429
+# Reference: https://app.validin.com/detail?find=5d36d75ac57ab2e4760df3b11fd54a43&type=hash&ref_id=050b20284c5#tab=host_pairs
+
+activitymetrictools.com
+adperformanceanalytics.com
+analyticsmanager.net
+audiencebehaviorinsights.com
+contentengagementhub.com
+customerdatainsights.com
+dataanalysiscentral.com
+datahubtracker.com
+datainsightstools.com
+datalinkmanager.com
+datamonitorhub.com
+datamonitoringhub.com
+datamonitoringpro.com
+datamonitorpro.com
+datamonitortools.com
+dataoptimizationhub.com
+datatracktools.com
+datatrailanalytics.com
+digitalmetricsmanager.com
+geoactivitytracker.com
+geopulsemetrics.com
+geostatscope.com
+googleetagmanager.com
+insightfultrack.com
+mapandmetric.com
+metricsmonitorpro.com
+metricstoolspro.com
+metricstreamline.com
+pageinsightsmanager.com
+siteanalyticspro.com
+siteinsightspro.com
+sitestattracker.com
+sitetrackerpro.com
+statgeoanalytics.com
+taganalyticspro.com
+tagmanagersite.com
+tagmanagertools.com
+tagmonitoringhub.com
+trackermanagerpro.com
+trackmanagersite.com
+trackmetricshub.com
+trackstatgeo.com
+tracktagcenter.com
+tracktagmanager.com
+userengagementtracker.com
+webanalyticscenter.com
+webinsights360.com
+webmetricshub.com
+webmetricsmonitor.com
+webmetricstool.com
+webstatsinsight.com
+webtrackdashboard.com
+webtrackerhq.com
+webtrackermanager.com
+webtrackingtools.com
+webtrackinsights.com
+webtracktools.com
+api.analyticsmanager.net
+api.datalinkmanager.com
+api.dataoptimizationhub.com
+api.pageinsightsmanager.com
+api.siteinsightspro.com
+api.tracktagcenter.com
+api.tracktagmanager.com
+api.userengagementtracker.com
+api.webmetricstool.com
+assets.datamonitoringpro.com
+assets.datamonitortools.com
+assets.metricsmonitorpro.com
+assets.metricstoolspro.com
+assets.taganalyticspro.com
+cdn.digitalmetricsmanager.com
+cdn.googleetagmanager.com
+cdn.siteanalyticspro.com
+cdn.webtrackingtools.com
+css.datamonitorpro.com
+css.datatracktools.com
+css.tagmanagersite.com
+css.webmetricshub.com
+geo.adperformanceanalytics.com
+geo.audiencebehaviorinsights.com
+geo.contentengagementhub.com
+geo.customerdatainsights.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions (# 2025-02-16)
+
+ewitool.sbs
+fastec.fun
+feeimob.store
+feopewq.sbs
+geitec.shop
+gtrpoot.site
+houdite.online
+infrecot.fun
+leipets.site
+limsweet.shop
+najatech.sbs
+perheet.site
+qietyts.shop
+qiqtoc.store
+qoerint.online
+teoyey.online
+vulerloq.store
+cdn.ewitool.sbs
+cdn.fastec.fun
+cdn.feeimob.store
+cdn.feopewq.sbs
+cdn.geitec.shop
+cdn.gtrpoot.site
+cdn.houdite.online
+cdn.infrecot.fun
+cdn.leipets.site
+cdn.limsweet.shop
+cdn.najatech.sbs
+cdn.perheet.site
+cdn.qietyts.shop
+cdn.qiqtoc.store
+cdn.qoerint.online
+cdn.teoyey.online
+cdn.vulerloq.store
+
+# Reference: https://x.com/sdcyberresearch/status/1891514677319942233
+# Reference: https://www.virustotal.com/gui/ip-address/77.238.228.157/relations
+
+cdncheckout.com
+dweeseny.com
+pendtoany.com
+sun-any.com
+
+# Reference: https://app.validin.com/detail?find=185.208.158.150&type=ip4&ref_id=a01f0301650#tab=resolutions
+
+googletgmanagers.com
+googletgmanagers.online
+heipdescsecuri.store
+
+# Reference: https://sourcedefense.com/resources/blog/sophisticated-eskimming-campaign-conceals-itself-by-leveraging-stripe-api/
+# Reference: https://app.validin.com/detail?find=f417bdca4b13c39d943fc89c524e0ca26d58fafc&type=hash&ref_id=3e07b116e1c#tab=host_pairs (# 2025-02-20)
+# Reference: https://app.validin.com/detail?find=146.70.101.121&type=ip4&ref_id=f7c5bfb65ed#tab=resolutions (# 2025-02-20)
+# Reference: https://app.validin.com/detail?find=146.70.53.157&type=ip4&ref_id=3e07b116e1c#tab=resolutions (# 2025-02-20)
+# Reference: https://app.validin.com/detail?find=146.70.20.208&type=ip4&ref_id=3e07b116e1c#tab=resolutions (# 2025-02-20)
+# Reference: https://www.virustotal.com/gui/ip-address/149.255.35.143/relations
+
+bsjq-api.store
+bsjq-api.xyz
+bsjq-cdn.store
+bsjq-cdn.xyz
+bsjq-checker.store
+bsjq-online.store
+bsjq-papper.xyz
+bsjq-shop.store
+bsjq-shop.xyz
+bsjq-store.xyz
+bsjq.online
+bsjq.shop
+bsjq.site
+bsjq.store
+crypto-shop.online
+crypto-shop.site
+greatsong.online
+isjustone.site
+isjustour.site
+jqbs-api.store
+jqbs-api.xyz
+jqbs-bsjq.store
+jqbs-cdn.xyz
+jqbs-cloud-api.xyz
+jqbs-cloud.store
+jqbs-cloud.xyz
+jqbs-get.store
+jqbs-min-api.xyz
+jqbs-min.xyz
+jqbs-online.store
+jqbs-shop.store
+jqbs.online
+jqbs.shop
+jqbs.site
+jqbs.store
+mcduckgroup.shop
+net-3admsv.ml
+nightsong.online
+oneadm.space
+org-3bwl.ml
+ouradm.space
+promo-profit.online
+promo-transfer.site
+promo-transfer.store
+querysong.online
+
+# Reference: https://x.com/sdcyberresearch/status/1894055884294078800
+
+cndcheckjs.com
+secure.cndcheckjs.com
+
+# Reference: https://x.com/sdcyberresearch/status/1894386650031042632
+
+cdn-skins.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.111.0%2F24#tab=resolutions (# 2025-02-26)
+
+absorbing.cam
+acidic.best
+acrylons.pics
+biscuit.pics
+blackcurrants.online
+caribean.live
+charli.beauty
+circulates.lol
+croissant.mom
+deep.christmas
+depart.buzz
+dispead.shop
+ducational.pics
+eduactional.xyz
+emergency.autos
+federation.boats
+gader.ink
+healthy.christmas
+hematoid.cash
+inexpensive.blog
+lowly.boats
+marmalade.homes
+merciful.beauty
+mobiancy.xyz
+necklace.christmas
+oranger.pics
+phila.world
+propagation.beauty
+raadiot.world
+ragged.biz
+ribber.xyz
+scattered.cfd
+tarin.homes
+unaware.store
+unkempt.art
+unsightly.autos
+volatile.baby
+cdn.absorbing.cam
+cdn.acidic.best
+cdn.acrylons.pics
+cdn.biscuit.pics
+cdn.blackcurrants.online
+cdn.caribean.live
+cdn.charli.beauty
+cdn.circulates.lol
+cdn.croissant.mom
+cdn.deep.christmas
+cdn.depart.buzz
+cdn.dispead.shop
+cdn.ducational.pics
+cdn.eduactional.xyz
+cdn.emergency.autos
+cdn.federation.boats
+cdn.gader.ink
+cdn.healthy.christmas
+cdn.hematoid.cash
+cdn.inexpensive.blog
+cdn.lowly.boats
+cdn.marmalade.homes
+cdn.merciful.beauty
+cdn.mobiancy.xyz
+cdn.necklace.christmas
+cdn.oranger.pics
+cdn.phila.world
+cdn.propagation.beauty
+cdn.raadiot.world
+cdn.ragged.biz
+cdn.ribber.xyz
+cdn.scattered.cfd
+cdn.tarin.homes
+cdn.unaware.store
+cdn.unkempt.ar
+cdn.unkempt.art
+cdn.unsightly.autos
+cdn.volatile.baby
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions (# 2025-02-26)
+
+africasester.click
+bagarthe.pics
+cefo.lol
+concentration.autos
+courage.boats
+feminist.baby
+feyloot.site
+fritech.fun
+getvisi.store
+gradient.christmas
+kegosei.sbs
+lily.coupons
+rabiei.live
+reinforce.coupons
+runfoloink.online
+sekleteo.online
+slapps.store
+uutop.shop
+cdn.africasester.click
+cdn.bagarthe.pics
+cdn.cefo.lol
+cdn.concentration.autos
+cdn.courage.boats
+cdn.feminist.baby
+cdn.feyloot.site
+cdn.fritech.fun
+cdn.getvisi.store
+cdn.gradient.christmas
+cdn.kegosei.sbs
+cdn.lily.coupons
+cdn.rabiei.live
+cdn.reinforce.coupons
+cdn.runfoloink.online
+cdn.sekleteo.online
+cdn.slapps.store
+cdn.uutop.shop
+
+# Reference: https://x.com/sdcyberresearch/status/1895166209815126454
+# Reference: https://x.com/sdcyberresearch/status/1895168152750956899
+
+beppixel.top
+fabulo.xyz
+jatesmetrics.xyz
+jsqlds.top
+metrikshot.top
+metrikspixels.xyz
+onkorova.top
+pixelment.xyz
+pixelsouss.xyz
+skrytivzorvi.top
+zametriks.top
+
+# Reference: https://x.com/threatcat_ch/status/1895509272605409437
+# Reference: https://x.com/threatcat_ch/status/1895509278984999200
+# Reference: https://x.com/threatcat_ch/status/1895509296169001223
+# Reference: https://www.virustotal.com/gui/file/db4560b4064b27382130b06daa44db858162f9b0351b7479c4afced611dfe4bf/detection
+# Reference: https://www.virustotal.com/gui/file/63175e45936c56f36c792be294e36a1f43e4d570b1df15ba19b2438b9d7549a5/detection
+# Reference: https://www.virustotal.com/gui/file/5b8b752ba0449f389e2bccc01c827369aabf92d69f807e93ce3f9c38e72b44f6/detection
+# Reference: https://www.virustotal.com/gui/file/269c3da29876ef699589cee7620e9f0d90824af0b96e1a4fa08f3e19031919cd/detection
+# Reference: https://www.virustotal.com/gui/file/17475d5f6dfc07a8e4a1627bc6e274e5714b24fe198c32b688dea20dd4a19320/detection
+
+suckerity.xyz
+
+# Reference: https://x.com/sdcyberresearch/status/1896932590076252412
+# Reference: https://app.validin.com/detail?find=45.133.203.0%2F24&type=ip&ref_id=da5082cc1bb#tab=resolutions (# 2025-03-04)
+
+aaftech.click
+ambfit.site
+anatech.online
+asdfasfwe.online
+auqoit.fun
+barpoc.online
+beiouloo.online
+beshtech.click
+bontec.in.net
+borostec.shop
+boyadigit.site
+ceiyeq.site
+cgies.sbs
+chocdelt.sbs
+chotech.fun
+chuvitek.online
+coiyuip.online
+cometrit.pics
+darlinket.shop
+deetiot.online
+deldmob.site
+deosat.online
+deqlint.online
+detlink.shop
+deulab.store
+devkint.shop
+diamob.site
+dochtech.cyou
+dodstec.quest
+dvrandot.store
+elebim.site
+elounto.site
+fasloor.shop
+fasvet.shop
+fazeu.shop
+feiqoter.store
+feopseaq.shop
+feouertit.sbs
+fesdigit.online
+feutiop.quest
+feylit.store
+fivolink.store
+gbleylot.quest
+geaxint.fun
+geleego.quest
+gematil.sbs
+geodot.sbs
+geopel.site
+geopets.online
+geottei.click
+geptiko.shop
+ghitekit.site
+giftok.site
+goletec.store
+gragit.shop
+gutloon.online
+heipet.shop
+helaapit.shop
+heletec.cyou
+helitot.click
+heopits.online
+hetiper.store
+heutint.site
+idhowtech.sbs
+inshdigit.sbs
+jeytop.site
+kapimob.pics
+keopeweet.fun
+kertop.online
+kijytop.shop
+kimnarec.store
+koeroi.online
+kogoyool.quest
+koilet.site
+koipoop.site
+kooldigit.click
+krinloot.store
+krodit.click
+krosrec.quest
+ksadit.store
+kvetsiio.sbs
+lamkalm.site
+leipey.store
+leitop.store
+leurtyth.quest
+liudain.sbs
+liudlein.sbs
+louker.sbs
+lqoesoop.store
+miftech.site
+motivac.shop
+nashosit.yachts
+neiloot.store
+neobilet.online
+niesraz.fun
+nikllop.online
+oewiol.site
+okolcei.online
+oratotech.sbs
+outec.fun
+pdatiic.quest
+piltie.online
+plohelec.quest
+pokledigital.pics
+poptele.cyou
+povotec.sbs
+prolinket.shop
+qoerjoon.sbs
+sancook.sbs
+secthmob.fun
+seirekt.site
+sewlei.shop
+shipotop.shop
+sivelec.cyou
+sometech.sbs
+soterin.fun
+sprachest.site
+steiko.site
+stormei.store
+svilock.sbs
+sysmeit.online
+takdegit.online
+tastrmob.store
+techitor.click
+tilpoot.shop
+titutop.site
+toonches.store
+trokit.store
+tutfient.shop
+ucuduc.sbs
+ueputech.fun
+untepol.shop
+veidol.site
+veopeir.fun
+vepstan.fun
+vipalent.sbs
+voitest.shop
+vouklacrif.fun
+vuemool.store
+vutfais.fun
+wheemob.shop
+yadigit.store
+yalmob.shop
+yeuleli.click
+cdn.aaftech.click
+cdn.ambfit.site
+cdn.anatech.online
+cdn.asdfasfwe.online
+cdn.auqoit.fun
+cdn.barpoc.online
+cdn.beiouloo.online
+cdn.beshtech.click
+cdn.bontec.in.net
+cdn.borostec.shop
+cdn.boyadigit.site
+cdn.ceiyeq.site
+cdn.cgies.sbs
+cdn.chocdelt.sbs
+cdn.chotech.fun
+cdn.chuvitek.online
+cdn.coiyuip.online
+cdn.cometrit.pics
+cdn.darlinket.shop
+cdn.deetiot.online
+cdn.deldmob.site
+cdn.deosat.online
+cdn.deqlint.online
+cdn.detlink.shop
+cdn.deulab.store
+cdn.devkint.shop
+cdn.diamob.site
+cdn.dochtech.cyou
+cdn.dodstec.quest
+cdn.dvrandot.store
+cdn.elebim.site
+cdn.elounto.site
+cdn.fasloor.shop
+cdn.fasvet.shop
+cdn.fazeu.shop
+cdn.feiqoter.store
+cdn.feopseaq.shop
+cdn.feouertit.sbs
+cdn.fesdigit.online
+cdn.feutiop.quest
+cdn.feylit.store
+cdn.fivolink.store
+cdn.flagmob.quest
+cdn.flowit.pics
+cdn.gbleylot.quest
+cdn.geaxint.fun
+cdn.geleego.quest
+cdn.gematil.sbs
+cdn.geodot.sbs
+cdn.geopel.site
+cdn.geopets.online
+cdn.geottei.click
+cdn.geptiko.shop
+cdn.ghitekit.site
+cdn.giftok.site
+cdn.goletec.store
+cdn.gragit.shop
+cdn.gutloon.online
+cdn.heipet.shop
+cdn.helaapit.shop
+cdn.heletec.cyou
+cdn.helitot.click
+cdn.heopits.online
+cdn.hetiper.store
+cdn.heutint.site
+cdn.idhowtech.sbs
+cdn.inshdigit.sbs
+cdn.jeytop.site
+cdn.kapimob.pics
+cdn.keopeweet.fun
+cdn.kertop.online
+cdn.kijytop.shop
+cdn.kimnarec.store
+cdn.koeroi.online
+cdn.kogoyool.quest
+cdn.koilet.site
+cdn.koipoop.site
+cdn.kooldigit.click
+cdn.kouelec.cyou
+cdn.krinloot.store
+cdn.krodit.click
+cdn.krosrec.quest
+cdn.ksadit.store
+cdn.kvetsiio.sbs
+cdn.lamkalm.site
+cdn.leipey.store
+cdn.leitop.store
+cdn.leurtyth.quest
+cdn.liudain.sbs
+cdn.liudlein.sbs
+cdn.louker.sbs
+cdn.lqoesoop.store
+cdn.miftech.site
+cdn.motivac.shop
+cdn.nashosit.yachts
+cdn.neiloot.store
+cdn.neobilet.online
+cdn.niesraz.fun
+cdn.nikllop.online
+cdn.oewiol.site
+cdn.okolcei.online
+cdn.oratotech.sbs
+cdn.outec.fun
+cdn.pdatiic.quest
+cdn.piltie.online
+cdn.plohelec.quest
+cdn.pokledigital.pics
+cdn.poptele.cyou
+cdn.povotec.sbs
+cdn.prolinket.shop
+cdn.qoerjoon.sbs
+cdn.sancook.sbs
+cdn.secthmob.fun
+cdn.seirekt.site
+cdn.sewlei.shop
+cdn.shipotop.shop
+cdn.sivelec.cyou
+cdn.sometech.sbs
+cdn.soterin.fun
+cdn.sprachest.site
+cdn.steiko.site
+cdn.stormei.store
+cdn.svilock.sbs
+cdn.sysmeit.online
+cdn.takdegit.online
+cdn.tastrmob.store
+cdn.techitor.click
+cdn.tilpoot.shop
+cdn.titutop.site
+cdn.toonches.store
+cdn.trokit.store
+cdn.tutfient.shop
+cdn.ucuduc.sbs
+cdn.ueputech.fun
+cdn.untepol.shop
+cdn.veidol.site
+cdn.veopeir.fun
+cdn.vepstan.fun
+cdn.vipalent.sbs
+cdn.voitest.shop
+cdn.vouklacrif.fun
+cdn.vuemool.store
+cdn.vutfais.fun
+cdn.wheemob.shop
+cdn.yadigit.store
+cdn.yalmob.shop
+cdn.yeuleli.click
+
+# Reference: https://app.validin.com/detail?type=ip&find=86.54.42.0%2F24#tab=resolutions
+# Reference: https://app.validin.com/detail?find=livintool.cfd&type=dom&ref_id=faf20d0350e#tab=host_pairs
+
+acessofacil.org
+livintool.cfd
+flowerlands.click
+woocommercepro.help
+
+# Reference: https://app.validin.com/detail?type=ip&find=185.196.10.111#tab=resolutions
+
+adsanalytics.online
+butcherstool.click
+cheaterchat.website
+
+# Reference: https://app.validin.com/detail?find=babkin_vnuk%20Tech.&type=raw&ref_id=08797f35fbf#tab=host_pairs (# 2025-03-06)
+# Reference: https://app.validin.com/detail?find=185.196.8.147&type=ip4&ref_id=7f153877a63#tab=resolutions (# 2025-03-06)
+
+assurparcel.com
+dellivery-ups.com
+live-info.net
+navigo-carte.com
+tvilogete.tech
+
+# Reference: https://app.validin.com/detail?type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2025-03-07)
+
+debt.ink
+eye.coupons
+footstones.pics
+reburials.mom
+wilderness.autos
+cdn.debt.ink
+cdn.eye.coupons
+cdn.footstones.pics
+cdn.reburials.mom
+cdn.wilderness.autos
+
+# Reference: https://x.com/sdcyberresearch/status/1899439149242896851
+
+cla-cdn.com
+clarms.icu
+elem.ltd
+elstat.icu
+estat.icu
+zoho-cdn.com
+zoho-net.com
+mail.elem.ltd
+
+# Reference: https://x.com/sdcyberresearch/status/1899823674766565513
+
+grev.io
+
+# Reference: https://x.com/threatcat_ch/status/1901290247876452409
+
+keritysuc.xyz
+
+# Reference: https://x.com/sdcyberresearch/status/1901623816654110729
+# Reference: https://app.validin.com/detail?find=45.67.231.28&type=ip4&ref_id=b696df26cb1#tab=resolutions
+
+googlesindicate.com
+bacbook.online
+bigbrotherrr.fun
+hinlen.shop
+kiberr.online
+merjen.online
+pasba.online
+selbi.online
+strpe.icu
+host.hinlen.shop
+host.pasba.online
+host.selbi.online
+mail.strpe.icu
+
+# Reference: https://x.com/sdcyberresearch/status/1858833533663383856
+# Reference: https://x.com/sdcyberresearch/status/1901660073451000062
+
+ads-check-v5g3dyhvdq-uc.a.run.app
+ads-checking-v5g3dyhvdq-uc.a.run.app
+ads-collect-v5g3dyhvdq-uc.a.run.app
+ads-collecting-v5g3dyhvdq-uc.a.run.app
+ads-data-verify-v5g3dyhvdq-uc.a.run.app
+ads-google-verification-v5g3dyhvdq-uc.a.run.app
+ads-suggest-v5g3dyhvdq-uc.a.run.app
+ads-suggesting-v5g3dyhvdq-uc.a.run.app
+ads-v5g3dyhvdq-uc.a.run.app
+
+# Reference: https://x.com/sdcyberresearch/status/1902756680330346911
+
+fbanalyt.com
+seostat.ltd
+trustplots.com
 
 # Generic
 

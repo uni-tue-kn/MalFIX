@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 .cc
@@ -11,6 +11,14 @@
 .cf
 .gq
 .icu
+
+# Reference: https://github.com/search?q=repo%3Astamparm%2Fmaltrail%20sbs&type=code
+
+.sbs
+
+# Reference: https://github.com/search?q=repo%3Astamparm%2Fmaltrail+%22.xin%22&type=code
+
+.xin
 
 # Reference: http://www.freenom.com/en/index.html
 
@@ -2061,7 +2069,6 @@ d-game.com
 d-km.info
 d.am
 d.is
-d.to
 d.web.id
 dagio.tw
 danciu.ro

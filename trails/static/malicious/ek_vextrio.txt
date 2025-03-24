@@ -1,5 +1,7 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
+
+# Aliases: lospollos
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-23-v10512/1313
 
@@ -15,8 +17,10 @@ webdatatrace.com
 womanflirting.life
 
 # Reference: https://blogs.infoblox.com/cyber-threat-intelligence/cybercrime-central-vextrio-operates-massive-criminal-affiliate-program/
+# Reference: https://insights.infoblox.com/resources-research-report/infoblox-research-report-dns-predators-attack-vipers-hawks-hijack-sitting-ducks-domains
 
 antibotcloud.com
+antibotcloudapi.com
 clicksme.org
 hixastump.com
 megastok.top
@@ -25,9 +29,99 @@ strouchridun.top
 superbowsm.top
 supersbows.us
 tomorrows.top
+vipshopevent.su
 d.strouchridun.top
 go.clicksme.org
 tiktok.megastok.top
 tiktok.superbowsm.top
 tiktok.supersbows.us
 tiktok.tomorrows.top
+
+# Reference: https://blogs.infoblox.com/threat-intelligence/vextrio-viper-adds-a-new-dns-tds-domain/
+
+airlogs.net
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-11-12-v10740/2133
+
+omenkid.top
+
+# Reference: https://www.godaddy.com/resources/news/dollyway-world-domination
+
+coinsboostbonus.top
+hot-gays-quest.life
+myhot-cams.life
+romancezone.one
+topawardpicks.top
+your-bigprofit.top
+yourspacegain.top
+agained.cfd
+anariding.site
+anoneth.fun
+approviding.store
+brehmed.cfd
+brehmed.sbs
+chanism.cfd
+chanism.sbs
+chellor.cfd
+cngsby.cfd
+cngsby.sbs
+crellar.cfd
+crellar.sbs
+cudwork.cfd
+curvive.space
+debayon.sbs
+econd.cfd
+eithert.cfd
+ffiftringg.sbs
+goalked.cfd
+lantial.cfd
+lantial.us
+mcgonal.cfd
+participates.cfd
+pedancy.fun
+postume.cfd
+reorgedt.fun
+reorget.cfd
+retiont.space
+secamondareeng.space
+secreeng.space
+spindexed.site
+threath.cfd
+threath.sbs
+unroose.space
+abstracts.cngsby.cfd
+admirable.brehmed.cfd
+adventure.lantial.cfd
+alignment.econd.cfd
+artistry.cngsby.sbs
+barometer.unroose.space
+breakfast.ffiftringg.sbs
+composure.pedancy.fun
+configure.crellar.cfd
+constructive.curvive.space
+constructive.lantial.us
+dalopt.participates.cfd
+discovered.secamondareeng.space
+expedient.eithert.cfd
+framework.chellor.cfd
+framework.reorget.cfd
+framework.retiont.space
+ity.anoneth.fun
+keenram.anariding.site
+landscape.chanism.sbs
+landscape.goalked.cfd
+landslide.postume.cfd
+mainframe.crellar.sbs
+methodical.reorgedt.fun
+momentous.debayon.sbs
+oldoak.spindexed.site
+overload.threath.sbs
+premiumservices.approviding.store
+procedure.secreeng.space
+resonance.agained.cfd
+streaming.threath.cfd
+tavux.participates.cfd
+transmit.chanism.cfd
+tremendous.mcgonal.cfd
+vintage.brehmed.sbs
+workbench.cudwork.cfd

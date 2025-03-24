@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Generic detection for compromised WordPress CMS
@@ -709,6 +709,7 @@ trstat.trackstatisticsss.com
 # Reference: https://twitter.com/unmaskparasites/status/1235190676838633477
 
 collectfasttracks.com
+dest.collectfasttracks.com
 
 # Reference: https://twitter.com/felixaime/status/1278600095538262017 (# WPScriptInjection)
 # Reference: https://twitter.com/felixaime/status/1278602674401955846
@@ -1478,6 +1479,7 @@ denzzzelwashington.com
 destinyfernandi.com
 dexterfortune.com
 donaldbackinsky.com
+fast.destinyfernandi.com
 followmyfirst1.com
 generallocationgo.com
 giantttraffic.com
@@ -1502,6 +1504,7 @@ redlabellondon.com
 redrelaxfollow.com
 requestfor4.com
 resolutiondestin.com
+scripts.trasnaltemyrecords.com
 slow.destinyfernandi.com
 speakwithjohns.com
 specialthankselsa.com
@@ -5970,6 +5973,94 @@ patilcomputers.com/wp-content/themes/shopic-child/css.php
 shop.care.pistoia.it/wp-content/languages/css.php
 thepioneerbank.com/wp-content/themes/twentytwentytwo/css.php
 
+# Reference: https://www.linkedin.com/posts/aaronmeese_linkedin-is-allowing-some-very-sktetchy-stuff-activity-7304884331821359105-fwtL
+# Reference: https://app.validin.com/detail?find=91.204.209.201&type=ip4&ref_id=46f254742b1#tab=resolutions
+# Reference: https://www.virustotal.com/gui/file/3b0474d63633b76cbdcd6e53eac5e87bca46c736e3e94b2d6221b7a662ea97ac/detection
+# Reference: https://www.virustotal.com/gui/file/4fc89c5a2d28d6c02ed9ce131ed78586744723c8a9144ba3b601029b510d25d9/detection
+# Reference: https://www.virustotal.com/gui/file/6eeaed83e4f490be631b435cd8a34b33996f562ce7cf874821c5c8a51500948b/detection
+# Reference: https://www.virustotal.com/gui/file/aae9dbe9005be632a2e2a95e13a83652155946c95f66e7c00e24641023845956/detection
+# Reference: https://www.virustotal.com/gui/file/d5868c7d17c071f8e3f9b1fcc6d349c6c7d2b9c9b71a53f8a8a34bbdb4ca66e6/detection
+# Reference: https://www.virustotal.com/gui/file/f13b5c7d4c6882f41eea64c5738aeaa7b5d9e61421c9c3727c0a04a969886115/detection
+
+activeejobs.xyz
+activejobs.xyz
+ahadjobs.us
+applycareer.us
+applyjobus.us
+bestactivejobs.us
+bestjobs4u.site
+bestjobshere.xyz
+career.ahadjobs.us
+career.applyjobus.us
+career.enoovia.us
+career.findusjobs.us
+career.indeeo.us
+career.jobdewa.site
+career.jobnotify.us
+career.jobsigma.site
+career.mycareers.us
+career.open2work.site
+career2guru.site
+careeractive.xyz
+careeractives.xyz
+careeradvisory.site
+careerguru.us
+careers.jobmarketing.site
+careersigma.site
+careersstart.site
+desirejobs.xyz
+findajobs.us
+findopenwork.site
+findusjobs.us
+fromusjobs.us
+hello1jobs.xyz
+hellomyjob.us
+indeedcareer.site
+itactivejobs.xyz
+job.careerguru.us
+job.opencareer.us
+jobadvisory.us
+jobapplyhere.site
+jobbulider.us
+jobcareerss.us
+jobdewa.site
+jobmarketing.site
+jobmaster.site
+jobnotify.us
+jobs.applycareer.us
+jobs.career2guru.site
+jobs.careeradvisory.site
+jobs.careersigma.site
+jobs.findopenwork.site
+jobs.indeedcareer.site
+jobs.jobmaster.site
+jobs.nationaljob.us
+jobs.opencareer.site
+jobs.prwisha.us
+jobs.rozee.site
+jobs4you.site
+jobseekers.site
+jobshub.us
+jobsigma.site
+jobsmood.xyz
+mybestjob.xyz
+mycareers.us
+myfirsttjob.xyz
+nationaljob.us
+newcompanyjobs.us
+newyearjobs.us
+open2work.site
+open2work.us
+opencareer.site
+opencareer.us
+openforjob.us
+openforjob.xyz
+papularjobs.xyz
+usjobcenter.us
+usprivatejobs.site
+workfornew.xyz
+workfromhouse.xyz
+
 # Reference: https://www.wordfence.com/blog/2024/06/supply-chain-attack-on-wordpress-org-plugins-leads-to-5-maliciously-compromised-wordpress-plugins/
 # Reference: https://www.virustotal.com/gui/file/6c5ee295cec9a1f4518d2f9c12d53251c7b53a1cff3e9d3bd2d01ad03b99df81/detection
 # Reference: https://www.virustotal.com/gui/file/28e145ad13289cbd819ce730f673b27c8b9d49c5488a3796de24eb0f775353c6/detection
@@ -6285,3 +6376,195 @@ tuggest.space
 crypt.tuggest.space
 like.tuggest.space
 tuto.tuggest.space
+
+# Reference: https://x.com/g0njxa/status/1869006978976301540
+# Reference: https://app.validin.com/detail?find=57e79ecb3411edc5e929bf8cda104bde&type=hash&ref_id=ca11cd099d6#tab=host_pairs (# 2024-12-17)
+
+authmycookie.com
+cverifier.top
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-10-24-v10727/2074
+# Reference: https://www.virustotal.com/gui/ip-address/134.209.139.16/relations
+
+brodirect10s.com
+brodirect4s.site
+brodirect5s.site
+brodirect8s.com
+brodownload4s.site
+brodownload5s.site
+brodownloads5s.site
+brogetcode10s.cc
+brogetcode8s.cc
+brolink4s.site
+brolink5s.site
+broluckycode4s.site
+broluckycode5s.site
+bromusic5s.site
+broredir4s.site
+broredir5s.site
+brovideos4s.site
+brovideos5s.site
+broweb4s.site
+broweb5s.site
+topwebsites3d.com
+videoforyou3d.com
+yourbestbro3s.site
+yourbestbro4s.site
+yourbestbro5s.site
+yourbrolink3d.com
+yourbrolink4d.com
+
+# Reference: https://raw.githubusercontent.com/Gi7w0rm/MalwareConfigLists/refs/heads/main/BaladaInjector/balada_all.txt
+
+browork2er.cc
+browork3er.cc
+broworker1s.com
+broworker4s.com
+broworker5s.com
+broworker6s.com
+broworker7.com
+broworker8s.com
+broworkers5s.com
+
+# Reference: https://cside.dev/blog/over-5k-wordpress-sites-caught-in-wp3xyz-malware-attack
+# Reference: https://www.virustotal.com/gui/file/6cdb4f3e5285e2bad3b82893e600167ed178514a81d7db84e266c59a6666ae9b/detection
+
+wp3.xyz
+
+# Reference: https://x.com/cyberfeeddigest/status/1893923236225687947
+
+/wp-admin/0.txt
+
+# Reference: https://blog.sucuri.net/2025/02/fake-wordpress-plugin-impacts-seo-by-injecting-casino-spam.html
+
+jsscript.top
+
+# Reference: https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack
+# Reference: https://app.validin.com/detail?find=ebac4decceffd560ddf0c48c1e45534c&type=hash&ref_id=5eba2f6f756#tab=host_pairs (# 2025-03-06)
+
+cloudsyndication.bz
+cloudsyndication.cc
+cloudsyndication.club
+cloudsyndication.dev
+cloudsyndication.me
+cloudsyndication.org
+cloudsyndication.to
+cloudsyndication.xyz
+csyndication.com
+dke.me
+incdn.me
+protocolcdn.com
+sonicloud.org
+syndication.bz
+ak.dke.me
+aka.cloudsyndication.dev
+api.incdn.me
+cdn.csyndication.com
+cloud.syndication.bz
+information.cloudsyndication.dev
+information.cloudsyndication.org
+pagead2.csyndication.com
+tx.dke.me
+
+# Reference: https://pilot.validin.com/detail?find=e58f78e85f2e3af9350dd7d1c909a95f&type=hash&ref_id=6ccab8d90f1#tab=host_pairs (# 2025-03-06)
+
+instantcontentflow.com
+gll.instantcontentflow.com
+
+# Reference: https://www.virustotal.com/gui/file/8b589439b8514759aa6fb9936ab698ca7e7acbbf56c88b160c8d5c949b78e78f/detection
+
+swiftstreamhub.com
+cloud.swiftstreamhub.com
+
+# Reference: https://x.com/unmaskparasites/status/1899528917519884550
+# Reference: https://www.virustotal.com/gui/ip-address/154.62.226.44/relations
+# Reference: https://www.virustotal.com/gui/file/02737ffc9a2c33741945a5e5fc832913d14c2f418925da298f2a7df03092a98d/detection
+
+api-cdn.icu
+apipanel1x.xyz
+iogamesl.xyz
+jquery.bond
+schemapi.com
+wp-cdn.top
+cdn.schemapi.com
+mail.apipanel1x.xyz
+mail.wp-cdn.top
+
+# Reference: https://www.virustotal.com/gui/file/0d0feed4ce01f8f94624cd4f02e8871468a54a22de83fc8d448978a5c3e2e67f/detection
+# Reference: https://www.virustotal.com/gui/file/c45eafcd560a0351e53b1cfcacc2dd8680d886082b7b637090e49149c7ee7197/detection
+
+spelldeterrent.com
+
+# Reference: https://x.com/malwrhunterteam/status/1898285268647444952
+# Reference: https://www.virustotal.com/gui/file/d2469fa3615ca83da082ccc41da9ff7a4913257af5f977e78e3f27154559c45f/detection
+# ReferencE: https://www.virustotal.com/gui/file/c59fb533002f7a7db4c4cde96d7debc5c9d96fd55881d333a12f6b7ea39683e5/detection
+# Reference: https://www.virustotal.com/gui/file/ab2d99b8086c52141025dc1430d06337e754e0fa9a9989e7f24b7cfd0be52561/detection
+# Reference: https://www.virustotal.com/gui/file/a10dc6149fa3610bd4a78e0db784e918e428c37b8d10dcce21523cdb6bfb9810/detection
+# Reference: https://www.virustotal.com/gui/file/a09721158214a0fc57471a78fe1606bf095a683d2c6c124f01be10e64e568297/detection
+# Reference: https://www.virustotal.com/gui/file/6e7ba7c9f76bbdc9a4babf68bb41d2375b19c5f01f456b381b8974ad07311bd1/detection
+# Reference: https://www.virustotal.com/gui/file/2c4d09e941105fff3bdbde7cf6f72be55a881a14bc5e0a3efcd3efeee92e17af/detection
+# Reference: https://www.virustotal.com/gui/file/1339a8867e8f04e12cc7543c548a33ac7b94dcba591e2da8b9ae2df24687c99e/detection
+
+107.189.29.12:60001
+
+# Reference: https://www.virustotal.com/gui/domain/profitablecpmrate.com/detection
+
+profitablecpmrate.com
+
+# Reference: https://www.virustotal.com/gui/domain/highperformanceformat.com/relations
+
+highperformanceformat.com
+
+# Reference: https://www.godaddy.com/resources/news/dollyway-world-domination
+# Reference: https://www.virustotal.com/gui/file/118a9b810110712beb8ccaf88619fd5971f95fd37d0d920e2db6163bc57438c2/detection
+
+blackentertainments.com
+blueeyeswebsite.com
+cdnwebsiteforyou.biz
+deliverygoodstrategy.com
+dontstopthismusics.com
+2fdrop.dontstopthismusics.com
+analytics.cdnwebsiteforyou.biz
+comdrop.dontstopthismusics.com
+cyoudrop.dontstopthismusics.com
+drop.blackentertainments.com
+drop.dontstopthismusics.com
+for.dontstopthismusics.com
+m.blackentertainments.com
+survey.blackentertainments.com
+
+# Reference: https://www.virustotal.com/gui/file/46809acf183bde3b94d3d2fc9e86c2848e68b4626f2c233920e673de041aed39/detection
+# Reference: https://www.virustotal.com/gui/file/53f9aaa6f757a90d56032f29e2a300922fd3f28911f8c18da087f8b7989eb0d3/detection
+# Reference: https://www.virustotal.com/gui/file/19b7dd9117c51bc7d2998e3b37daa0d411e083c4345f5a052e59c75bd692b5df/detection
+
+deliverynotforme.best
+developfirstline.com
+developfirstlineх.com
+togetherforwine.com
+0.deliverynotforme.best
+0.togetherforwine.com
+1.deliverynotforme.best
+2.deliverynotforme.best
+3.deliverynotforme.best
+8.togetherforwine.com
+load.developfirstline.com
+track.developfirstline.com
+track.developfirstlineх.com
+
+# Reference: https://www.virustotal.com/gui/domain/a11ybar.com/relations
+# Reference: https://www.virustotal.com/gui/domain/ian029dkl3osl930sian.club/relations
+# Reference: https://app.any.run/tasks/f37643ac-aa48-480e-b320-d94a13ff0fc3
+
+a11ybar.com
+ian029dkl3osl930sian.club
+api.ian029dkl3osl930sian.club
+media.ian029dkl3osl930sian.club
+sdk.ian029dkl3osl930sian.club
+a11ybar.a11ybar.com
+admin.a11ybar.com
+api.a11ybar.com
+app.a11ybar.com
+auth.a11ybar.com
+secure-prod.a11ybar.com
+secure.a11ybar.com
+url9476.a11ybar.com

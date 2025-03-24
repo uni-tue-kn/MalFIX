@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 See the file 'LICENSE' for copying permission
 """
 
@@ -1016,7 +1016,7 @@ def init():
         except re.error:
             sys.exit("[!] invalid configuration value for 'REMOTE_SEVERITY_REGEX' ('%s')" % config.REMOTE_SEVERITY_REGEX)
 
-    if config.CAPTURE_FILTER and not config.ipfix:
+    if config.CAPTURE_FILTER and not config.pcap_file and not config.ipfix:
         print("[i] setting capture filter '%s'" % config.CAPTURE_FILTER)
         for _cap in _caps:
             try:

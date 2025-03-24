@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://blog.alyac.co.kr/2347
@@ -4486,96 +4486,6 @@ g1thubassets.com
 /xZ7MnwtJIAkN5hy.php
 /zDz0PTXDToNLA.php
 
-# Reference: https://twitter.com/MaelSecurity/status/1388976425504497669
-# Reference: https://twitter.com/MaelSecurity/status/1388977826431438851
-# Reference: https://www.virustotal.com/gui/ip-address/139.45.197.236/relations
-
-1phads.com
-abbronzongor.com
-abdurantom.com
-agavanilliteom.com
-amarceusan.com
-ammankeyan.com
-atmetagrossan.com
-becuboneor.com
-bejolteonor.com
-beludicolor.com
-beonixom.com
-betnoctowlor.com
-betshucklean.com
-billionstarads.com
-blatwalm.com
-buylnk.com
-cobalten.com
-constintptr.com
-couptoug.net
-dolohen.com
-domankeyan.com
-done.witchcraftcash.com
-dooloust.net
-ducmissy.com
-dupelipperan.com
-dutorterraom.com
-eefoathy.com
-eikegolehem.com
-glixaing.com
-go.deliverymodo.com
-go.mobtrks.com
-go.oclaserver.com
-grimsaiy.com
-hemtatch.net
-hothoomu.net
-ichimaip.net
-inhonedgean.com
-itroggenrolaa.com
-jewhouca.net
-jomtingi.net
-kikoosso.net
-louchees.net
-luxlnk.com
-mobpushup.com
-my.rtmark.net
-offalakazaman.com
-ofgogoatan.com
-omareeper.com
-onclkds.com
-onsolrockon.com
-onstunkyr.com
-opgolan.com
-oufauthy.net
-ousseghu.net
-overgalladean.com
-ozongees.com
-pheghoug.net
-phooreew.net
-poosoahe.com
-prestoris.com
-ravaquinal.com
-riluaneth.com
-shunguts.com
-storylnk.com
-stremanp.com
-survey2you.com
-takelnk.com
-tozoruaon.com
-unelekidan.com
-unrotomon.com
-upshroomishtor.com
-uselnk.com
-vexacion.com
-vigraghe.net
-whihauve.net
-whowhipi.net
-wonderlandads.com
-ww2.ceesty.com
-ww2.clkmein.com
-ww2.corneey.com
-ww2.destyy.com
-ww2.festyy.com
-ww2.gestyy.com
-ww2.sh.st
-yttompthree.com
-
 # Reference: https://gist.github.com/silence-is-best/852a1c7c7dcf29fdc8d5df73433e7676
 
 /0b03976abf4fd3.php
@@ -8630,14 +8540,6 @@ gatetodisplaycontent.com
 
 /cookienetbookinetcahce.hta
 
-# Reference: https://x.com/byrne_emmy12099/status/1856178461515362623
-# Reference: https://www.virustotal.com/gui/file/36db27f5eb3343cfc72d261d78da44957a49cb6731acb50a96ea5694f4d616c5/detection
-
-/wp-includes/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEK.php
-/wp-includes/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEKb1.php
-/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEK.php
-/b1tuZmhqZXJbaGZkYmdhbmFkZmhyZmEKb1.php
-
 # Reference: https://x.com/cyberfeeddigest/status/1858258809778507868
 
 /emotewipe.ps1
@@ -8669,6 +8571,147 @@ gatetodisplaycontent.com
 # Reference: https://x.com/banthisguy9349/status/1866121920808419751
 
 /!HELP_SOS.hta
+
+# Reference: https://isc.sans.edu/diary/Exploit+attempts+for+unpatched+Citrix+vulnerability/31446
+
+/script_xen80-mix.php
+
+# Reference: https://x.com/x86rax/status/1871278843404894464
+# Reference: https://x.com/ViriBack/status/1871287287860146425
+
+/euqhdsvm.php
+/gkkglqfm.php
+/lheqfjem.php
+/ljlgmtqf.php
+
+# Reference: https://x.com/ValidinLLC/status/1873676244392571286
+# Reference: https://www.validin.com/blog/tycoon_2fa_analyzing_and_hunting_phishing-as-a-service_domains/
+
+/res444.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1874365729832870023
+# Reference: https://www.virustotal.com/gui/file/e35d7ef701e2a95c6a9f13e379aeb8aac96dd99573e02d87daee3dd120322bce/detection
+# Reference: https://www.virustotal.com/gui/file/5d8b55532cda3855a8211e70366648a22ef5193dd36931fa61e3393290c2ada9/detection
+
+/trwsfg.ps1
+/vfrcxq.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1875599493967835437
+
+/beans_shel.xml
+/beans_shel1.xml
+/beans_shel2.xml
+/beans_shel3.xml
+/beans_shel4.xml
+/beans_shell.xml
+
+# Reference: https://x.com/Slvlombardo/status/1879619287440413112
+
+/rtaownnow/rrrtttmmmw.php
+/rtaownnow/
+/rrrtttmmmw.php
+
+# Reference: https://x.com/malwrhunterteam/status/1887071048455139621
+
+/PWS.vbs
+/pws1.vbs
+/startupppp.bat
+
+# Reference: https://x.com/solostalking/status/1889733513173172414
+
+/dajkod.ps1
+
+# Reference: https://x.com/JAMESWT_MHT/status/1890017207633293440
+
+/T5Y2B6V32C/index05485643214.php
+/index05485643214.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1403883/
+
+/api/get/inj
+/api/get/inject
+/api/get/injector
+
+# Reference: https://x.com/Merlax_/status/1893073216400248974
+
+/cjFuHeYmH01c.html
+/dZAohJEYH01J.html
+/gIbojmsyvH01b.html
+/latigFcmH01M.html
+/myKOJmrYoNIuIH01J.html
+/sQNFyCTHftJH01X.html
+
+# Reference: https://x.com/malwrhunterteam/status/1893968102259396881
+
+/sfsdfikcdfti9/tsync.bat
+/sfsdfikcdfti9/
+
+# Reference: https://x.com/csideai/status/1892594410149318692
+# Reference: https://cside.dev/blog/over-35-000-websites-targeted-in-full-page-hijack-linking-to-a-chinese-language-gambling-scam
+# Reference: https://app.validin.com/detail?find=db4adf52b330ca1061ff0ef44ef9cdf9&type=hash&ref_id=3d0262671fd#tab=host_pairs (# 2025-02-24)
+
+/m_c_b28cd5c86f08a2b35c766fc4390924de.js
+/go/kaiyun1/ky.html
+/js/24/12/7/ky1.js
+/js/25/1/8/ky1.js
+/js/25/2/y/ky3.js
+
+# Reference: https://x.com/malwrhunterteam/status/1898285268647444952
+# Reference: https://www.virustotal.com/gui/file/d2469fa3615ca83da082ccc41da9ff7a4913257af5f977e78e3f27154559c45f/detection
+# ReferencE: https://www.virustotal.com/gui/file/c59fb533002f7a7db4c4cde96d7debc5c9d96fd55881d333a12f6b7ea39683e5/detection
+# Reference: https://www.virustotal.com/gui/file/ab2d99b8086c52141025dc1430d06337e754e0fa9a9989e7f24b7cfd0be52561/detection
+# Reference: https://www.virustotal.com/gui/file/a10dc6149fa3610bd4a78e0db784e918e428c37b8d10dcce21523cdb6bfb9810/detection
+# Reference: https://www.virustotal.com/gui/file/a09721158214a0fc57471a78fe1606bf095a683d2c6c124f01be10e64e568297/detection
+# Reference: https://www.virustotal.com/gui/file/6e7ba7c9f76bbdc9a4babf68bb41d2375b19c5f01f456b381b8974ad07311bd1/detection
+# Reference: https://www.virustotal.com/gui/file/2c4d09e941105fff3bdbde7cf6f72be55a881a14bc5e0a3efcd3efeee92e17af/detection
+# Reference: https://www.virustotal.com/gui/file/1339a8867e8f04e12cc7543c548a33ac7b94dcba591e2da8b9ae2df24687c99e/detection
+
+/getdatapass7bakpro.php
+/getdatapass7baktest.php
+/getdatapass7baktest88.php
+/getdatapass7ok.php
+/getdatapassmain.php
+/getdatapassqiang.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1899020613701742638
+
+/50MJLUM311KPUPO3/index.php
+
+# Reference: https://x.com/CreateFileInt_/status/1899088994090000727
+
+/api/rastreamento.php?cpf=
+/liberacao/rastreamento.php?cpf=
+/v2/rastreamento.php?cpf=
+/rastreamento.php?cpf=
+
+# Reference: https://x.com/salmanvsf/status/1901517210260062360
+# Reference: https://www.virustotal.com/gui/file/d4e60f44103331275740326b4e6016a5f9f84ee2cfb0c2149f9b90530b21e6ef/detection
+
+/Win1234.js
+
+# Reference: https://x.com/karol_paciorek/status/1902455994741092501
+
+/kuipz5q2vg46.js
+
+# Reference: https://x.com/skocherhan/status/1903173695922655248
+
+/devil.ps1
+/GUYBIN.ps1
+/KENNNTTT.ps1
+/kenttt.ps1
+/MULK.ps1
+/STEPH.ps1
+/xenn.ps1
+/YG.ps1
+
+# Reference: https://x.com/ShanHolo/status/1902659366051835914
+
+/bestexperienceigotfromtheworldfromthegood.hta
+
+# Reference: https://x.com/ShanHolo/status/1902639209153769953
+# Reference: https://www.virustotal.com/gui/file/483b97a047188b7140cf3075506576df8b3300ffa13049405be934d5084fddda/detection
+
+/givenmebestthingsentiretimetogivemebestof.hta
 
 # Generic
 
@@ -8755,6 +8798,7 @@ gatetodisplaycontent.com
 /gggate.php
 /gAy5B.php
 /Invoke-Phant0m.ps1
+/jqwery.js
 /online-dating-verification-card.php
 /ravufgate.php
 /screenshot_gate.php

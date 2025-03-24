@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: browlock
@@ -21677,3 +21677,24 @@ vtgbcxds1-secondary.z11.web.core.windows.net
 
 /Wi0n62HelpErr0Amr062/index.html
 /Wi0n62HelpErr0Amr062/
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4953
+
+http://85.26.146.169
+glousism.co.in
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4989
+
+ucapsidop.info
+
+# Reference: https://x.com/illegalFawn/status/1889238901723652532
+# Reference: https://app.validin.com/detail?find=45.134.26.44&type=ip4&ref_id=2264c066568#tab=resolutions (# 2025-02-11)
+
+aeludi.cyou
+illudi.cyou
+inludi.cyou
+saludi.cyou
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5465
+
+ios-privacy.com

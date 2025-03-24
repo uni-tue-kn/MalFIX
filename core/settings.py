@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 See the file 'LICENSE' for copying permission
 """
 from __future__ import print_function
@@ -23,7 +23,7 @@ from core.trailsdict import TrailsDict
 from thirdparty.six.moves import urllib as _urllib
 
 NAME = "Maltrail"
-VERSION = "0.76"
+VERSION = "0.79"
 HOMEPAGE = "https://maltrail.github.io"
 PLATFORM = os.name
 IS_WIN = PLATFORM == "nt"
@@ -158,28 +158,8 @@ def _get_total_physmem():
 
     try:
         if IS_WIN:
-            import ctypes
-
-            kernel32 = ctypes.windll.kernel32
-            c_ulong = ctypes.c_ulong
-
-            class MEMORYSTATUS(ctypes.Structure):
-                _fields_ = [
-                    ('dwLength', c_ulong),
-                    ('dwMemoryLoad', c_ulong),
-                    ('dwTotalPhys', c_ulong),
-                    ('dwAvailPhys', c_ulong),
-                    ('dwTotalPageFile', c_ulong),
-                    ('dwAvailPageFile', c_ulong),
-                    ('dwTotalVirtual', c_ulong),
-                    ('dwAvailVirtual', c_ulong)
-                ]
-
-            memory_status = MEMORYSTATUS()
-            memory_status.dwLength = ctypes.sizeof(MEMORYSTATUS)
-            kernel32.GlobalMemoryStatus(ctypes.byref(memory_status))
-
-            retval = memory_status.dwTotalPhys
+            output = subprocess.check_output(['wmic', 'computersystem', 'get', 'TotalPhysicalMemory'], universal_newlines=True)
+            retval = int(output.strip().splitlines()[-1].strip())
         else:
             retval = 1024 * int(re.search(r"(?i)MemTotal:\s+(\d+)\skB", open("/proc/meminfo").read()).group(1))
     except:
